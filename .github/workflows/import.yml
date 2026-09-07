@@ -3,7 +3,11 @@ on:
   workflow_dispatch:
     inputs:
       archive_sha256:
-        description: SHA-256 dell'archivio sorgente verificato
+        description: SHA-256 dell’archivio verificato
+        required: true
+        type: string
+      base_sha:
+        description: Commit main verificato prima dell’aggiornamento
         required: true
         type: string
 permissions:
@@ -15,17 +19,21 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Scarica la base di lavoro
+      - name: Verifica la base della modifica
+        env:
+          EXPECTED_BASE: ${{ inputs.base_sha }}
+        run: test "$(git rev-parse HEAD)" = "$EXPECTED_BASE"
+      - name: Scarica i disegni e i documenti aggiornati
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release download v1.0.0 --repo "$GITHUB_REPOSITORY" --pattern atlante-fatica-source.zip --dir "$RUNNER_TEMP"
+        run: gh release download v1.1.0 --repo "$GITHUB_REPOSITORY" --pattern atlante-fatica-redraw.zip --dir "$RUNNER_TEMP"
       - name: Verifica ed estrai i file autorizzati
         env:
           EXPECTED_SHA256: ${{ inputs.archive_sha256 }}
         shell: python
         run: |
           import hashlib, os, pathlib, zipfile
-          archive = pathlib.Path(os.environ["RUNNER_TEMP"]) / "atlante-fatica-source.zip"
+          archive = pathlib.Path(os.environ["RUNNER_TEMP"]) / "atlante-fatica-redraw.zip"
           expected = os.environ["EXPECTED_SHA256"].strip().lower()
           assert len(expected) == 64
           assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
@@ -42,12 +50,12 @@ jobs:
                   target = (root / str(p)).resolve()
                   assert target.is_relative_to(root)
                   z.extract(info, root)
-      - name: Conserva documenti, dati e sito nella repository
+      - name: Conserva il catalogo ridisegnato
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets data docs scripts sources web README.md llms.txt llms-full.txt requirements.txt requirements-build.txt .gitignore
           if ! git diff --cached --quiet; then
-            git commit -m "Digitalizza il corpus sulla fatica con fonti, dettagli e sito"
+            git commit -m "Ridisegna 245 dettagli di fatica in SVG a colori"
             git push origin HEAD:main
           fi
