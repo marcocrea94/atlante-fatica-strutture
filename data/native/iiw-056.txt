@@ -1,0 +1,36 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+311                                          Automatic longitudinal seam welds wit-  125    50
+                                                hout stop/start positions in hollow sec-
+                                                       tions
+
+                                                with stop/start positions               90     36
+
+
+
+312                                              Longitudinal butt weld, both sides       125    50
+                                             ground flush parallel to load direction
+
+
+
+
+
+313                                              Longitudinal butt weld, without         125    50
+                                                          stop/start positions, NDT
+
+                                                with stop/start positions               90     36
+
+
+
+
+321                                           Continuous automatic longitudinal fully  125    50    No start-Stop position is permitted except when the re-
+                                                   penetrated K-butt weld without stop/-                       pair is performed by a specialist and inspection is car-
+                                                              start positions (based on stress range in                     ried out to verify the proper execution of the weld.
+                                                    flange) NDT
+
+
+
+
+
+                                                       page 56

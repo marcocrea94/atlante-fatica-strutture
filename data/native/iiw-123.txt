@@ -1,0 +1,40 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+contour from the extreme of the entire signal leads to a half cycle. Reservoir counting is similar.
+
+
+
+
+
+Fig. (6.1)-2 Illustration of rainflow counting
+
+6.2 FRACTURE MECHANICS
+
+6.2.1 Rapid Calculation of Stress Intensity Factors
+
+A simplified method may be used to determine Mk-factors [4-7]. Here, the Mk-factors are
+derived from the non-linear stress peak distribution Fnlp(x) along the anticipated crack path x
+assuming no crack being present. Hence, the function of the stress concentration factor kt,nlp(x)
+can be calculated. The integration for a certain crack length a yields:
+
+
+
+
+
+For different crack lengths a, a function Mk(a) can be established, which is preferably presented
+in the form:
+
+
+
+
+
+6.2.2 Dimensions of Cracks
+
+Tab. {6.2}-1: Dimensions for assessment of crack-like imperfections (example)
+
+  Idealizations and dimensions of crack-like imperfection for fracture mechanics assessment
+  procedure (t = wall thickness).
+
+
+                                    page 123

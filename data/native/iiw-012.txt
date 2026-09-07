@@ -1,0 +1,17 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+ Structural stress
+ concentration factor        The ratio of structural (hot spot) stress to modified (local)
+                          nominal stress.
+
+ Structural hot spot stress    The value of structural stress on the surface at a hot spot.
+
+ Variable amplitude loading A type of loading causing irregular stress fluctuation with
+                                 stress ranges (and amplitudes) of variable magnitude.
+
+
+
+
+
+                                     page 12

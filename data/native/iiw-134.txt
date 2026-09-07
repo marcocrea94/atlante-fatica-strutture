@@ -1,0 +1,43 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+ 4     Angular misalignment between flat plates
+
+                                        Assuming fixed ends:
+
+
+
+
+
+                                           assuming pinned ends:
+
+
+
+
+
+       The tanh correction allows for reduction of angular misalignement due to the
+         straightening of the joint under tensile loading. It is always #1 and it is conservati-
+        ve to ignore it.
+
+ 5     Angular misalignment at longitudinal joints in cylindrical shells
+
+                                        Assuming fixed ends:
+
+
+
+
+
+                                           assuming pinned ends:
+
+
+
+
+
+       d is the deviation from the idealized geometry
+
+
+
+
+
+                                    page 134

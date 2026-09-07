@@ -1,0 +1,55 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+  Material                               Load-carrying fillet    Non-Load-carrying fillet
+                                            welds                  welds
+
+ Mild steel, fu < 350 MPa                    112                  125
+
+ Higher strength steel, fu > 350 MPa            125                  140
+
+ Aluminium alloys                          45                   50
+
+
+
+
+3.5.3.4 TIG Dressing
+
+By TIG (tungsten inert gas) dressing, the weld toe is remolten in order to remove the weld toe
+undercut or other irregularities and to smoothen the stress concentration of the weld transition.
+The recommendations apply to partial or full penetration arc welded fillet welds in steels with
+a specified yield strength up to 900 MPa and to wall thicknesses >= 10 mm operating non-
+corrosive environment or under conditions of corrosion potection. The details of the procedure
+are described in ref. [5-2].
+
+Tab. 3.5-2a: Benefit factors on stress of TIG dressing
+             Area of application                Mild steel       Steel fy $ 355 MPa
+                                                   fy < 355 MPa   & aluminium alloys
+
+ All structural details leading to a IIW fatigue           1.3                  1.5
+  class of 90 at steel or lower, or 40 at alumini-                                   (1.3*)
+ um or lower. No higher class than 100 at steel
+  or 40 at aluminium. Butt joints to be assessed
+ by the nominal stress fatigue class.
+* For transverse fillet welds at continous plates, corresponding to FAT 80 at steel and FAT 28
+at aluminium in the catalogue of details
+
+Tab. 3.5-2b: FAT classes for structural hot-spot stress at joints improved by TIG dressing
+
+  Material                               Load-carrying fillet    Non-Load-carrying fillet
+                                            welds                  welds
+
+ Mild steel, fu < 350 MPa                    112                  125
+
+ Higher strength steel, fu > 350 MPa            125                  140
+
+ Aluminium alloys                          45                   50
+
+
+3.5.3.5 Hammer Peening
+
+By hammer peening, the material is plastically deformed at the weld toe in order to introduce
+beneficial compressive residual stresses. The recommendation is restricted to steels with a
+
+                                    page 86

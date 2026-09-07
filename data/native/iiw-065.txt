@@ -1,0 +1,32 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+513                                            Non-loadcarrying rectangular or circu-
+                                                            lar flat attachments or studs
+                                                Non-loadcarrying studs, as welded
+
+                                   L # 50 mm                         80     28
+                                   L >50 and # 150 mm                 71     25
+                                   L >150 and # 300 mm                63     20
+                                   L > 300 mm                        50     18
+
+
+
+
+514                                             Trapezoidal stiffener to deck plate, full   71     25
+                                                    penetration butt weld, calculated on
+                                                     basis of stiffener thickness, out of plane
+                                              bending
+
+
+
+
+515                                             Trapezoidal stiffener to deck plate, fillet  50     16      Calculation on basis of stiffener thickness and weld
+                                                   or partial penetration weld, out of plane                      throat, whichever is smaller
+                                              bending
+
+
+
+
+
+                                                       page 65

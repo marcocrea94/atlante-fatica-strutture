@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ec3-normal-knee",
+    "latex": "\\Delta\\sigma_D=(2/5)^{1/3}\\Delta\\sigma_C",
+    "factor_approx": 0.737,
+    "source": "ec3",
+    "pdf_page": 17,
+    "section": "7.1",
+    "stress_unit": "MPa = N/mm²",
+    "status": "visually_checked_editorial_transcription",
+    "scope": "Characteristic nominal stress curves before applicable safety and detail corrections; see original source."
+  },
+  {
+    "id": "ec3-normal-cutoff",
+    "latex": "\\Delta\\sigma_L=(5/100)^{1/5}\\Delta\\sigma_D",
+    "factor_approx": 0.549,
+    "source": "ec3",
+    "pdf_page": 17,
+    "section": "7.1",
+    "stress_unit": "MPa = N/mm²",
+    "status": "visually_checked_editorial_transcription",
+    "scope": "Characteristic nominal stress curves before applicable safety and detail corrections; see original source."
+  },
+  {
+    "id": "ec3-normal-branch-1",
+    "latex": "\\Delta\\sigma_R^3N_R=\\Delta\\sigma_C^3\\,2\\cdot10^6",
+    "domain": "N_R <= 5e6",
+    "source": "ec3",
+    "pdf_page": 17,
+    "section": "7.1",
+    "stress_unit": "MPa = N/mm²",
+    "status": "visually_checked_editorial_transcription",
+    "scope": "Characteristic nominal stress curves before applicable safety and detail corrections; see original source."
+  },
+  {
+    "id": "ec3-normal-branch-2",
+    "latex": "\\Delta\\sigma_R^5N_R=\\Delta\\sigma_D^5\\,5\\cdot10^6",
+    "domain": "5e6 < N_R <= 1e8; variable amplitude per 7.1(3)",
+    "source": "ec3",
+    "pdf_page": 17,
+    "section": "7.1",
+    "stress_unit": "MPa = N/mm²",
+    "status": "visually_checked_editorial_transcription",
+    "scope": "Characteristic nominal stress curves before applicable safety and detail corrections; see original source."
+  },
+  {
+    "id": "ec3-shear",
+    "latex": "\\Delta\\tau_R^5N_R=\\Delta\\tau_C^5\\,2\\cdot10^6",
+    "domain": "N_R <= 1e8",
+    "source": "ec3",
+    "pdf_page": 17,
+    "section": "7.1",
+    "stress_unit": "MPa = N/mm²",
+    "status": "visually_checked_editorial_transcription",
+    "scope": "Characteristic nominal stress curves before applicable safety and detail corrections; see original source."
+  },
+  {
+    "id": "ec3-shear-cutoff",
+    "latex": "\\Delta\\tau_L=(2/100)^{1/5}\\Delta\\tau_C",
+    "factor_approx": 0.457,
+    "source": "ec3",
+    "pdf_page": 17,
+    "section": "7.1",
+    "stress_unit": "MPa = N/mm²",
+    "status": "visually_checked_editorial_transcription",
+    "scope": "Characteristic nominal stress curves before applicable safety and detail corrections; see original source."
+  }
+]

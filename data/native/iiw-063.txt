@@ -1,0 +1,30 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+423                                               Splice of circular hollow section with
+                                                   intermediate plate, fillet weld, root
+                                                     crack. Analysis based on stress in weld
+                                                          throat.
+
+                                                         wall thickness > 8 mm         45     16
+                                                         wall thickness < 8 mm         40     14
+
+424                                               Splice of rectangular hollow section,                  Welds NDT inspected in order to ensure full root pene-
+                                                     single-sided butt weld, toe crack                              tration.
+                                                         wall thickness > 8 mm         50     20
+                                                         wall thickness < 8 mm         45     18
+
+
+
+
+425                                               Splice of rectangular hollow section
+                                                with intermediate plate, fillet welds,
+                                                     root crack
+                                                         wall thickness > 8 mm         40     16
+                                                         wall thickness < 8 mm         36     14
+
+
+
+
+
+                                                       page 63

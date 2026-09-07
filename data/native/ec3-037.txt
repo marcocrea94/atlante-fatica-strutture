@@ -1,0 +1,38 @@
+prospetto  8.10   Giunzioni superiori tra ala ed anima o travi per vie di corsa (Continua)
+
+
+Categoria di           Particolare costruttivo                       Descrizione                                      Requisiti
+ particolare
+
+                                                      4) Saldature a cordoni d’angolo.             4) Intervallo di variazione della tensione ∆σvert
+                                                                                                        nella gola della saldatura dovuto alla
+                                                                                    compressione verticale derivante dai carichi
+    36*                                                                                     trasmessi dalla ruota.
+
+
+
+
+
+                                                      5) Ala di sezione a T con giunzione saldata  5) Intervallo di variazione della tensione
+                                           a T a completa penetrazione.                verticale di compressione ∆σvert nell’anima
+                                                                                        dovuto ai carichi trasmessi dalla ruota.
+
+    71
+
+
+
+
+                                                      6) Ala di sezione a T con giunzione saldata  6) Intervallo di variazione della tensione ∆σvert
+                                           a T a parziale penetrazione o giunzione     nella gola della saldatura dovuto alla
+                                                    saldata a T a completa penetrazione       compressione verticale derivante dai carichi
+                                                        efficace in conformità alla EN 1993-1-8.     trasmessi dalla ruota.
+    36*
+
+
+
+
+                                                      7) Ala di sezione a T con saldature a        7) Intervallo di variazione della tensione ∆σvert
+                                                   cordoni d’angolo.                             nella gola della saldatura dovuto alla
+                                                                                    compressione verticale derivante dai carichi
+                                                                                            trasmessi dalla ruota.
+    36*

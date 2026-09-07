@@ -1,0 +1,45 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+1 GENERAL
+
+
+The IIW, every other body or person involved in the preparation and publication of this
+document hereby expressly disclaim any liability or responsibility for loss or damage
+ resulting from its use, for any violation of any mandatory regulation with which the
+document may conflict, or for the infringement of any patent resulting from the use of this
+ document.
+
+ It is the user's responsibility to ensure that the recommendations given here are
+ suitable for his/her intended purposes.
+
+1.1 INTRODUCTION
+
+The aim of these recommendations is to provide a basis for the design and analysis of welded
+components loaded by fluctuating forces, to avoid failure by fatigue. In addition they may
+ assist other bodies who are establishing fatigue design codes. It is assumed that the user has
+ a working knowlegde of the basics of fatigue and fracture mechanics.
+
+The purpose of designing a structure against the limit state due to fatigue damage is to
+ ensure, with an adequate survival probability, that the performance is satisfactory during the
+ design life. The required survival probability is obtained by the use of appropriate partial
+ safety factors.
+
+1.2 SCOPE AND LIMITATIONS
+
+The recommendations present general methods for the assessment of fatigue damage in
+welded components, which may affect the limit states of a structure, such as ultimate limit
+ state and servicability limit state [1-1].
+
+The recommendations give fatigue resistance data for welded components made of wrought
+ or extruded products of ferritic/pearlitic or bainitic structural steels up to fy=960 MPa, of
+ austenitic stainless steels and of aluminium alloys commonly used for welded structures.
+
+The recommendations are not applicable to low cycle fatigue, where )Fnom>1.5Afy  ,
+ maxFnom>fy ,  for corrosive conditions or for elevated temperature operation in the creep
+ range.
+
+
+
+
+
+                                      page 7

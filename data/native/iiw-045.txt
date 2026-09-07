@@ -1,0 +1,35 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+
+
+
+          Fig. (3.2)-3: Fatigue resistance S-N curves for aluminium,
+         normal stress
+
+
+
+
+The descriptions of the structural details only partially include information about the weld
+ size, shape and quality. The data refer to a standard quality as given in codes and standard
+ welding procedures. For higher or lower qualities, conditions of welding may be specified
+and veryfied by test (3.7).
+
+The fatigue classses given in table {3.2-1} shall be modified as given in 3.5. The limitations
+ of weld imperfections shall be considered (3.8).
+
+ All butt welds shall be full penetration welds without lack of fusion, unless otherwise stated.
+
+ All S-N curves of details are limited by the material S-N curve, which may vary due to
+ different strengths of the materials.
+
+ Disregarding major weld defects, fatigue cracks originate from the weld toe, and then
+ propagate through the base material, or from the weld root, and then propagate through the
+weld throat. For potential toe cracks, the nominal stress in the base material has to be
+ calculated and compared with the fatigue resistance given in the tables. For potential root
+ cracks, the nominal stress in the weld throat has to be calculated. If both failure modes are
+ possible, e.g. at cruciform joints with fillet welds, both potential failure modes have to be
+ assessed.
+
+
+                                     page 45

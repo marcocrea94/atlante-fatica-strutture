@@ -1,0 +1,51 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+ Fatigue action            Load effect causing fatigue.
+
+ Fatigue damage ratio        Ratio of fatigue damage sustained to fatigue damage required
+                               to cause failure, defined as the ratio of the number of applied
+                                 stress cycles and the corresponding fatigue life at constant
+                             amplitude.
+
+ Fatigue life              Number of stress cycles of a particular magnitude required to
+                            cause fatigue failure of the component.
+
+ Fatigue limit                Fatigue strength under constant amplitude loading corre-
+                           sponding to a high number of cycles large enough to be con-
+                              sidered infinite by a design code.
+
+ Fatigue resistance            Structural detail's resistance against fatigue actions in terms of
+                       S-N curve or crack propagation properties.
+
+ Fatigue strength           Magnitude of stress range leading to a particular fatigue life.
+
+ Fracture mechanics      A branch of mechanics dealing with the behaviour and
+                              strength of components containing cracks.
+
+Hot spot            A point in a structure where a fatigue crack may initiate due to
+                              the combined effect of structural stress fluctuation and the
+                         weld geometry or a similar notch.
+
+ Local nominal stress       Nominal  stress  including macro-geometric effects, con-
+                              centrated load effects and misalignments, disregarding the
+                                 stress raising effects of the welded joint itself. Also referred to
+                             as modified nominal stress.
+
+ Local notch          A notch such as the local geometry of the weld toe, including
+                              the toe radius and the angle between the base plate surface and
+                         weld reinforcement. The  local notch does not  alter the
+                                structural stress but generates nonlinear stress peaks.
+
+
+ Macro-geometric
+ discontinuity         A global discontinuity, the effect of  which is usually not
+                            taken into account in the collection of standard structural de-
+                                      tails, such as a large opening, a curved part in a beam, a bend
+                               in a flange not supported by diaphragms or  stiffeners,
+                               discontinuities in pressure containing shells, eccentricity in a
+                              lap joint (see fig. (2.2)-3).
+
+ Macro-geometric effect    A stress raising effect due to macro-geometry in the vicinity
+
+                                      page 9

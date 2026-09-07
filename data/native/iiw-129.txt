@@ -1,0 +1,56 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+                                           Applicable for transverse
+                                           full penetrating or non-
+                                           loadcarrying welds, e.g.
+                                           butt weld, transverse at-
+                                           tachment,cruciform joint
+                                           K-butt weld. For more
+                                           details see ref. [4-8].
+
+
+ Stress intensity magnification factor Mk > 1 for membrane stress:
+      for l/t # 2:
+
+              Mk = 0.51A(l/t)0.27A(a/t)-0.31 , for (a/t) # 0.05A(l/t)0.55
+              Mk = 0.83A(a/t)-0.15(l/t)^0.46 , for (a/t) > 0.05A(l/t)0.55
+
+      for l/t > 2:
+
+              Mk = 0.615A(a/t)-0.31 , for (a/t) # 0.073
+              Mk = 0.83A(a/t)-0.2 , for (a/t) > 0.073
+
+ Stress intensity magnification factor Mk > 1 for bending stress:
+      for l/t # 1:
+              Mk = 0.45A(l/t)0.21A(a/t)-0.31 , for (a/t) # 0.03A(l/t)0.55
+              Mk = 0.68A(a/t)-0.19(l/t)^0.21 , for (a/t) > 0.03A(l/t)0.55
+
+      for l/t > 1:
+              Mk = 0.45A(a/t)-0.31 , for (a/t) # 0.03
+              Mk = 0.68A(a/t)-0.19 , for (a/t) > 0.03
+A systematic set of formulae was also developed in [4-7] using the procedure outlined in
+chapter 6.2.1. The formulae are valid within the given dimensional validity ranges.
+
+Tab. {6.2.4}: Formulae for Mk values for different welded joints
+ Transverse non-loadcarrying attachment
+
+                                              Dim.  min  max
+                                             H/T   0.2   1
+                                        W/T   0.2   1
+                                         2     15°   60°
+                                             A/T   0.175  0.72
+                                                              t/T    0.125 2 (4)
+
+
+
+
+
+                                                                                   (1)
+
+
+
+
+
+                                    page 129

@@ -1,0 +1,592 @@
+[
+  {
+    "bbox": [
+      47.45454406738281,
+      58.254547119140625,
+      88.69091033935547,
+      68.0727310180664
+    ],
+    "text": "11-2-2019",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      182.29090881347656,
+      58.254547119140625,
+      413.0181884765625,
+      68.0727310180664
+    ],
+    "text": "Supplemento ordinario n. 5 alla GAZZETTA UFFICIALE",
+    "confidence": 0.98244
+  },
+  {
+    "bbox": [
+      467.6727294921875,
+      58.581817626953125,
+      547.5272827148438,
+      67.41818237304688
+    ],
+    "text": "Serie generale - n. 35",
+    "confidence": 0.97474
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      98.18181610107422,
+      522.3272705078125,
+      108.0
+    ],
+    "text": "ad hoc, potrebbe essere necessario riferirsi alle tensioni di picco, misurate o determinate con specifici protocolli sperimentali. In",
+    "confidence": 0.99743
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      108.98181915283203,
+      505.963623046875,
+      118.47272491455078
+    ],
+    "text": "questo caso, le tensioni debbono essere calcolate per via teorica o numerica con le stesse modalità adottate sperimentalmente.",
+    "confidence": 0.99651
+  },
+  {
+    "bbox": [
+      72.0,
+      121.41818237304688,
+      522.3272705078125,
+      131.23635864257812
+    ],
+    "text": "Nell'associare al dettaglio in esame la corrispondente curva S-N di resistenza a fatica è consentito tener conto degli effetti benefici",
+    "confidence": 0.98841
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      131.8909149169922,
+      521.345458984375,
+      142.03636169433594
+    ],
+    "text": "di eventuali trattamenti termici o meccanici di distensione, sulla base della letteratura consolidata o di adeguata sperimentazione.",
+    "confidence": 0.99688
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      145.30909729003906,
+      522.3272705078125,
+      154.8000030517578
+    ],
+    "text": "Per i dettagli costruttivi dei quali non sia nota la curva di resistenza a fatica le escursioni tensionali potranno riferirsi alle tensioni",
+    "confidence": 0.99502
+  },
+  {
+    "bbox": [
+      72.0,
+      155.7818145751953,
+      522.3272705078125,
+      165.92727661132812
+    ],
+    "text": "geometriche o di picco, cioè alle tensioni principali nel metallo base in prossimità della potenziale lesione, secondo le modalità e le",
+    "confidence": 0.99309
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      167.23635864257812,
+      337.7454528808594,
+      175.74545288085938
+    ],
+    "text": "limitazioni specifiche del metodo, nell'ambito della meccanica della frattura.",
+    "confidence": 0.9938
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      180.0,
+      522.3272705078125,
+      189.49090576171875
+    ],
+    "text": "Nel caso di verifica a danneggiamento, sulla base del danno D si può definire uno spettro di tensione equivalente, ad ampiezza di",
+    "confidence": 0.99768
+  },
+  {
+    "bbox": [
+      72.0,
+      190.1454620361328,
+      522.654541015625,
+      201.60000610351562
+    ],
+    "text": "tensione costante, ∆σeq,d (o ∆τeq,d), in grado di produrre, nello stesso numero di cicli, ntot = ∑n , un danneggiamento uguale a",
+    "confidence": 0.98496
+  },
+  {
+    "bbox": [
+      73.30908966064453,
+      205.8545379638672,
+      522.3272705078125,
+      215.345458984375
+    ],
+    "text": "quello prodotto dallo spettro di tensione di progetto, oppure, in alternativa, un delta di tensione convenzionale ∆σE,d, in grado di",
+    "confidence": 0.9944
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      216.9818115234375,
+      404.18182373046875,
+      226.4727325439453
+    ],
+    "text": "produrre in 2×10⁶ cicli, lo stesso danneggiamento prodotto dallo spettro di tensione di progetto.",
+    "confidence": 0.98795
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      230.39999389648438,
+      522.3272705078125,
+      239.8909149169922
+    ],
+    "text": "Nel caso di variazioni simultanee di tensioni normali e tangenziali, la valutazione della resistenza a fatica dovrà considerare i loro",
+    "confidence": 0.99165
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      240.8727264404297,
+      311.2363586425781,
+      250.36363220214844
+    ],
+    "text": "effetti congiunti adottando idonei criteri di combinazione del danno.",
+    "confidence": 0.99805
+  },
+  {
+    "bbox": [
+      72.0,
+      253.63636779785156,
+      522.654541015625,
+      263.4545593261719
+    ],
+    "text": "Nel caso di variazioni non simultanee del campo di tensioni normali e tangenziali si potranno sommare i danneggiamenti D e D",
+    "confidence": 0.98572
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      265.0909118652344,
+      522.654541015625,
+      274.5818176269531
+    ],
+    "text": "prodotti dai cicli di tensione normale e dai cicli di tensione tangenziale, valutati separatamente con la formula [4.2.57] del §",
+    "confidence": 0.98938
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      275.8908996582031,
+      200.94544982910156,
+      284.3999938964844
+    ],
+    "text": "4.2.4.1.4 delle NTC, controllando che",
+    "confidence": 0.99713
+  },
+  {
+    "bbox": [
+      187.8545379638672,
+      288.0,
+      254.61817932128906,
+      300.1091003417969
+    ],
+    "text": "D = Dσ + Dτ ≤ 1,0",
+    "confidence": 0.90998
+  },
+  {
+    "bbox": [
+      374.3999938964844,
+      289.963623046875,
+      408.1091003417969,
+      300.4363708496094
+    ],
+    "text": "[C4.2.99]",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      308.2909240722656,
+      207.81817626953125,
+      317.7818298339844
+    ],
+    "text": "C4.2.4.1.4.6Influenza dello spessore",
+    "confidence": 0.99659
+  },
+  {
+    "bbox": [
+      72.0,
+      323.345458984375,
+      522.3272705078125,
+      333.49090576171875
+    ],
+    "text": "Nella valutazione della resistenza a fatica dovrà tenersi conto dello spessore del metallo base nel quale può innescarsi una",
+    "confidence": 0.99854
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      335.12725830078125,
+      138.43637084960938,
+      343.963623046875
+    ],
+    "text": "potenziale lesione.",
+    "confidence": 0.99451
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      347.5636291503906,
+      522.3272705078125,
+      357.3818054199219
+    ],
+    "text": "Nel caso che l’influenza dello spessore sulla resistenza a fatica non sia trascurabile, la classe del dettaglio deve essere ridotta",
+    "confidence": 0.99458
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      358.69091796875,
+      140.72727966308594,
+      367.20001220703125
+    ],
+    "text": "secondo la formula",
+    "confidence": 0.99969
+  },
+  {
+    "bbox": [
+      187.8545379638672,
+      371.7818298339844,
+      252.654541015625,
+      382.9090881347656
+    ],
+    "text": "∆σC,red = ks · ∆σC",
+    "confidence": 0.89717
+  },
+  {
+    "bbox": [
+      372.1091003417969,
+      371.7818298339844,
+      409.4181823730469,
+      381.9272766113281
+    ],
+    "text": "[C4.2.100]",
+    "confidence": 0.99995
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      387.49090576171875,
+      522.654541015625,
+      397.6363525390625
+    ],
+    "text": "dove il coefficiente riduttivo k, dipende dal dettaglio strutturale considerato ed i cui valori indicativi sono indicati, per alcuni dettagli",
+    "confidence": 0.98616
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      399.9272766113281,
+      222.8727264404297,
+      408.4363708496094
+    ],
+    "text": "costruttivi, nel documento UNI EN 1993-1-9.",
+    "confidence": 0.98876
+  },
+  {
+    "bbox": [
+      72.0,
+      421.52728271484375,
+      99.16363525390625,
+      431.6727294921875
+    ],
+    "text": "C4.2.9",
+    "confidence": 0.99963
+  },
+  {
+    "bbox": [
+      122.7272720336914,
+      422.83636474609375,
+      301.4181823730469,
+      430.3636474609375
+    ],
+    "text": "REQUISITI PER LA PROGETTAZIONE E L'ESECUZIONE",
+    "confidence": 0.99265
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      441.81817626953125,
+      102.76363372802734,
+      450.9818115234375
+    ],
+    "text": "C4.2.9.6",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      122.0727310180664,
+      442.47271728515625,
+      218.94544982910156,
+      450.0
+    ],
+    "text": "VERNICIATURA E ZINCATURA",
+    "confidence": 0.98876
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      454.9090881347656,
+      522.0,
+      464.7272644042969
+    ],
+    "text": "Gli acciai in strutture metalliche devono mantenere nel tempo le loro proprietà meccaniche, preservando la durabilità. Per questo",
+    "confidence": 0.99359
+  },
+  {
+    "bbox": [
+      72.0,
+      465.3818054199219,
+      522.3272705078125,
+      475.52728271484375
+    ],
+    "text": "scopo, occorre prevedere una protezione dalla corrosione affidabile negli ambienti di corrosione in cui il manufatto è destinato ad",
+    "confidence": 0.99107
+  },
+  {
+    "bbox": [
+      72.0,
+      475.85455322265625,
+      522.654541015625,
+      486.3272705078125
+    ],
+    "text": " ssono  rnd  no -n  no s  nn n a n nn e on a  o onnne",
+    "confidence": 0.66118
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      486.9818115234375,
+      522.0,
+      496.14544677734375
+    ],
+    "text": "kit di componenti strutturali in acciaio, è obbligatorio dichiarare la durabilità nella Dichiarazione delle Prestazioni (DoP) ai fini",
+    "confidence": 0.99163
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      496.79998779296875,
+      522.3272705078125,
+      506.9454650878906
+    ],
+    "text": "della marcatura CE. La durabilità, ovvero la conservazione nel tempo delle caratteristiche essenziali e della geometria dei",
+    "confidence": 0.98814
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      508.2545471191406,
+      522.3272705078125,
+      517.7454833984375
+    ],
+    "text": "componenti strutturali, è uno dei requisiti richiesti dalle Norme Tecniche per le Costruzioni – NTC. In particolare, le NTC",
+    "confidence": 0.98152
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      518.727294921875,
+      522.0,
+      528.2182006835938
+    ],
+    "text": "prevedono che gli elementi delle strutture in acciaio devono essere adeguatamente protetti con rivestimenti superficiali, quali la",
+    "confidence": 0.99949
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      529.5272827148438,
+      166.90908813476562,
+      538.036376953125
+    ],
+    "text": "verniciatura e la zincatura.",
+    "confidence": 0.99284
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      542.6181640625,
+      522.0,
+      551.4545288085938
+    ],
+    "text": "La protezione dalla corrosione deve garantire la massima durata possibile limitando il più possibile gli interventi di",
+    "confidence": 0.99496
+  },
+  {
+    "bbox": [
+      72.0,
+      552.4363403320312,
+      522.3272705078125,
+      562.2545166015625
+    ],
+    "text": "manutenzione, essere sufficientemente resistente alle azioni meccaniche durante le fasi di cantiere, garantire la protezione anche",
+    "confidence": 0.99734
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      562.9091186523438,
+      522.3272705078125,
+      573.0545654296875
+    ],
+    "text": "celi  coe  e e cn couo de  uri  on i o nn  ie s e",
+    "confidence": 0.60722
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      574.036376953125,
+      104.0727310180664,
+      582.8727416992188
+    ],
+    "text": "tubolari.",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      586.7999877929688,
+      494.18182373046875,
+      595.963623046875
+    ],
+    "text": "A tal fine può utilmente considerarsi l'effettuazione della zincatura a caldo, conformemente alla norma UNI EN ISO 1461.",
+    "confidence": 0.9961
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      609.0545654296875,
+      103.74545288085938,
+      618.2182006835938
+    ],
+    "text": "C4.2.12",
+    "confidence": 0.99981
+  },
+  {
+    "bbox": [
+      122.0727310180664,
+      609.7091064453125,
+      300.7636413574219,
+      617.5636596679688
+    ],
+    "text": "PROFILATI FORMATI A FREDDO E LAMIERE GRECATE",
+    "confidence": 0.98271
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      629.6727294921875,
+      106.36363983154297,
+      638.5090942382812
+    ],
+    "text": "C4.2.12.1",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      121.41818237304688,
+      629.6727294921875,
+      162.3272705078125,
+      638.5090942382812
+    ],
+    "text": "MATERIALI",
+    "confidence": 0.99845
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      642.7636108398438,
+      518.727294921875,
+      652.2545166015625
+    ],
+    "text": "Per i profilati di acciaio profilati a freddo e le lamiere grecate, l’acciaio deve essere conforme a quanto previsto al § C11.3.4.11.2.1.",
+    "confidence": 0.98995
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      659.7817993164062,
+      114.87272644042969,
+      668.6181640625
+    ],
+    "text": "C4.2.12.1.1",
+    "confidence": 0.99998
+  },
+  {
+    "bbox": [
+      110.9454574584961,
+      660.1090698242188,
+      335.7818298339844,
+      668.6181640625
+    ],
+    "text": "Effetto della formatura a freddo sulla resistenza dell'acciaio",
+    "confidence": 0.99566
+  },
+  {
+    "bbox": [
+      72.0,
+      675.1636352539062,
+      522.0,
+      685.30908203125
+    ],
+    "text": "nnd o   s  o  o d  s   rt  r   do",
+    "confidence": 0.66607
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      686.9454345703125,
+      176.07272338867188,
+      695.4545288085938
+    ],
+    "text": "essere considerato nei calcoli.",
+    "confidence": 0.99893
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      700.036376953125,
+      522.3272705078125,
+      708.5454711914062
+    ],
+    "text": "Ove il fenomeno non sia valutato sperimentalmente sulla membratura nel suo complesso, il valore della tensione di snervamento",
+    "confidence": 0.99697
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      710.5090942382812,
+      306.3272705078125,
+      720.0
+    ],
+    "text": "media dopo formatura fmyk può essere valutata nel modo seguente:",
+    "confidence": 0.99638
+  },
+  {
+    "bbox": [
+      287.6727294921875,
+      765.1636352539062,
+      307.963623046875,
+      775.6363525390625
+    ],
+    "text": "130",
+    "confidence": 0.99999
+  }
+]

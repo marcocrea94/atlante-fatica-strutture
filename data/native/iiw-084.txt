@@ -1,0 +1,35 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+3.5.3.2 Applicabiliy of Improvement Methods
+
+
+
+
+
+                  Fig: (3.5)-3: Examples of joint suitable for improvement
+
+
+The recommendations apply to all arc welded steel or aluminium components subjected to
+fluctuating or cyclic stress and designed to fatigue limit state criterion. They are limited to
+structural steels up to a specified yield strength of 900 MPa and to structural aluminium alloys
+commonly used in welded structures, primarily of the AA 5000 and AA 6000 series.
+
+The recommendations apply to welded joints of plates, of sections built up of plates or similar
+rolled or extruded shapes, and hollow sections. If not specified else, the plate thickness range for
+steel is from 6 to 150 mm, for aluminium from 4 to 50 mm.
+
+The application is limited to joints operating at temperatures below the creep range. In general,
+the recommendations do not apply at low cycle fatigue conditions, so the nominal stress range
+is limited to                       . For the special improvement procedures additional restrictions may
+be given.
+
+The improvement procedures described below, apply solely to the weld toe and to cracks
+starting from this point. All other points of a possible start of fatigue cracks therefore should be
+carefully considered as e.g. the weld root or weld imperfections.
+
+
+
+
+
+                                    page 84

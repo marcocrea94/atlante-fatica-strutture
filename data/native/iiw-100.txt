@@ -1,0 +1,53 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+3.8.4 Porosity and Inclusions
+
+Embedded volumetric discontinuities, such as porosity and inclusions, are considered as
+competitive weld imperfections which can provide alternative sites for fatigue crack initiation
+than those covered by the fatigue resistance tables of classified structural details (3.2).
+
+Before assessing the imperfections with respect to fatigue, it should be verified that the condi-
+tions apply for competitive notches, i.e. that the anticipated sites of crack initiation in the fatigue
+resistance tables do not coincide with the porosity and inclusions to be assessed and no inter-
+action is expected.
+
+It is important to ensure that there is no interaction between multiple weld imperfections, be it
+from the same or different type. Combined porosity or inclusions shall be treated as a single
+large one. The defect interaction criteria given in (3.8.5) for the assessment of cracks also apply
+for adjacent inclusions. Worm holes shall be assessed as slag inclusions.
+
+If there is any doubt about the coalescence of porosity or inclusions in the wall thickness
+direction or about the distance from the surface, the imperfections shall be assessed as cracks.
+It has to be verified by NDT that the porosity or inclusions are embedded and volumetric. If
+there is any doubt, they are to be treated as cracks.
+
+The parameter for assessing porosity is the maximum percentage of projected area of porosity
+in the radiograph; for inclusions, it is the maximum length. Directly adjacent inclusions are
+regarded as a single one.
+
+3.8.4.1 Steel
+
+Tab. {3.8}-5: Acceptance levels for porosity and inclusions in welds in steel
+
+           Fatigue class   Max. length of an inclusion in mm   Limits of
+                                                                  porosity in %
+                          as-welded        stress relieved +                                                                 of area * **
+
+          100             1.5              7.5              3
+          90              2.5            19              3
+          80           4             58              3
+          71           10            no limit          5
+          63           35            no limit          5
+          56 and lower   no limit        no limit          5
+
+          *     Area of radiograph used is length of weld affected by porosity
+                   multiplied by width of weld
+          **   Maximum pore diameter or width of an inclusion less than 1/4
+                    plate thickness or 6 mm
+         +      Stress relieved by post weld heat treatment
+
+
+
+
+
+                                    page 100

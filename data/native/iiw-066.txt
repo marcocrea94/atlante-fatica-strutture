@@ -1,0 +1,35 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+521                                              Longitudinal fillet welded gusset at                     For gusset near edge: see 525 "flat side gusset"
+                                                   length l
+                                                                                                      l < 50 mm            80     28       If attachement thickness < 1/2 of base plat thickness,
+                                                                                                      l < 150 mm           71     25     then one step higher allowed (not for welded on profi-
+                                                                                                      l < 300 mm           63     20       les!)
+                                                                                                      l > 300 mm           50     18
+
+
+522                                              Longitudinal fillet welded gusset with    90     32       t = thickness of attachment
+                                                    radius transition, end of fillet weld rein-
+                                                  forced and ground,
+
+                                                        c < 2 t, max 25 mm
+                                                                          r > 150 mm
+
+
+
+
+
+523                                              Longitudinal fillet welded gusset with                          t = thickness of attachment
+                                           smooth transition (sniped end or radius)
+                                            welded on beam flange or plate. c < 2 -                        If attachement thickness < 1/2 of base plat thickness,
+                                                                                t, max 25 mm                                           then one step higher allowed (not for welded on profi-
+                                                                                                                               les!)
+                                                                          r > 0.5 h                    71     25
+                                                                          r < 0.5 h or n < 20°           63     20
+
+
+
+
+
+                                                       page 66

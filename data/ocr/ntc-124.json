@@ -1,0 +1,592 @@
+[
+  {
+    "bbox": [
+      47.45454406738281,
+      58.254547119140625,
+      88.69091033935547,
+      68.0727310180664
+    ],
+    "text": "11-2-2019",
+    "confidence": 0.99979
+  },
+  {
+    "bbox": [
+      181.96363830566406,
+      57.272727966308594,
+      413.0181884765625,
+      68.7272720336914
+    ],
+    "text": "Supplemento ordinario n. 5 alla GAZZETTA UFFICIALE",
+    "confidence": 0.98795
+  },
+  {
+    "bbox": [
+      467.345458984375,
+      58.254547119140625,
+      547.2000122070312,
+      67.09091186523438
+    ],
+    "text": "Serie generale - n. 35",
+    "confidence": 0.99804
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      98.18181610107422,
+      522.3272705078125,
+      107.6727294921875
+    ],
+    "text": "dalle azioni dello spettro di carico assegnato, con opportuni metodi di identificazione e di conteggio. Per le strutture civili si",
+    "confidence": 0.99473
+  },
+  {
+    "bbox": [
+      72.0,
+      108.65454864501953,
+      522.3272705078125,
+      118.80000305175781
+    ],
+    "text": "possono impiegare, in alternativa, il metodo del serbatoio (reservoir method) o il metodo del flusso di pioggia (rainflow method). Per",
+    "confidence": 0.99374
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      119.45454406738281,
+      522.654541015625,
+      128.94544982910156
+    ],
+    "text": "singole strutture, ad esempio strutture offshore ecc., anche in considerazione della particolare tipologia dello spettro di carico cui",
+    "confidence": 0.99655
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      129.92727661132812,
+      413.0181884765625,
+      139.41818237304688
+    ],
+    "text": "sono soggette, si può far ricorso a metodi di conteggio alternativi, previa adeguata giustificazione.",
+    "confidence": 0.99238
+  },
+  {
+    "bbox": [
+      72.0,
+      142.36363220214844,
+      522.654541015625,
+      152.83636474609375
+    ],
+    "text": "Nel metodo del serbatoio (Figura C4.2.19) si ipotizza che l’oscillogramma delle tensioni rappresenti il profilo di fondo di un",
+    "confidence": 0.98719
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      153.16363525390625,
+      522.654541015625,
+      163.63636779785156
+    ],
+    "text": "serbatoio pieno di liquido, i cui paramenti esterni sono costituiti dal tratto convergente verso il massimo assoluto e da un tratto",
+    "confidence": 0.99518
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      164.61817932128906,
+      317.4545593261719,
+      174.1090850830078
+    ],
+    "text": "corrispondente, reale o fittizio. posto al termine del diagramma stesso.",
+    "confidence": 0.99656
+  },
+  {
+    "bbox": [
+      175.74545288085938,
+      185.56362915039062,
+      193.41818237304688,
+      198.0
+    ],
+    "text": "σ(t)",
+    "confidence": 0.99866
+  },
+  {
+    "bbox": [
+      320.7272644042969,
+      230.72727966308594,
+      327.9272766113281,
+      237.60000610351562
+    ],
+    "text": "6\"",
+    "confidence": 0.98168
+  },
+  {
+    "bbox": [
+      326.6181945800781,
+      238.25454711914062,
+      331.85455322265625,
+      246.76364135742188
+    ],
+    "text": "Δσ4",
+    "confidence": 0.9476
+  },
+  {
+    "bbox": [
+      351.49090576171875,
+      245.1272735595703,
+      358.036376953125,
+      255.27272033691406
+    ],
+    "text": "ΔO2",
+    "confidence": 0.58075
+  },
+  {
+    "bbox": [
+      248.72727966308594,
+      249.38182067871094,
+      254.94544982910156,
+      258.87274169921875
+    ],
+    "text": "Δσ",
+    "confidence": 0.74692
+  },
+  {
+    "bbox": [
+      181.96363830566406,
+      259.85455322265625,
+      191.1272735595703,
+      268.3636474609375
+    ],
+    "text": "O",
+    "confidence": 0.57205
+  },
+  {
+    "bbox": [
+      242.18182373046875,
+      260.18182373046875,
+      248.07272338867188,
+      266.7272644042969
+    ],
+    "text": "0",
+    "confidence": 0.99727
+  },
+  {
+    "bbox": [
+      380.9454650878906,
+      259.85455322265625,
+      387.49090576171875,
+      267.3818054199219
+    ],
+    "text": "t",
+    "confidence": 0.99977
+  },
+  {
+    "bbox": [
+      242.83636474609375,
+      317.4545593261719,
+      352.14544677734375,
+      325.963623046875
+    ],
+    "text": "Figura C4.2.19 - Metodo del serbatoio",
+    "confidence": 0.9892
+  },
+  {
+    "bbox": [
+      72.0,
+      331.85455322265625,
+      522.3272705078125,
+      342.0
+    ],
+    "text": "In riferimento alla Figura C4.2.19, si immagina di svuotare il serbatoio a partire dal minimo assoluto, punto 1 di figura, al vuoto",
+    "confidence": 0.99952
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      342.3272705078125,
+      522.9818115234375,
+      352.79998779296875
+    ],
+    "text": "che si forma corrisponde il primo ciclo ed alla differenza di quota tra 1 ed il pelo libero originario il delta di tensione relativo; al",
+    "confidence": 0.9967
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      353.12725830078125,
+      522.3272705078125,
+      362.9454650878906
+    ],
+    "text": "termine di questa operazione si formano altri bacini, semplici (2′22\") o multipli (3'35′53\") e (4'66\"44\"). L'operazione si ripete",
+    "confidence": 0.96405
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      363.9272766113281,
+      522.9818115234375,
+      374.3999938964844
+    ],
+    "text": "procedendo a svuotare in successione dagli altri punti di minimo relativo, ordinati in senso crescente, σ<σ+1, fino a svuotare",
+    "confidence": 0.99415
+  },
+  {
+    "bbox": [
+      71.6727294921875,
+      375.3818054199219,
+      522.3272705078125,
+      385.52728271484375
+    ],
+    "text": "l'intero serbatoio; ad ogni operazione di svuotamento corrisponde un ciclo, il cui delta di tensione è pari all'altezza d’acqua",
+    "confidence": 0.9807
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      387.16363525390625,
+      106.03636169433594,
+      395.0181884765625
+    ],
+    "text": "svuotata.",
+    "confidence": 0.99962
+  },
+  {
+    "bbox": [
+      72.0,
+      398.9454650878906,
+      522.9818115234375,
+      409.4181823730469
+    ],
+    "text": "Il metodo del flusso di pioggia, meno intuitivo ed abbastanza complesso dal punto di vista operativo, individua i cicli mediante il",
+    "confidence": 0.99102
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      409.7454528808594,
+      522.3272705078125,
+      419.2363586425781
+    ],
+    "text": "id  ( u   us, ue e  s ucs  u, d   usedoe",
+    "confidence": 0.59126
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      420.2181701660156,
+      522.3272705078125,
+      429.0545349121094
+    ],
+    "text": "   mn  o s msso   mn  o n   n sso   e",
+    "confidence": 0.72914
+  },
+  {
+    "bbox": [
+      72.0,
+      431.0181884765625,
+      522.3272705078125,
+      440.83636474609375
+    ],
+    "text": "minimi in senso crescente. Ogni volta che la goccia si distacca dalla traiettoria e cade o incontra un tratto già bagnato viene",
+    "confidence": 0.99742
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      441.81817626953125,
+      522.654541015625,
+      451.30908203125
+    ],
+    "text": "inizializzato un nuovo semiciclo, in modo che ciascun tratto dell'oscillogramma venga percorso una sola volta. I semicicli di",
+    "confidence": 0.99632
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      451.6363525390625,
+      299.12725830078125,
+      462.1091003417969
+    ],
+    "text": "uguale ampiezza vengono poi accoppiati sì da individuare i cicli.",
+    "confidence": 0.99386
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      464.7272644042969,
+      411.3818054199219,
+      474.87274169921875
+    ],
+    "text": "Con riferimento alla Figura C4.2.20 e dopo aver spostato il tratto 0 -1 alla fine dell'oscillogramma:",
+    "confidence": 0.9858
+  },
+  {
+    "bbox": [
+      96.54545593261719,
+      477.81817626953125,
+      522.3272705078125,
+      488.2909240722656
+    ],
+    "text": "la prima goccia viene rilasciata dal punto 1, che rappresenta il massimo assoluto del diagramma, percorre il tratto 1-2-2'-6",
+    "confidence": 0.99675
+  },
+  {
+    "bbox": [
+      96.54545593261719,
+      488.6181945800781,
+      302.3999938964844,
+      499.7454528808594
+    ],
+    "text": "e cade individuando un semiciclo di ampiezza ∆σ1= σ1-σ6;",
+    "confidence": 0.97558
+  },
+  {
+    "bbox": [
+      187.1999969482422,
+      507.2727355957031,
+      205.8545379638672,
+      519.7091064453125
+    ],
+    "text": "σ(t)",
+    "confidence": 0.99925
+  },
+  {
+    "bbox": [
+      391.4181823730469,
+      507.6000061035156,
+      397.963623046875,
+      513.4909057617188
+    ],
+    "text": "14",
+    "confidence": 0.99994
+  },
+  {
+    "bbox": [
+      347.2363586425781,
+      515.1272583007812,
+      353.4545593261719,
+      521.0181884765625
+    ],
+    "text": "11",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      383.8908996582031,
+      514.4727172851562,
+      391.7454528808594,
+      519.3818359375
+    ],
+    "text": "11",
+    "confidence": 0.99859
+  },
+  {
+    "bbox": [
+      280.14544677734375,
+      535.7454833984375,
+      284.0727233886719,
+      540.3272705078125
+    ],
+    "text": "5",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      263.12725830078125,
+      549.1636352539062,
+      267.3818054199219,
+      554.4000244140625
+    ],
+    "text": "ε",
+    "confidence": 0.92326
+  },
+  {
+    "bbox": [
+      274.5818176269531,
+      549.1636352539062,
+      278.83636474609375,
+      554.4000244140625
+    ],
+    "text": "3'",
+    "confidence": 0.85656
+  },
+  {
+    "bbox": [
+      194.07272338867188,
+      574.3636474609375,
+      201.92727661132812,
+      581.5636596679688
+    ],
+    "text": "O",
+    "confidence": 0.51945
+  },
+  {
+    "bbox": [
+      210.76364135742188,
+      574.3636474609375,
+      216.3272705078125,
+      580.2545166015625
+    ],
+    "text": "0",
+    "confidence": 0.99969
+  },
+  {
+    "bbox": [
+      375.7090759277344,
+      575.0181884765625,
+      382.9090881347656,
+      581.8909301757812
+    ],
+    "text": "13",
+    "confidence": 1.0
+  },
+  {
+    "bbox": [
+      407.12725830078125,
+      575.345458984375,
+      412.69091796875,
+      582.5454711914062
+    ],
+    "text": "t",
+    "confidence": 0.99997
+  },
+  {
+    "bbox": [
+      270.654541015625,
+      588.7636108398438,
+      275.8908996582031,
+      594.654541015625
+    ],
+    "text": "4",
+    "confidence": 0.99995
+  },
+  {
+    "bbox": [
+      288.3272705078125,
+      589.0908813476562,
+      292.9090881347656,
+      593.6727294921875
+    ],
+    "text": "4",
+    "confidence": 0.99989
+  },
+  {
+    "bbox": [
+      334.14544677734375,
+      592.3636474609375,
+      340.69091796875,
+      598.2545166015625
+    ],
+    "text": "10",
+    "confidence": 0.99978
+  },
+  {
+    "bbox": [
+      353.7818298339844,
+      593.0181884765625,
+      360.654541015625,
+      598.5818481445312
+    ],
+    "text": "10",
+    "confidence": 0.99489
+  },
+  {
+    "bbox": [
+      291.9272766113281,
+      603.8181762695312,
+      297.81817626953125,
+      610.036376953125
+    ],
+    "text": "2",
+    "confidence": 0.99961
+  },
+  {
+    "bbox": [
+      357.7090759277344,
+      611.345458984375,
+      364.5818176269531,
+      617.2363891601562
+    ],
+    "text": "12",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      236.29090881347656,
+      633.272705078125,
+      368.83636474609375,
+      642.7636108398438
+    ],
+    "text": "Figura C4.2.20 - Metodo del flusso di pioggia",
+    "confidence": 0.99947
+  },
+  {
+    "bbox": [
+      96.54545593261719,
+      647.6727294921875,
+      522.3272705078125,
+      657.8181762695312
+    ],
+    "text": "la seconda goccia viene rilasciata dal punto 6, che rappresenta il minimo assoluto del diagramma, percorre il tratto 6-7-7′-",
+    "confidence": 0.99311
+  },
+  {
+    "bbox": [
+      96.87272644042969,
+      658.4727172851562,
+      366.5454406738281,
+      669.272705078125
+    ],
+    "text": "11-11′-14 e cade individuando un semiciclo di ampiezza ∆σ1 = σ14-σ6 (σ14=σ1);",
+    "confidence": 0.96604
+  },
+  {
+    "bbox": [
+      96.54545593261719,
+      672.8727416992188,
+      522.3272705078125,
+      683.345458984375
+    ],
+    "text": "la terza goccia viene rilasciata dal punto 11, che rappresenta il secondo massimo locale del diagramma, percorre il tratto",
+    "confidence": 0.99283
+  },
+  {
+    "bbox": [
+      96.87272644042969,
+      683.6727294921875,
+      327.2727355957031,
+      694.7999877929688
+    ],
+    "text": "11-12 e cade individuando un semiciclo di ampiezza ∆σ2= σ11-σ12;",
+    "confidence": 0.97989
+  },
+  {
+    "bbox": [
+      96.54545593261719,
+      698.4000244140625,
+      522.654541015625,
+      708.5454711914062
+    ],
+    "text": "la quarta goccia viene rilasciata dal punto 12, che rappresenta il secondo minimo locale del diagramma, percorre il tratto",
+    "confidence": 0.99406
+  },
+  {
+    "bbox": [
+      96.54545593261719,
+      708.5454711914062,
+      522.9818115234375,
+      720.0
+    ],
+    "text": "12-11′, incontra il tratto 11′-14, che è già bagnato, e si arresta individuando un semiciclo di ampiezza ∆σ2 = σ11-σ12 (σ11 =",
+    "confidence": 0.97408
+  },
+  {
+    "bbox": [
+      288.654541015625,
+      765.4909057617188,
+      306.9818115234375,
+      775.30908203125
+    ],
+    "text": "120",
+    "confidence": 0.99999
+  }
+]

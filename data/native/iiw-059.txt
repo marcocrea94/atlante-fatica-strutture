@@ -1,0 +1,29 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+331                                                   Joint at stiffened knuckle of a flange to    ---       ---
+                                             be assessed according to no. 411 - 414,
+                                              depending on type of joint.
+
+                                                     Stress in stiffener plate:
+
+
+
+
+
+                                                      Af = area of flange
+                                                             ASt = area of stiffener
+
+                                                     Stress in weld throat:
+
+
+
+
+
+                                           Aw = area of weld throat
+
+
+
+
+
+                                                       page 59

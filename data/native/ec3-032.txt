@@ -1,0 +1,58 @@
+prospetto   8.6   Profilati tubolari (t ≤ 12,5 mm) (Continua)
+
+
+Categoria di                              Particolare costruttivo                                  Descrizione                   Requisiti
+ particolare
+
+                                                                                     Saldature di testa           Particolari 3) e 4):
+                                                                                                      trasversali:                      - Altezza del sovrametallo
+                                                                                            3) Saldature testa a testa ≤10% della larghezza della
+    71                                                                                                         di profilati tubolari a        saldatura, con transizione
+                                                                                   sezione circolare.          graduale.
+                                                                                                                                                               - Saldature eseguite in
+                                                                                                                      piano, ispezionate e trovate
+                                                                                            4) Saldature testa a testa  esenti da difetti al di fuori
+                                                                                                         di profilati tubolari a        delle tolleranze della
+                                                                                   sezione rettangolare.    EN 1090.    56
+                                                                                                                                                               - Se t > 8 mm classificare
+                                                                                               aumentando la categoria di
+                                                                                                                           particolare di 2 volte.
+
+            Dimensioni in millimetri                                                  Elementi collegati          5)
+                                                                               mediante saldatura:          - Saldature non soggette a
+                                                                                            5) Profilati tubolari a        carico.
+                                                                                   sezione circolare o           - Larghezza parallela alla
+    71                                                                                    rettangolare saldati a      direzione della tensione
+                                                                               cordone d’angolo ad altro    l ≤ 100 mm.
+                                                                                                           profilato.                         - Per gli altri casi vedere
+                                                                                                                  prospetto 8.4.
+
+
+                                                                                              Giunti trasversali saldati:   Particolari 6) e 7):
+                                                                                            6) Profilati tubolari a          - Saldature soggette a
+                                                                                   sezione circolare saldati    carichi.
+    50                                                                                      testa a testa con              - Saldature ispezionate e
+                                                                                            interposizione di una       trovate esenti da difetti al di
+                                                                                                   piastra.                       fuori delle tolleranze della
+                                                                            EN 1090.
+                                                                                            7) Profilati tubolari a          - Se t > 8 mm classificare
+                                                                                   sezione rettangolare      aumentando la categoria di
+                                                                                                  saldati testa a testa con    particolare di 1 volta.
+    45                                                                                     interposizione di una
+                                                                                                   piastra.
+
+
+
+                                                                                            8) Profilati tubolari a        Particolari 8) e 9):
+                                                                                   sezione circolare saldati    - Saldature soggette a
+                                                                                              testa a testa con            carichi.
+    40                                                                                     interposizione di una         - Spessore parete t ≤ 8 mm.
+                                                                                                   piastra.
+
+
+
+                                                                                            9) Profilati tubolari a
+                                                                                   sezione rettangolare
+                                                                                                  saldati testa a testa con
+    36                                                                                     interposizione di una
+                                                                                                   piastra.

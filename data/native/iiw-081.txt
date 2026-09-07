@@ -1,0 +1,40 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+
+
+      Fig. (3.5)-1 Enhancement factor f(R)
+
+
+
+The ranking in categories I, II or III should be done and documented by the design office. If no
+reliable information on residual stress is available, f(R)=1.
+
+It has to be noted in this respect that stress relief in welded joints is unlikely to be fully effecti-
+ve, and long range residual stresses may be introduced during assembly of prefabricated welded
+components. For such reasons, it is recommended that values of f(R)>1 should only be adopted
+for welded components in very special circumstances.
+
+
+3.5.1.2 Aluminium
+
+The same regulations as for steel are recommended.
+
+
+3.5.2 Wall Thickness
+
+3.5.2.1 Steel
+
+The influence of plate thickness on fatigue strength should be taken into account in cases where
+cracks start from the weld toe. The fatigue resistance values here given refer to a wall thickness
+of 25 mm at steel. The reduced strength is taken in consideration by multiplying the fatigue
+class of the structural detail by the thickness reduction factor f(t). The thickness correction
+exponent n is dependent on the effective thickness teff and the joint category (see table {3.5}-1)
+[5-1]. The same way a benign thinness effect might be considered, but should be verified by
+component test.
+
+
+
+
+                                    page 81

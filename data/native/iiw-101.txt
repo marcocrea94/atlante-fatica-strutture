@@ -1,0 +1,33 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+3.8.4.2 Aluminium
+
+Tab. {3.8}-6: Acceptance levels for porosity and inclusions in welds in aluminium
+
+                Fatigue class   Max. length of an     Limits of porosity
+                                  inclusion in mm **    in % of area * **
+
+                               as-welded
+
+              40 and higher    1.5                0 +)
+              36              2.5                3
+              32            4                  3
+              28            10                 5
+              25            35                 5
+              15 and lower   no limit             5
+
+              *     Area of radiograph used is length of weld affected
+                    by porosity multiplied by width of weld
+              **   Maximum pore diameter or width of an inclusion
+                          less than 1/4 plate thickness or 6 mm
+                +)     Single pores up to 1.5 mm allowed
+
+Tungsten inclusions have no effect on fatigue behaviour and therefore do not need to be
+assessed.
+
+
+
+
+
+                                    page 101

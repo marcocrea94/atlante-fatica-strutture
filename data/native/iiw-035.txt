@@ -1,0 +1,46 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+2.2.4 Effective Notch Stress
+
+ 2.2.4.1 General
+
+ Effective notch stress is the total stress at the root of a notch, obtained assuming linear-elastic
+ material behaviour. To take account of the statistical nature and scatter of weld shape
+ parameters, as well as of the non-linear material behaviour at the notch root, the real weld
+ contour is replaced by an effective one. For structural steels and aluminium an effective
+ notch root radius of  r = 1 mm  has been verified to give consistent results. For fatigue
+ assessment, the effective notch stress is compared with a common fatigue resistance curve.
+
+The method is restricted to welded joints which are expected to fail from the weld toe or
+weld root. Other causes of fatigue failure, e.g. from surface roughness or embedded defects,
+ are not covered. Also it is also not applicable where considerable stress components parallel
+ to the weld or parallel to the root gap exist.
+
+The method is also restricted to assessment of naturally formed weld toes and roots. At
+machined or ground welds, toes or roots shall be assessed using the notch stress and the
+ fatigue resistance value of a butt weld groud flush to plate.
+
+The method is well suited to the comparison of alternative weld geometries. Unless
+ otherwise specified, flank angles of 30° for butt welds and 45° for fillet welds are suggested.
+
+ In cases where a mean geometrical notch root radius can be defined, e.g. after certain post
+weld improvement procedures, this geometrical radius plus 1 mm may be used in the
+ effective notch stress analysis.
+
+The method is limited to thicknesses t >= 5 mm. For smaller wall thicknesses, the method
+ has not yet been verified.
+
+
+ 2.2.4.2 Calculation of Effective Notch Stress
+
+ Effective notch stresses or stress concentration factors can be calculated by parametric
+ formulae, taken from diagrams or calculated from finite element or boundary element
+ models. The effective notch radius is introduced such that the tip of the radius touches the
+ root of the real notch, e.g. the end of an unwelded root gap.
+
+
+
+
+
+                                     page 35

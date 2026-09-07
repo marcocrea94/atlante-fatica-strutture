@@ -1,0 +1,34 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+122                                       Machine thermally cut edges, corners    125    40     Notch effects due to shape of edges have to be conside-
+                                             removed, no cracks by inspection                           red.
+
+                                   m = 3
+
+
+
+
+123                                         Manually thermally cut edges, free      100      ---     Notch effects due to shape of edges have to be conside-
+                                            from cracks and severe notches                              red.
+
+                                   m = 3
+
+
+
+
+124                                         Manually thermally cut edges, uncon-    80       ---     Notch effects due to shape of edges have to be conside-
+                                                           trolled, no notch deeper                                      red.
+                                                 than 0.5 mm
+                                   m = 3
+
+
+
+
+200    Butt welds, transverse loaded
+
+
+
+
+
+                                                       page 48

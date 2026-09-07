@@ -1,0 +1,37 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+431                                    Weld connecting web and flange, loa-      ---       ---      Full penetration butt weld.
+                                            ded by a concentrated force in web pla-
+                                             ne perpendicular to weld. Force distri-
+                                                buted on width b = 2Ah + 50 mm.
+                                             Assessment according to no. 411 - 414.
+                             A local bending due to eccentric load
+                                                should be considered.
+
+
+
+500    Non-load-carrying attachments
+
+511                                             Transverse non-load-carrying attach-                    Grinding parallel to stress
+                                               ment, not thicker than main plate
+                                                         K-butt weld, toe ground        100    36
+                                                    Two-sided fillets, toe ground    100    36
+                                                                      Fillet weld(s), as welded       80     28     At one sided fillet welds, an angular misalignment cor-
+                                                              thicker than main plate         71     25     responding to km = 1.2 is already covered
+
+
+
+512                                             Transverse stiffener welded on girder                   For weld ends on web principle stress to be used
+                                      web or flange, not thicker than main
+                                                          plate.
+                                                         K-butt weld, toe ground        100    36
+                                                    Two-sided fillets, toe ground    100    36
+                                                                               fillet weld(s): as welded        80     28
+                                                              thicker than main plate         71     25
+
+
+
+
+
+                                                       page 64

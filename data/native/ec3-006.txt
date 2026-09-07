@@ -1,0 +1,75 @@
+PREMESSA
+
+   La presente norma europea EN 1993, Eurocodice 3: Design of steel structures, è stata
+    elaborata dal Comitato Tecnico CEN/TC 250 "Eurocodici Strutturali", la cui segreteria è
+    affidata al BSI. Il CEN/TC 250 è responsabile per tutti gli Eurocodici Strutturali.
+
+    Alla presente norma europea deve essere attribuito lo status di norma nazionale, o
+   mediante pubblicazione di un testo identico o mediante notifica di adozione, entro
+   novembre 2005, e  le norme  nazionali  in  contrasto devono essere  ritirate  entro
+   marzo 2010.
+
+       Il presente Eurocodice sostituisce la ENV 1993-1-1.
+
+    In conformità alle Regole Comuni CEN/CENELEC, gli enti nazionali di normazione dei
+    seguenti Paesi sono tenuti a recepire la presente norma europea: Austria, Belgio, Cipro,
+   Danimarca, Estonia,  Finlandia, Francia, Germania, Grecia,  Irlanda,  Islanda,  Italia,
+    Lettonia, Lituania, Lussemburgo, Malta, Norvegia, Paesi Bassi, Polonia, Portogallo,
+   Regno Unito, Repubblica Ceca, Slovacchia, Slovenia, Spagna, Svezia, Svizzera e
+    Ungheria.
+
+    Cronistoria del programma degli Eurocodici
+
+    Nel 1975, la Commissione delle Comunità Europee decise di attuare un programma di
+    azioni nel settore delle costruzioni, sulla base dell’articolo 95 del Trattato. L’obiettivo del
+   programma era l’eliminazione degli ostacoli tecnici al commercio e l’armonizzazione delle
+    specifiche tecniche.
+
+    Nell’ambito di tale programma di azioni, la Commissione prese l’iniziativa di stabilire un
+    insieme di regole tecniche armonizzate per la progettazione delle opere di costruzione
+    che, in una prima fase, sarebbe servito come alternativa rispetto ai regolamenti nazionali
+     in vigore negli Stati membri ed, alla fine, li avrebbe sostituiti.
+
+   Per quindici anni, la Commissione, con l’aiuto di un Comitato Direttivo composto da
+    Rappresentanti degli Stati membri, ha provveduto allo sviluppo del programma degli
+    Eurocodici, che ha portato alla stesura della prima generazione di codici Europei negli
+    anni ‘80.
+
+    Nel 1989, la Commissione e gli Stati membri dell’UE e dell’EFTA decisero, in base ad un
+    accordo1) tra la Commissione ed il CEN, di trasferire il compito della preparazione e della
+    pubblicazione degli Eurocodici al CEN attraverso una serie di mandati, con l’obiettivo di
+     attribuire ad essi nel futuro lo status di norme europee (EN). Questa decisione lega de
+    facto gli Eurocodici alle prescrizioni di tutte le Direttive del Consiglio e/o le Decisioni della
+   Commissione  relative  alle norme europee (per esempio,  la Direttiva del Consiglio
+   89/106/CEE sui prodotti da costruzione - CPD - e le Direttive del Consiglio 93/37/CEE,
+   92/50/CEE e 89/440/CEE sui lavori e sui servizi pubblici e le analoghe Direttive EFTA
+    predisposte con l’obiettivo di stabilire il mercato interno).
+
+       Il programma degli Eurocodici Strutturali comprende le seguenti norme, generalmente
+   composte da un certo numero di parti:
+
+   EN 1990            Eurocode: Basis of Structural Design
+
+   EN 1991            Eurocode 1: Actions on structures
+
+   EN 1992            Eurocode 2: Design of concrete structures
+
+   EN 1993            Eurocode 3: Design of steel structures
+
+   EN 1994            Eurocode 4: Design of composite steel and concrete structures
+
+   EN 1995            Eurocode 5: Design of timber structures
+
+   EN 1996            Eurocode 6: Design of masonry structures
+
+   EN 1997            Eurocode 7: Geotechnical design
+
+   EN 1998            Eurocode 8: Design of structures for earthquake resistance
+
+   EN 1999            Eurocode 9: Design of aluminium structures
+
+
+
+
+1)   Accordo tra la Commissione delle Comunità Europee ed il Comitato Europeo di Normazione (CEN) concernente il lavoro
+      sugli EUROCODICI relativi alla progettazione di edifici e di opere di ingegneria civile (BC/CEN/03/89).

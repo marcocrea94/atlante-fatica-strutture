@@ -1,0 +1,33 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+700    Reinforcements
+
+711                                     End of long doubling plate on I-beam,                End zones of single or multiple welded cover plates,
+                                            welded ends (based on stress range in                    with or without frontal welds.
+                                                   flange at weld toe)
+                                                                      tD # 0.8 t                    56     20       If the cover plate is wider than the flange, a frontal
+                                                           0.8 t < tD # 1.5 t              50     18     weld is needed. No undercut at frontal welds!
+                                                                      tD > 1.5 t                    45     16
+
+712                                     End of long doubling plate on beam,                    Grinding parallel to stress direction.
+                                                    reinforced welded ends ground (based
+                                          on stress range in flange at weld toe)
+                                                                      tD # 0.8 t                    71     28
+                                                           0.8 t < tD # 1.5 t              63     25
+                                                                      tD > 1.5 t                    56     22
+
+
+
+
+721                                     End of reinforcement plate on rectangu-  50     20    No undercut at frontal weld!
+                                                            lar hollow section.
+
+                                                   wall thickness:
+                                                                                 t < 25 mm
+
+
+
+
+
+                                                       page 69

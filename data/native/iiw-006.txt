@@ -1,0 +1,39 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+        TESTING
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+              4.5.1 General  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+              4.5.2 Acceptance Criteria   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+              4.5.3 Safe Life Verification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+              4.5.4 Fail Safe Verification  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+              4.5.5 Damage Tolerant Verification . . . . . . . . . . . . . . . . . . . . . 112
+
+ 5 SAFETY CONSIDERATIONS  . . . . . . . . . . . . . 113
+      5.1 BASIC PRINCIPLES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+      5.2 FATIGUE DESIGN STRATEGIES  . . . . . . . . . . . . . 113
+              5.2.1 Infinite Life Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+              5.2.2 Safe Life Design   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+              5.2.3 Fail Safe Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+              5.2.4 Damage Tolerant Design   . . . . . . . . . . . . . . . . . . . . . . . . . 114
+      5.3 PARTIAL SAFETY FACTORS   . . . . . . . . . . . . . . . . . 114
+      5.4 QUALITY ASSURANCE . . . . . . . . . . . . . . . . . . . . . . . . . 115
+      5.5 REPAIR OF COMPONENTS  . . . . . . . . . . . . . . . . . . . . 115
+
+ 6 APPENDICES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+      6.1 LOAD CYCLE COUNTING  . . . . . . . . . . . . . . . . . . . . . 117
+              6.1.1 Transition Matrix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+              6.1.2 Rainflow or Reservoir Counting Method . . . . . . . . . . . 117
+      6.2 FRACTURE MECHANICS   . . . . . . . . . . . . . . . . . . . . . . 118
+              6.2.1 Rapid Calculation of Stress Intensity Factors . . . . . . . 118
+              6.2.2 Dimensions of Cracks   . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+              6.2.3 Interaction of Cracks   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+              6.2.4 Formulae for Stress Intensity Factors  . . . . . . . . . . . . . . 120
+      6.3 FORMULAE FOR MISALIGNMENT   . . . . . . . . . 127
+      6.4  STATISTICAL  CONSIDERATIONS  ON
+       SAFETY
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+              6.4.1 Statistical Evaluation of Fatigue Test Data  . . . . . . . . . 131
+              6.4.2 Statistical Evaluation at Component Testing  . . . . . . . 132
+              6.4.3 Statistical Considerations for Partial Safety Factors  134
+
+                                      page 6

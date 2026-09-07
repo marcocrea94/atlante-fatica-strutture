@@ -1,0 +1,43 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+
+
+
+    Fig. (2.2)-11: Typical meshes and stress evaluation paths for a welded detail
+
+
+
+ Usually, the structural hot spot stress components are evaluated on the plate surface or edge.
+ Typical extrapolation paths are shown by arrows in fig. (2.2)-11. If the weld is not modelled,
+ it is recommended to extrapolate the stress to the structural intersection point in order to
+ avoid stress underestimation due to the missing stiffness of the weld.
+
+Type “a” hot spots:
+
+The structural hot spot stress Fhs is determined using the reference points and extrapolation
+ equations as given below (see also fig. (2.2)-12).
+
+  1)   Fine mesh with element length not more than 0.4 t at the hot spot: Evaluation of
+       nodal stresses at two reference points 0.4 t and 1.0 t, and linear extrapolation (eq.
+         1).
+                                                               (1)
+
+  2)   Fine mesh as defined above: Evaluation of nodal stresses at three reference points
+        0.4  t, 0.9  t and   1.4  t, and quadratic extrapolation (eq. 2). This method  is
+      recommended in cases with pronounced non-linear structural stress increase to the
+        hot spot.
+
+                                                                     (2)
+
+  3)   Coarse mesh with higher-order elements having lengths equal to plate thickness at
+        the hot spot: Evaluation of stresses at mid-side points or surface centers respectively,
+           i.e. at two reference points 0.5 t and 1.5 t, and linear extrapolation (eq. 3).
+
+                                                                 (3)
+
+
+
+
+
+                                     page 30

@@ -1,0 +1,38 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+  n       10      15      20      25      30      40      50      100
+
+  k        2.7       2.4       2.3       2.2       2.15      2.05      2.0       1.9
+
+For n<10 and more details and information, see appendix 6.4.1 and ref. [10-3].
+
+In case of S-N data, proper account should be taken of the fact that residual stresses are usually
+low in small-scale specimens. The results should be corrected to allow for the greater effects of
+residual stresses in real components and structures. This may be achieved either by testing at
+high R-ratios, e.g. R=0.5, or by testing at R=0 and lowering the fatigue strength at 2 million
+cycles (FAT) by 20% .
+
+
+3.7.3 Evaluation of Data Collections
+
+Usually data collections do not origin from a single statistical population. These heterogeneous
+populations of data require a special consideration in order to avoid an excessive and unnecessa-
+ry calculative scatter. The evaluation procedure should consist of the following steps:
+
+1.    To calculate the constant C of the SN Wöhler curve for each data point (eq.1) using the
+        anticipated knowledge of the slope exponent of comparable test series, e.g slope m=3.00
+        for steel or aluminium.
+2.    To plot all values C into a Gaussian probability chart, showing the values of C on the
+        abscissa and the cumulative survival probability on the ordinate.
+3.    To check the probability plot for heterogeneity of the population. If it is heterogeneous,
+        separate the portion of the population which is of interest (see illustration on figures
+        (3.7)-2 and (3.7-3)).
+4.    To evaluate the interesting portion of population according to chapter 3.7.2.
+
+
+
+
+
+                                    page 93

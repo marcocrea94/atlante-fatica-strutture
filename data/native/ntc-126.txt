@@ -1,0 +1,37 @@
+Le classi di resistenza a fatica per tensioni normali relative a  i dettagli più comuni sono riportate nella Tabelle C4.2.XII.a,
+C4.2.XII.d, C4.2.XIII, C4.2.XIV, C4.2.XV e C4.2.XVI.a, mentre in Tabella C4.2.XVII sono riportate le classi dei dettagli tipici dei
+carriponte. Nelle tabelle le classi relative ad alcuni dettagli sono contrassegnate con un asterisco: per questi dettagli è possibile
+adottare una classificazione superiore di una classe, se  si assume come resistenza a fatica ad ampiezza costante quella
+corrispondente a 107 cicli (vedi Figura C4.2.22).
+
+
+
+
+
+                                Figura C4.2.22 – Classificazione alternativa 01Cper dettagli classificati come01*C
+
+Le curve S-N per tensioni tangenziali sono rappresentate in Figura C4.2.23.
+Le curve S-N per tensioni tangenziali sono caratterizzate, oltre che dalla classe 0FC, dal limite per  i calcoli di fatica, 0FL,
+corrispondente a N=108 cicli. L’equazione della curva S-N è
+
+
+                                       $
+                          0F  0F                    " ( .
+                          .                                        [C4.2.96]
+
+                          0F  0F =                    " ( .I
+
+dove m=5, cosicché risulta
+                           0F =    #  0F   .                                      [C4.2.97]
+
+Le classi di resistenza a fatica per tensioni tangenziali relative ai dettagli più comuni sono riportate nella Tabelle C4.2.XII.b,
+C4.2.XII.c e C4.2.XVI.b.
+
+
+
+
+
+                                 Figura C4.2.23 - Curve S-N per dettagli/elementi soggetti a tensioni tangenziali
+
+Per la resistenza dei dettagli costruttivi tipici degli impalcati a piastra ortotropa, si può far riferimento al documento UNI EN
+1993-1-9.

@@ -1,0 +1,29 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+731                                            Reinforcements welded on with fillet                    Grinding in direction of stress!
+                                                 welds, toe ground                    80     32
+                                         Toe as welded                       71     25     Analysis based on modified nominal stress, however,
+                                                                                                                       structural stress approach recommended.
+
+
+
+
+800    Flanges, branches and nozzles
+
+811                                                       Stiff block flange, full penetration weld   71     25
+
+
+
+
+
+812                                                       Stiff block flange, partial penetration or
+                                                                   fillet weld
+                                                             toe crack in plate             63     22
+                                                             root crack in weld throat       36     12
+
+
+
+
+
+                                                       page 70

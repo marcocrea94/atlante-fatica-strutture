@@ -1,0 +1,40 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+6.3 FORMULAE FOR MISALIGNMENT
+
+Tab. {6.3}-1: Formulae for assessment of misalignment
+
+ #    TYPE OF MISALIGNMENT
+
+ 1      Axial misalignment between flat plates
+
+
+
+
+
+       8 is dependent on restraint, 8=6 for unrestrained joints.
+        For remotely loaded joints assume l1=l2.
+
+ 2      Axial misalignment between flat plates of differing thickness
+
+
+
+
+
+         Relates to remotely loaded unrestraint joints.
+       The use of n=1.5 is supported by tests.
+
+ 3      Axial misalignment at joints in cylindrical shells with thickness change
+
+
+
+
+
+        n=1.5 in circumferential joints and joints in spheres.
+        n=0.6 for longitudinal joints.
+
+
+
+
+
+                                    page 133

@@ -1,0 +1,63 @@
+prospetto   8.3   Saldature di testa trasversali (Continua)
+
+
+Categoria di                         Particolare costruttivo                                   Descrizione                        Requisiti
+ particolare
+
+               Effetto                                                              8) Come il particolare 3) ma con fori di  - Tutte le saldature
+             scala per                                                              scarico.                                      livellate mediante rettifica
+                      t > 25 mm:                                                                                                           fino alla superficie della
+            ks= (25/t )0,2                                                                                                    piastra in direzione
+                                                                                                                                 parallela alla freccia.
+                                                                                                                                                                  - Utilizzare talloni di
+                                                                                                                      estremità e rimuoverli
+                                                                                                             successivamente,
+                                                                                                                                                 livellare mediante rettifica
+    90
+                                                                                                                                           le estremità delle lamiere
+                                                                                                                                           in direzione della
+                                                                                                                        tensione.
+                                                                                                                                                                  - Saldature su entrambi i
+                                                                                                                                                                         lati verificate secondo
+                                                                                                  NDT.
+                                                                                                                                                                  - Profilati laminati con le
+                                                                                                                stesse dimensioni senza
+                                                                                                                            differenze di tolleranza.
+
+               Effetto                                                              9) Giunti trasversali di lamiere in travi   - Altezza del
+             scala per                                                 composte senza fori di scarico.        sovrametallo non
+                      t > 25 mm:                                                     10) Profilati aventi sezioni trasversali  maggiore del 20% della
+             ks= (25/t )0,2                                                 completamente saldate di testa o      larghezza della
+                                                                                                      profilati laminati con fori di scarico.     saldatura, con
+                                                                            11) Giunti trasversali in piastre, piatti,  transizione graduale alla
+                                                                                                      profilati laminati o travi composte.      superficie della piastra.
+                                                                                                                                                                  - Saldature non livellate
+                                                                                                         mediante rettifica.
+                                                                                                                                                                  - Utilizzare talloni di
+                                                                                                                      estremità e rimuoverli
+                                                                                                             successivamente,
+                                                                                                                                                 livellare mediante rettifica
+    80
+                                                                                                                                           le estremità delle lamiere
+                                                                                                                                           in direzione della
+                                                                                                                        tensione.
+                                                                                                                                                                  - Saldature su entrambi i
+                                                                                                                                                                         lati verificate secondo
+                                                                                                  NDT.
+                                                                                                                            Particolare 10:
+                                                                                                                   Altezza del sovrametallo
+                                                                                                 non maggiore del 10%
+                                                                                                                                della larghezza della
+                                                                                                                           saldatura, con
+                                                                                                                           transizione graduale alla
+                                                                                                                               superficie della piastra.
+
+                                                                            12) Profilati aventi sezioni trasversali    - Utilizzare talloni di
+                                                                      completamente saldate di testa o      estremità e rimuoverli
+                                                                                                      profilati laminati senza fori di scarico.  successivamente,
+                                                                                                                                                 livellare mediante rettifica
+    63                                                                                                                                   le estremità delle lamiere
+                                                                                                                                           in direzione della
+                                                                                                                        tensione.
+                                                                                                                                                                  - Saldature su entrambi i
+                                                                                                                                                                              lati.

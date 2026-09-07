@@ -1,0 +1,22 @@
+{
+  "pages": 196,
+  "tables": 64,
+  "details": 245,
+  "per_source": {
+    "ntc": {
+      "pages": 15,
+      "details": 68,
+      "tables": 16
+    },
+    "ec3": {
+      "pages": 36,
+      "details": 94,
+      "tables": 20
+    },
+    "iiw": {
+      "pages": 145,
+      "details": 83,
+      "tables": 28
+    }
+  }
+}

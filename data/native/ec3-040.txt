@@ -1,0 +1,20 @@
+figura      A.1  Metodo del danneggiamento cumulativo (Continua)
+
+
+
+
+
+d) Spettro dell’intervallo di variazione della tensione
+
+
+
+
+
+e) Cicli a collasso
+
+
+
+
+
+                                                                                                               ni    n1   n2   n3   n4
+f) Accumulo del danneggiamento (regola di Palmgren-Miner)           ∑ ----Ni =   ------N1 +  ------N2 +  ------N3 +  ------N4 ≤ DL

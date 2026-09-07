@@ -1,0 +1,38 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+600   Lap joints
+
+611                                             Transverse loaded lap joint with fillet                      Stresses to be calculated in the main plate using a plate
+                                             welds                                               width equalling the weld length.
+                                                          Fatigue of parent metal         63     22     Buckling avoided by loading or design!
+                                                          Fatigue of weld throat         45     16
+
+
+
+612                                              Longitudinally loaded lap joint with                 Weld terminations more than 10 mm from plate edge.
+                                                     side fillet welds                                      Buckling avoided by loading or design!
+                                                          Fatigue of parent metal         50     18
+                                                          Fatigue of weld (calc. on max.                 For verification of parent metal, the higher stress of
+                                                   weld length of 40 times the     50     18     both members has to be taken.
+                                                                throat of the weld
+
+
+613                                      Lap joint gusset, fillet welded, non-                             t = thickness of gusset plate
+                                                     load-carrying, with smooth transition
+                                                  (sniped end with n<20° or radius),
+                                            welded to loaded element c<2At,
+                                                  but c <= 25 mm
+                                                                to flat bar                   63     22
+                                                                to bulb section               56     20
+                                                                to angle section               50     18
+
+614                                             Transverse loaded overlap joint with                       Stresses to be calculated using a plate width equalling
+                                                                   fillet welds.                                               the weld length.
+                                                     Stress in plate at weld toe (toe crack)     63     22     For stress in plate, excenticity to be considered, as gi-
+                                                                                              ven in chapters 3.8.2 and 6.3.
+                                                     Stress in weld throat (root crack)        36     12     Both failure modes have to be assessed separately.
+
+
+
+                                                       page 68

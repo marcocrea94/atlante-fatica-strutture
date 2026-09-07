@@ -1,0 +1,73 @@
+prospetto   8.1  Membrature piane e collegamenti realizzati mediante organi meccanici (Continua)
+
+
+Categoria di                        Particolare costruttivo                                  Descrizione                         Requisiti
+ particolare
+
+                                                                              8) Collegamenti    8) ∆σ calcolato      In generale per
+                                                                              simmetrici con      sulla sezione        connessioni bullonate
+                                                                      doppio coprigiunto  trasversale lorda.     [Particolari da 8) a 13)]:
+                                                               e bulloni
+                                                                                   precaricati ad alta
+   112                                                                        resistenza.
+
+                                                                              8) Collegamenti    8) ... sezione
+                                                                                                              Distanza dal bordo:
+                                                                              simmetrici con      trasversale lorda.
+                                                                                                                e1 ≥ 1,5 d                                                                      doppio coprigiunto
+                                                               e bulloni stampati
+                                                                                      precaricati.
+
+                                                                              9) Collegamenti    9) ... sezione
+                                                                              simmetrici con      trasversale netta.
+                                                                      doppio coprigiunto
+                                                               e bulloni calibrati.                      Distanza dal bordo:
+                                                                              9) Collegamenti    9) ... sezione        e2 ≥ 1,5 d
+                                                                              simmetrici con      trasversale netta.
+                                                                      doppio coprigiunto
+                                                               e bulloni stampati
+                                                               non precaricati.
+
+                                                                        10) Collegamenti   10) ... sezione       Interasse:
+                                                                 con singolo         trasversale lorda.    p1 ≥ 2,5 d
+                                                                              coprigiunto e
+    90                                                                             bulloni precaricati
+                                                               ad alta resistenza.
+
+                                                                        10) Collegamenti   10) ... sezione
+                                                                                                                          Interasse:                                                                 con singolo         trasversale lorda.
+                                                                              coprigiunto e                           p2 ≥ 2,5 d
+                                                                                     bulloni stampati
+                                                                                      precaricati.
+
+                                                                        11) Elementi       11) ... sezione        Dettagli costruttivi figura
+                                                                                             strutturali con fori   trasversale netta.    3.1 della EN 1993-1-8
+                                                                                  sottoposti a forze
+                                                                                        flessionali ed
+                                                                                            assiali.
+
+
+
+                                                                        12) Collegamenti   12) ... sezione
+                                                                 con singolo         trasversale netta.
+                                                                              coprigiunto e
+                                                                                     bulloni calibrati.
+    80                                                                  12) Collegamenti   12) ... sezione
+                                                                 con singolo         trasversale netta.
+                                                                              coprigiunto e
+                                                                                     bulloni stampati
+                                                               non precaricati.
+
+                                                                        13) Collegamenti   13) ... sezione
+                                                                 con singolo         trasversale netta.
+                                                                              coprigiunto o
+                                                                              simmetrici con
+                                                                      doppio coprigiunto
+                                                                 con bulloni non
+    50
+                                                                                   precaricati in fori
+                                                                                aventi normali
+                                                                                    tolleranze.
+                                                                Assenza di
+                                                                              inversione del
+                                                                                    carico.

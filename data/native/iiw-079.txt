@@ -1,0 +1,50 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+d)    Load the reference detail and the detail to be assessed with the stress identified in b).
+e)     Determine the structural hot spot stress Fhs, ref of the reference detail and the Structural
+       hot spot stress Fhs, assess of the detail to be assessed.
+f)    The fatigue resistance for 2 million cyles of the detail to be assessed FATassess is then
+        calculated from fatigue class of the reference detail FATref by:
+
+
+
+
+3.4  FATIGUE  RESISTANCE  AGAINST  EFFECTIVE
+NOTCH STRESS
+
+3.4.1 Steel
+
+The effective notch stress fatigue resistance against fatigue actions, as determined in 2.2.4 for
+steel, is given in table {3.4}-1. The definition of the FAT class is given in chapter 3.2. The
+fatigue resistance value refers to the as-welded condition. The effect of welding residual stresses
+is included. Possible misalignment is not included.
+
+Tab. {3.4}-1: Effective notch fatigue resistance for steel
+
+       No.     Quality of weld notch       Description             FAT
+
+       1        Effective notch radius      Notch as-welded, normal      225
+                  equalling 1 mm replacing   welding quality
+               weld toe and weld root
+                notch                m=3
+
+
+
+3.4.2 Aluminium
+
+
+Tab. {3.4}-2: Effective notch fatigue resistance for aluminium
+
+       No.     Quality of weld notch       Description             FAT
+
+       1        Effective notch radius      Notch as-welded, normal      71
+                  equalling 1 mm replacing   welding quality
+               weld toe and weld root
+                notch                m=3
+
+
+
+
+
+                                    page 79

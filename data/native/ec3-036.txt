@@ -1,0 +1,59 @@
+prospetto   8.9   Lastre ortotrope - correnti aperti
+
+
+Categoria di                Particolare costruttivo                           Descrizione                                  Requisiti
+ particolare
+
+    80          t ≤ 12 mm                                        1) Connessione di correnti longitudinali  1) Valutazione basata sull’intervallo di
+                                                   a traversi.                              variazione della tensione normale ∆σ nel
+                                                                                                          corrente.
+
+
+    71          t > 12 mm
+
+
+
+
+
+                                                                2) Connessione di correnti longitudinali  2) Valutazione basata combinando
+                                                                  continui a traversi                           l’intervallo di variazione della tensione
+                                               ∆Ms                          tangenziale ∆τ e l’intervallo di variazione
+                               ∆σ =    --------------                            della tensione normale ∆σ nell’anima del                                                                           Wnet,s
+                                                                                                        traverso come un intervallo di variazione
+                                                   ∆Vs                             della tensione equivalente:                                  ∆τ =    -----------------
+                                                                                     Aw,net,s                             1                                                                              ∆σeq =   ( ∆σ+  ∆σ2 + 4∆τ2 )                                                                     Verificare anche l’intervallo di                                                   2--
+    56                                                        variazione della tensione tra i correnti
+                                               come definito nella EN 1993-2.
+
+
+
+
+
+            prospetto  8.10   Giunzioni superiori tra ala ed anima o travi per vie di corsa
+
+
+  Categoria di           Particolare costruttivo                       Descrizione                                      Requisiti
+   particolare
+
+                                                        1) Profilati laminati con sezione ad I o ad H. 1) Intervallo di variazione della tensione
+                                                                                                           verticale di compressione ∆σvert nell’anima
+                                                                                         dovuto ai carichi trasmessi dalla ruota.
+     160
+
+
+
+
+
+                                                        2) Giunzione saldata a T a completa        2) Intervallo di variazione della tensione
+                                                     penetrazione.                                 verticale di compressione ∆σvert nell’anima
+                                                                                         dovuto ai carichi trasmessi dalla ruota.
+
+     71
+
+
+
+
+                                                        3) Giunzione saldata a T a parziale          3) Intervallo di variazione della tensione ∆σvert
+                                                   penetrazione o giunzione saldata a T a      nella gola della saldatura dovuto alla
+                                                 completa penetrazione efficace in         compressione verticale derivante dai carichi
+     36*                                            conformità alla EN 1993-1-8.               trasmessi dalla ruota.

@@ -1,0 +1,522 @@
+[
+  {
+    "bbox": [
+      47.45454406738281,
+      58.254547119140625,
+      88.69091033935547,
+      68.0727310180664
+    ],
+    "text": "11-2-2019",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      181.96363830566406,
+      57.599998474121094,
+      413.0181884765625,
+      68.0727310180664
+    ],
+    "text": "Supplemento ordinario n. 5 alla GAZZETTA UFFICIALE",
+    "confidence": 0.99957
+  },
+  {
+    "bbox": [
+      467.6727294921875,
+      58.581817626953125,
+      547.5272827148438,
+      67.41818237304688
+    ],
+    "text": "Serie generale - n. 35",
+    "confidence": 0.98788
+  },
+  {
+    "bbox": [
+      313.52728271484375,
+      98.83636474609375,
+      341.6727294921875,
+      105.38182067871094
+    ],
+    "text": "1 – Paraghiaia",
+    "confidence": 0.95277
+  },
+  {
+    "bbox": [
+      276.87274169921875,
+      103.41818237304688,
+      287.6727294921875,
+      111.5999984741211
+    ],
+    "text": "Q1k",
+    "confidence": 0.88921
+  },
+  {
+    "bbox": [
+      313.20001220703125,
+      103.74545288085938,
+      333.16363525390625,
+      110.29090881347656
+    ],
+    "text": "2 - Ponte",
+    "confidence": 0.93069
+  },
+  {
+    "bbox": [
+      312.87274169921875,
+      108.3272705078125,
+      334.47271728515625,
+      116.18181610107422
+    ],
+    "text": "3 - Spalla",
+    "confidence": 0.92591
+  },
+  {
+    "bbox": [
+      314.50909423828125,
+      133.1999969482422,
+      334.47271728515625,
+      142.69090270996094
+    ],
+    "text": "0,6 Q1k",
+    "confidence": 0.88527
+  },
+  {
+    "bbox": [
+      322.036376953125,
+      165.92727661132812,
+      330.87274169921875,
+      175.09091186523438
+    ],
+    "text": "2",
+    "confidence": 0.99432
+  },
+  {
+    "bbox": [
+      302.3999938964844,
+      208.8000030517578,
+      309.2727355957031,
+      216.654541015625
+    ],
+    "text": "3",
+    "confidence": 0.99986
+  },
+  {
+    "bbox": [
+      220.25454711914062,
+      226.4727325439453,
+      374.7272644042969,
+      235.96363830566406
+    ],
+    "text": "Figura C5.1.1 - Carichi da traffico su muri paraghiaia",
+    "confidence": 0.99577
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      246.1090850830078,
+      285.7090759277344,
+      257.8908996582031
+    ],
+    "text": "C5.1.3.10 AZIONI SUI PARAPETTI E URTI DI VEICOLO IN SVIO: q8",
+    "confidence": 0.96455
+  },
+  {
+    "bbox": [
+      72.0,
+      261.49090576171875,
+      522.3272705078125,
+      271.30908203125
+    ],
+    "text": "Le barriere di sicurezza stradali e gli elementi ai quali sono collegate devono essere dimensionati in funzione della classe di",
+    "confidence": 0.99618
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      272.6181945800781,
+      522.3272705078125,
+      282.1091003417969
+    ],
+    "text": "contenimento richiesta per l’impiego specifico dalle normative nazionali applicabili. Al fine di garantire il rispetto del requisito di",
+    "confidence": 0.99045
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      283.4181823730469,
+      522.3272705078125,
+      292.2545471191406
+    ],
+    "text": "resistenza meccanica e stabilità, si potranno utilizzare solo dispositivi di ritenuta stradale in possesso di idonea qualificazione ai",
+    "confidence": 0.9904
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      293.8908996582031,
+      275.5636291503906,
+      303.3818054199219
+    ],
+    "text": "sensi della normativa comunitaria o nazionale applicabile.",
+    "confidence": 0.99891
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      306.9818115234375,
+      270.9818115234375,
+      316.47271728515625
+    ],
+    "text": "Nella progettazione dell'impalcato si dovrà tenere conto:",
+    "confidence": 0.99674
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      320.0727233886719,
+      247.41818237304688,
+      329.5636291503906
+    ],
+    "text": "- della tipologia di barriera di sicurezza prescelta;",
+    "confidence": 0.9935
+  },
+  {
+    "bbox": [
+      72.0,
+      332.50909423828125,
+      522.9818115234375,
+      342.9818115234375
+    ],
+    "text": "- della necessità di garantire uno spazio di lavoro tale da permettere la traslazione e il sostegno del veicolo in svio ed anche dei",
+    "confidence": 0.99515
+  },
+  {
+    "bbox": [
+      78.54545593261719,
+      343.6363525390625,
+      522.654541015625,
+      353.12725830078125
+    ],
+    "text": "moduli di barriera coinvolti prevedendo una prosecuzione del cordolo per una larghezza trasversale retro-barriera almeno pari",
+    "confidence": 0.99796
+  },
+  {
+    "bbox": [
+      78.87272644042969,
+      354.1091003417969,
+      245.1272735595703,
+      363.9272766113281
+    ],
+    "text": "a quella utilizzata nella prova di qualificazione;",
+    "confidence": 0.99026
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      367.20001220703125,
+      522.3272705078125,
+      376.69091796875
+    ],
+    "text": "- delle modalità di ancoraggio e di funzionamento della barriera prescelta e della sua compatibilità, anche nel caso di impalcato",
+    "confidence": 0.99889
+  },
+  {
+    "bbox": [
+      78.54545593261719,
+      378.0,
+      486.0,
+      386.50909423828125
+    ],
+    "text": "non rettilineo, al fine di garantire un funzionamento “a catena\" dell'intera tratta minima individuata nei test dal vero.",
+    "confidence": 0.98483
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      391.0909118652344,
+      522.654541015625,
+      400.5818176269531
+    ],
+    "text": "Nella progettazione esecutiva andranno altresì recepite tutte le prescrizioni di installazione e manutenzione contenute nel",
+    "confidence": 0.99242
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      401.5636291503906,
+      228.1090850830078,
+      411.0545349121094
+    ],
+    "text": "documento di qualificazione del dispositivo.",
+    "confidence": 0.99137
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      414.9818115234375,
+      499.0909118652344,
+      423.81817626953125
+    ],
+    "text": "Ppone uon e n ons du      uzons  un  un dnto",
+    "confidence": 0.66299
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      427.7454528808594,
+      522.3272705078125,
+      437.2363586425781
+    ],
+    "text": "In caso di ripristino di parti localizzate di un sistema di ritenuta, danneggiate a seguito di eventi incidentali, prima di procedere",
+    "confidence": 0.99562
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      437.5636291503906,
+      522.3272705078125,
+      448.036376953125
+    ],
+    "text": "al ripristino con elementi identici o equivalenti ma comunque compatibili con quelli già installati, si rende necessaria da parte del",
+    "confidence": 0.99402
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      448.69091796875,
+      522.654541015625,
+      458.83636474609375
+    ],
+    "text": "progettista una valutazione del comportamento offerto dalla barriera nell'evento che ha causato il danneggiamento, per",
+    "confidence": 0.99431
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      459.16363525390625,
+      522.654541015625,
+      468.654541015625
+    ],
+    "text": "valutarne l'efficacia in termini di prestazioni ai sensi della normativa nazionale vigente e tenuto conto della effettiva",
+    "confidence": 0.99107
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      469.963623046875,
+      352.14544677734375,
+      479.4545593261719
+    ],
+    "text": "composizione prevalente del traffico e della conseguente classe di contenimento.",
+    "confidence": 0.99658
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      482.3999938964844,
+      522.0,
+      492.5454406738281
+    ],
+    "text": "Utile e immediato a garantire le richieste minime di resistenza al piede della barriera è la riproduzione delle tipologie di vincolo",
+    "confidence": 0.99219
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      493.52728271484375,
+      479.12725830078125,
+      503.0181884765625
+    ],
+    "text": "effettivamente utilizzate nella positiva sperimentazione documentata da prove eseguite ai sensi della UNI EN 1317-2.",
+    "confidence": 0.99167
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      513.4909057617188,
+      191.4545440673828,
+      521.0181884765625
+    ],
+    "text": "C5.1.4 VERIFICHE DI SICUREZZA",
+    "confidence": 0.99709
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      533.4545288085938,
+      247.09091186523438,
+      541.963623046875
+    ],
+    "text": "C5.1.4.3 VERIFICHE ALLO STATO LIMITE DI FATICA",
+    "confidence": 0.98508
+  },
+  {
+    "bbox": [
+      72.0,
+      545.2363891601562,
+      522.654541015625,
+      555.7091064453125
+    ],
+    "text": "Per le verifiche a fatica, in alternativa all'effettivo spettro di carico che interessa il ponte, o in mancanza di esso, si può far",
+    "confidence": 0.99446
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      556.3636474609375,
+      522.3272705078125,
+      565.8545532226562
+    ],
+    "text": "riferimento ai quattro modelli di carico a fatica assegnati al §5.1.4.3 delle NTC. I predetti modelli di carico a fatica includono gli",
+    "confidence": 0.99315
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      566.8363647460938,
+      522.3272705078125,
+      576.3272705078125
+    ],
+    "text": "effetti dinamici, calcolati con riferimento alla rugosità di pavimentazioni stradali di qualità buona secondo la norma ISO",
+    "confidence": 0.9898
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      576.9818115234375,
+      109.96363830566406,
+      585.8181762695312
+    ],
+    "text": "8685:1995.",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      590.07275390625,
+      522.654541015625,
+      599.5636596679688
+    ],
+    "text": "Per le verifiche a fatica di dettagli caratterizzati da limite di fatica ad ampiezza costante debbono essere effettuate verifiche",
+    "confidence": 0.99154
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      600.8727416992188,
+      522.0,
+      610.036376953125
+    ],
+    "text": "differenziate a seconda che si conducano verifiche a vita illimitata o verifiche a danneggiamento. Per dettagli caratterizzati da",
+    "confidence": 0.98386
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      611.0181884765625,
+      469.6363525390625,
+      621.4909057617188
+    ],
+    "text": "curve S-N prive di limite di fatica ad ampiezza costante, possono essere condotte solo verifiche a danneggiamento.",
+    "confidence": 0.9974
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      624.7636108398438,
+      522.654541015625,
+      634.2545166015625
+    ],
+    "text": "Per le verifiche a vita illimitata si possono impiegare, in alternativa, il modello di carico a fatica n. 1, derivato dal modello di",
+    "confidence": 0.99357
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      635.5636596679688,
+      522.3272705078125,
+      644.07275390625
+    ],
+    "text": "carico statico, che è un modello cautelativo, molto semplificato, che consente anche di considerare l’effetto d'interazione di carichi",
+    "confidence": 0.98681
+  },
+  {
+    "bbox": [
+      72.0,
+      645.3818359375,
+      522.654541015625,
+      655.2000122070312
+    ],
+    "text": "s a mlo lo o o do     al  mlo   do  ilo io no al lso",
+    "confidence": 0.66966
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      655.8545532226562,
+      522.654541015625,
+      666.3272705078125
+    ],
+    "text": "spettro di carico frequente, il quale, però, non tiene conto dell'effetto d’interazione di carichi simultaneamente applicati su più",
+    "confidence": 0.98724
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      666.9818115234375,
+      97.19999694824219,
+      676.1454467773438
+    ],
+    "text": "corsie.",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      72.0,
+      679.0908813476562,
+      415.963623046875,
+      689.5636596679688
+    ],
+    "text": "Il modello di carico a fatica n. 1 va disposto sul ponte in modo da massimizzare il delta di tensione,",
+    "confidence": 0.98971
+  },
+  {
+    "bbox": [
+      173.4545440673828,
+      691.8545532226562,
+      246.1090850830078,
+      705.92724609375
+    ],
+    "text": "∆σ = σmax − σmin ′",
+    "confidence": 0.89678
+  },
+  {
+    "bbox": [
+      394.036376953125,
+      693.1636352539062,
+      422.83636474609375,
+      703.6363525390625
+    ],
+    "text": "(C5.1.1)",
+    "confidence": 0.99997
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      708.8727416992188,
+      345.6000061035156,
+      718.3636474609375
+    ],
+    "text": "considerando, se necessario, disposizioni diverse per il calcolo di σmax e di σmin.",
+    "confidence": 0.99961
+  },
+  {
+    "bbox": [
+      288.654541015625,
+      765.4909057617188,
+      307.30908203125,
+      775.30908203125
+    ],
+    "text": "167",
+    "confidence": 1.0
+  }
+]

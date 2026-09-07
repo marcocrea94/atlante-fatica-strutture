@@ -1,0 +1,28 @@
+C4.2.4.1.4    Stato limite di fatica
+
+Per le strutture soggette a carichi ciclici deve essere verificata la resistenza a fatica, considerando una distribuzione temporale
+delle azioni coerente con la tipologia strutturale in esame e con il regime d’impegno previsto nel corso della vita nominale.
+
+C4.2.4.1.4.1    Spettri di carico
+
+La distribuzione temporale delle ampiezze delle azioni nel corso della vita della struttura è assegnata mediante il cosiddetto
+spettro di carico, che fornisce il numero di ripetizioni di ciascun livello delle azioni di progetto in un intervallo di tempo di
+riferimento, in funzione della destinazione d’uso della struttura e dell’intensità dell’utilizzazione. Quando lo spettro di carico
+effettivo è complesso al punto da non poter essere impiegato direttamente nelle verifiche, esso può essere sostituito da spettri
+convenzionali, in grado di riprodurre il danneggiamento a fatica e/o il livello massimo di escursione delle tensioni amax prodotti
+dallo spettro effettivo.
+
+Nel caso degli edifici la verifica a fatica non è generalmente necessaria, salvo che per membrature che sostengono macchine
+vibranti o dispositivi di sollevamento e trasporto dei carichi.
+
+Gli spettri di carico da impiegare nelle verifiche possono essere determinati mediante studi specifici o anche dedotti da normative
+di comprovata validità. Gli spettri di carico da impiegare per le verifiche a fatica dei ponti stradali e ferroviari sono assegnati nel
+§ 5.1.4.3 delle NTC.
+
+Nella verifica dei dettagli strutturali metallici, caratterizzati dalla presenza di limite di fatica ad ampiezza costante, spesso è
+necessario considerare spettri di carico convenzionali differenziati, a seconda che si tratti di verifiche a fatica a vita illimitata o di
+verifiche a danneggiamento.
+
+C4.2.4.1.4.2        Spettri di tensione e metodi di conteggio
+
+Gli spettri di tensione debbono essere ricavati analizzando gli oscillogrammi di tensione 1(t), indotti nel dettaglio considerato

@@ -1,0 +1,34 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+226                                             Transverse butt weld flange splice in     100    40      All welds ground flush to surface, grinding paralell to
+                                                      built-up section welded prior to the as-                     direction of stress. Weld run-on and run-off pieces to be
+                                               sembly, ground flush, with radius tran-                  used and subsequently removed. Plate edges to be
+                                                            sition, NDT                                        ground flush in direction of stress.
+
+
+
+
+231                                             Transverse butt weld splice in rolled     80     28      All welds ground flush to surface, grinding paralell to
+                                                    section or bar besides flats, ground                         direction of stress. Weld run-on and run-off pieces to be
+                                                        flush, NDT                                          used and subsequently removed. Plate edges to be
+                                                                                               ground flush in direction of stress.
+
+
+
+
+232                                             Transverse butt weld splice in circular                Welded in flat position.
+                                              hollow section, welded from one side,
+                                                             full penetration, root crack
+
+                                                             root inspected by NDT         71     28
+                                                  no NDT                     36     12
+
+
+233                                            Tubular joint with permanent backing    71     28     Welded in flat position.
+
+
+
+
+
+                                                       page 53

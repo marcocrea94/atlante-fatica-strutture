@@ -1,0 +1,34 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+416                                           Cruciform joint or T-joint, single-sided   71     25     Analysis based on stress in weld root. Excentricity e of
+                                                    arc welded fillet or partial penetration                      plate t and weld throat a midpoints to be considered in
+                                                 Y-butt weld, no lamellar tearing,                            analysis. Stress at weld root:
+                                               misalignment of plates e< 0.15At, stress
+                                                           at weld root. Penetration verified.                 )F w, root = )F w, nom A (1+6e/a)
+
+                                                   Penetration not verified.               36     12     e = excentricity between plate and weld throat a
+
+                                                                          An analysis by effective notch stress procedure is re-
+                                                                                   commended
+
+421                                               Splice of rolled section with intermedia-  36     12
+                                                           te plate, fillet welds,
+                                            weld root crack.
+                                                Analysis base on stress in weld throat.
+
+
+
+
+
+422                                               Splice of circular hollow section with                 Welds NDT inspected in order to ensure full root pene-
+                                                   intermediate plate, singlesided butt                            tration.
+                                                weld, toe crack
+                                                         wall thickness > 8 mm         56     22
+                                                         wall thickness < 8 mm         50     20
+
+
+
+
+
+                                                       page 62

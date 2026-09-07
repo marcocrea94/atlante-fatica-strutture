@@ -1,0 +1,66 @@
+(2)  Si raccomanda che il metodo del "danneggiamento accettabile" fornisca un livello di
+              affidabilità accettabile tale da garantire che una struttura abbia una prestazione
+           soddisfacente durante  la sua  vita  di progetto, a condizione che   il sistema  di
+           ispezione e manutenzione per il rilievo e la riparazione dei danni da fatica sia attivato
+           per tutta la vita di progetto della struttura.
+
+Nota 1                 Il metodo del "danneggiamento accettabile" può essere applicato nel caso in cui, a seguito del
+                 verificarsi  di un danneggiamento da  fatica, sia possibile avere una ridistribuzione  di carico  tra
+             componenti degli elementi strutturali.
+
+Nota 2         L’appendice nazionale può fornire prescrizioni relative ai programmi di ispezione.
+
+Nota 3         Si ritiene che strutture progettate secondo la presente parte, con materiali selezionati secondo la
+         EN 1993-1-10 e sottoposte a regolare manutenzione, possano essere considerate strutture aventi
+            danneggiamento accettabile.
+
+        (3)  Si raccomanda che il metodo della "vita sicura" fornisca una affidabilità accettabile
+          che una struttura funzioni per la sua vita di progetto in modo soddisfacente senza la
+           necessità di regolare ispezione in fase di servizio per il rilievo di danni da fatica. Si
+          raccomanda che   il metodo della  "vita sicura" sia applicato nei casi  in cui  la
+           formazione locale di cricche in un componente potrebbe rapidamente condurre al
+            collasso dell’elemento strutturale o della struttura.
+
+        (4)  Allo scopo di utilizzare la presente parte per la valutazione della fatica, un accettabile
+               livello di affidabilità può essere ottenuto attraverso una calibrazione del coefficiente
+            parziale di sicurezza per resistenza a fatica γMf considerando le conseguenze del
+            collasso e le metodologie progettuali utilizzate.
+
+        (5)  Resistenze a fatica sono determinate considerando i particolari costruttivi strutturali
+           unitamente ai  relativi  effetti di intaglio metallurgici e geometrici. Nei particolari
+              costruttivi di fatica presentati nella presente parte è indicata anche la probabile
+            localizzazione dell’innesto della cricca.
+
+        (6)    I metodi di valutazione presentati nel presente codice adottano resistenze a fatica in
+            termini di curve di resistenza a fatica per:
+
+                -   particolari costruttivi standardizzati applicabili nel caso di tensioni nominali;
+
+                -   configurazioni  di  saldature  di  riferimento  applicabili  nel caso  di  tensioni
+               geometriche.
+
+        (7)   L’affidabilità richiesta può essere ottenuta come segue:
+
+            a) metodo del "danneggiamento accettabile"
+
+                     -   selezionando  particolari  costruttivi,  materiali e  livelli  tensionali  tali che
+                     nell’eventualità della formazione delle cricche si avrebbe una ridotta velocità
+                       di propagazione della cricca e una elevata lunghezza critica della cricca,
+
+                     -   prescrivendo il percorso di carico multiplo,
+
+                     -   prescrivendo particolari costruttivi per l’arresto della propagazione delle
+                    cricche,
+
+                     -   prescrivendo sulla buona accessibilità dei particolari costruttivi durante le
+                     regolari ispezioni;
+
+            b) metodo della "vita sicura"
+
+                     -   selezionando particolari costruttivi e livelli tensionali tali da ottenere una vita
+                a fatica sufficiente per raggiungere, alla fine della vita di progetto, un valore
+                     pari a quello per le verifiche allo stato limite ultimo.
+
+  Nota             L’appendice nazionale può  fornire  la  possibilità  di scelta del metodo  di valutazione, della
+                    definizione delle classi di conseguenze ed  i valori numerici per γMf. Valori raccomandati per γMf
+                sono forniti nel prospetto 3.1.

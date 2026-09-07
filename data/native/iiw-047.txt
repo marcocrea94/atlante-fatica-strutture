@@ -1,0 +1,35 @@
+Tab. {3.2}-1: Fatigue resistance values for structural details in steel and aluminium assessed on the basis of nominal stresses.
+
+
+  No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                      (St.= steel; Al.= aluminium)              St.     Al.
+
+  100   Unwelded parts of a component
+
+  111                                            Rolled or extruded products, compo-               No fatigue resistance of any detail to be higher at any
+                                                    nents with machined edges, seamless                  number of cycles!
+                                                hollow sections.
+                                                                                                  Sharp edges, surface and rolling flaws to be removed
+                                     m = 5                              by grinding. Any machining lines or grooves to be par-
+                                                                                                                                     allel to stresses!
+                                                                 St.:     For high strength steels a hig-   160
+                                                            her FAT class may be used if                   For high strength steels a higher FAT class may be used
+                                                                  verified by test.                                              if verified by test.
+
+                                                          Al.:   AA 5000/6000 alloys                 70
+                                    AA 7000 alloys                     80
+
+  121                                       Machine gas cut or sheared material     140      ---      All visible signs of edge imperfections to be removed.
+                                                  with subsequent dressing, no cracks by                The cut surfaces to be machined or ground, all burrs to
+                                                        inspection, no visible imperfections                    be removed.
+
+                                     m = 3                         No repair by welding refill!
+
+                                                                                              Notch effects due to shape of edges have to be conside-
+                                                                                                                        red.
+
+
+
+
+
+                                                        page 47

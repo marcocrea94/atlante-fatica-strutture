@@ -1,0 +1,31 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+841                                          Nozzle welded on plate, root pass re-    71     25       If diameter > 50 mm, stress concentration of cutout has
+                                       moved by drilling.                                          to be considered
+
+                                                                                                Assessment by structural hot spot is recommended.
+
+
+
+
+842                                          Nozzle welded on pipe, root pass as     63     22       If diameter > 50 mm, stress concentration of cutout has
+                                               welded.                                                     to be considered
+
+                                                                                                Assessment by structural hot spot is recommended.
+
+
+
+
+
+900    Tubular joints
+
+911                                                Circular hollow section butt joint to      63     22     Root of weld has to penetrate into the massive bar in
+                                              massive bar, as welded                                   order to avoid a gap perpenticular to the stress directi-
+                                                                                                            on.
+
+
+
+
+
+                                                       page 72

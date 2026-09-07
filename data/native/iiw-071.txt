@@ -1,0 +1,36 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+821                                                   Flat flange with > 80% full penetration   71     25     Assessment by structural hot spot is recommended.
+                                                      butt welds, modified nominal stress in
+                                                      pipe, toe crack
+
+
+
+
+
+822                                                   Flat flange with fillet welds, modified    63     22     Assessment by structural hot spot is recommended.
+                                             nominal stress in pipe, toe crack.
+
+
+
+
+
+831                                            Tubular branch or pipe penetrating a     80     28       If diameter > 50 mm, stress concentration of cutout has
+                                                          plate, K-butt welds.                                         to be considered
+
+                                                                                                Assessment by structural hot spot is recommended.
+
+
+
+
+832                                            Tubular branch or pipe penetrating a     71     25       If diameter > 50 mm, stress concentration of cutout has
+                                                          plate, fillet welds. Toe cracks.                              to be considered
+
+                                            Root cracks (analysis based on stress in  36     12     Assessment by structural hot spot is recommended.
+                                            weld throat)
+
+
+
+
+                                                       page 71

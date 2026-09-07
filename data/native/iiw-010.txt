@@ -1,0 +1,51 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+                             of the welded joint, but not due to the welded joint itself.
+
+Membrane stress           Average normal stress across the thickness of a plate or shell.
+
+Miner sum               Summation of individual fatigue damage ratios caused by
+                           each stress cycle or stress range block above a certain cut-off
+                                limit according to the Palmgren-Miner rule.
+
+ Misalignment              Axial and angular misalignments caused either by detail
+                            design or by poor fabrication or welding distortion.
+
+ Modified nominal stress     See 'Local nominal stress'.
+
+Nominal stress        A stress in a component, resolved using general theories, e.g.
+                       beam theory. See also local nominal stress.
+
+ Nonlinear stress peak      The stress component of a notch stress which exceeds the
+                                linearly distributed structural stress at a local notch.
+
+Notch stress                 Total stress at the root of a notch taking into account the stress
+                             concentration caused by the local notch, consisting of the sum
+                             of structural stress and nonlinear stress peak.
+
+Notch stress concentration   The ratio of notch stress to structural stress.
+ factor
+
+ Paris' law             An experimentally determined relation between crack growth
+                                 rate and stress intensity factor range.
+
+ Palmgren-Miner rule
+                            Fatigue failure is expected when the Miner sum reaches a
+                              specified value.
+
+ Rainflow counting      A standardized procedure for stress range counting.
+
+Range counting        A procedure of determining various stress cycles and their
+                            ranges from a stress history, preferably by rainflow counting
+                          method.
+
+ Shell bending stress        Bending stress in a shell or plate-like part of a component, li-
+                             nearly  distributed across the thickness as assumed in the
+                             theory of shells.
+
+S-N curve                  Graphical presentation of the dependence of fatigue life N on
+                               fatigue strength S ()FR or )JR), also known as Wöhler curve.
+
+
+                                     page 10

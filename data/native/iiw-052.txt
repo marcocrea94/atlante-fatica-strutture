@@ -1,0 +1,26 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+223                                             Transverse butt weld, NDT, with transi-              Weld run-on and run-off pieces to be used and subse-
+                                                      tion on thickness and width                              quently removed. Plate edges to be ground flush in di-
+                                                           slope 1:5                    80     25      rection of stress.
+                                                           slope 1:3                    71     22
+                                                           slope 1:2                    63     20     Misalignment <10%
+
+                                                                                                         Additional misalignments due to thickness step to be
+                                                                                                            considered, see chapter 3.8.2
+
+224                                             Transverse butt weld, different thick-    71     22     Misalignment <10% of smaller plate thickness
+                                                  nesses without transition,
+                                                    centres aligned.
+                                                   In cases, where weld profile is equiva-
+                                                        lent to a moderate slope transition, see
+                                                   no. 222
+
+225                                          Three plate connection, root crack       71     22      Misalignment <10%
+
+
+
+
+
+                                                       page 52

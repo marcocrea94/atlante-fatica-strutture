@@ -1,0 +1,32 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+
+
+Tab. {3.2}-2: Fatigue resistance values for structural details on the basis of shear stress
+
+   No.   Description                                           FAT    FAT
+          (St.= steel; Al.= aluminium)                                                          St.       Al.
+
+    1    Parent metal or full penetration butt weld; m=5 down to 1E8 cycles         100      36
+
+    2     Fillet weld or partial penetration butt weld; m=5 down to 1E8 cycles         80       28
+
+
+
+
+
+                Fig. (3.2)-4: Fatigue resistance S-N curve for shear at steel,
+               standard applications
+
+
+
+
+
+              Fig. (3.2)-5: Fatigue resistance S-N curves for shear at
+                steel, very high cycle applications
+
+
+
+                                                          page 75

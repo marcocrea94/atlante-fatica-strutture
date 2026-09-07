@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stress_range",
+    "term_it": "Intervallo di tensione",
+    "definition_editorial": "Differenza fra massimo e minimo del ciclo; distinto dalla semiampezza.",
+    "source": "iiw",
+    "pdf_page": 18
+  },
+  {
+    "id": "fat_class",
+    "term_it": "Categoria FAT",
+    "definition_editorial": "Resistenza di riferimento a due milioni di cicli, con definizione di tensione e condizioni associate.",
+    "source": "ec3",
+    "pdf_page": 17
+  },
+  {
+    "id": "nominal_stress",
+    "term_it": "Tensione nominale",
+    "definition_editorial": "Tensione riferita alla sezione, coerente con la classificazione del dettaglio.",
+    "source": "iiw",
+    "pdf_page": 22
+  },
+  {
+    "id": "hot_spot",
+    "term_it": "Tensione geometrica hot spot",
+    "definition_editorial": "Tensione strutturale presso la potenziale cricca, determinata con la procedura propria del metodo.",
+    "source": "iiw",
+    "pdf_page": 25
+  },
+  {
+    "id": "effective_notch",
+    "term_it": "Tensione di intaglio efficace",
+    "definition_editorial": "Valutazione locale con un intaglio convenzionale e una resistenza corrispondente.",
+    "source": "iiw",
+    "pdf_page": 35
+  },
+  {
+    "id": "cycle_counting",
+    "term_it": "Conteggio dei cicli",
+    "definition_editorial": "Trasformazione della storia temporale in intervalli e frequenze, mediante un metodo specificato.",
+    "source": "ntc",
+    "pdf_page": 124
+  },
+  {
+    "id": "damage",
+    "term_it": "Danno cumulativo",
+    "definition_editorial": "Accumulo dei contributi dei cicli secondo la regola e il limite del metodo adottato.",
+    "source": "iiw",
+    "pdf_page": 108
+  },
+  {
+    "id": "fatigue_limit",
+    "term_it": "Limite ad ampiezza costante",
+    "definition_editorial": "Soglia da distinguere dal limite di troncamento dello spettro a fatica.",
+    "source": "ec3",
+    "pdf_page": 17
+  }
+]

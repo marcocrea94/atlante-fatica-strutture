@@ -1,0 +1,42 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+6.2.4 Formulae for Stress Intensity Factors
+
+Stress intensity factor formulae may be taken from literature, see references [4-1 to 4-8]. For the
+majority of cases, the formulae given below are sufficient.
+
+Tab. {6.2}-2: Stress intensity factors at welds
+
+ Surface cracks under membrane stress
+
+                               The formula for the stress
+                               intensity factor K1 is valid
+                               for a/c < 1,
+                               for more details see ref. [4-
+                               2]
+
+
+
+              K1 = F /(BAa / Q)  A Fs
+
+           Q  = 1 + 1.464 (a/c)1.65
+
+              Fs = [M1 + M2A(a/t)2 + M3A(a/t)4]AgAfAfw
+
+              M1 = 1.13 - 0.09 (a/c)
+              M2 = -0.54 + 0.89 / (0.2 + a/c)
+              M3 = 0.5 - 1 / (0.65 + a/c) + 14 (1 - a/c)24
+
+              fw = [sec(BAc /(a/t) /(2Ab))]  1/2
+
+      g and f are dependent to direction
+
+           "a"-direction: g = 1          f = 1
+           "c"-direction: g = 1 + [0.1 + 0.35 (a/t)2]
+               f = /(a/c)
+
+
+
+
+
+                                    page 125

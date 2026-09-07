@@ -1,0 +1,56 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+           K  = Fmem  A /(BAa)  A Mk
+
+ where      Mk = 1.0                                for  x <
+ 0.8
+
+ and         Mk = /(0.95 + 0.65Ax - 0.035Ax1.6)      for  x > 0.8
+                                                   and  x <
+ 50
+
+ with      x  = a / /(rAt)
+
+      a  half distance between crack tips of through the
+ wall crack
+      r  radius of curvature perpenticular to the crack pla-
+ ne
+      t  wall thickness
+
+
+
+ Root gap crack in a fillet welded cruciform joint
+
+                               The formula for the stress
+                               intensity factor K is valid
+                               for H/t from 0.2 to 1.2 and
+                               for a/w from 0.0 to 0.7. For
+                               more details see ref. [4-5].
+
+
+
+                 FA(A1 + A2  A a/w)  A / (BAa  A sec(BAa/2w))
+        K =   _______________________________________________________________________________
+                           1 + 2AH/t
+
+ where  w = H + t/2
+         F = nominal stress range in the longitudinal plates
+
+ and with  x = H/t
+
+     A1 = 0.528 + 3.287Ax - 4.361Ax2 + 3.696Ax3 - 1.875Ax4 +
+ 0.415Ax5
+     A2 = 0.218 + 2.717Ax - 10.171Ax2 + 13.122Ax3 - 7.755Ax4 +
+ 1.783Ax5
+
+For a variety of welded joints parametric formulae of the Mk functions have been established
+and published [4-7, 4-8]. For the majority of cases, the formulae given below are sufficient [4-8].
+
+
+Tab. {6.2}-3:
+
+ Weld local geometry correction for crack at weld toe
+
+
+                                    page 128

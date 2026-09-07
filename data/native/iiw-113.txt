@@ -1,0 +1,48 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+4.4 FATIGUE ASSESSMENT BY CRACK PROPAGATION
+CALCULATION
+
+The fatigue action represented by the design spectrum of stress intensity factor ranges
+
+
+
+is verified by the material resistance design parameters against crack propagation
+
+
+
+
+
+using the "Paris" power law
+
+
+
+
+where a      crack parameter, damage parameter
+    N    Number of cycles
+    )K   range of stress intensity factor
+      )Kth  threshold value of stress intensity factor range
+       C0, m material constants
+
+At stress intensity factors which are high compared with the fracture toughness of the material,
+Kc, an acceleration of crack propagation will occur. In these cases, the following extension of
+the "Paris" power law of crack propagation is recommended. In the absence of an accurate value
+of the fracture toughness, a conservative estimate should be made.
+
+
+
+
+
+where
+      Kc     fracture toughness
+    R      stress ratio
+
+The number of life cycles N is determined by integration starting from an initial crack parameter
+ai to a final one af. The calculated number of life cycles N has to be greater or equal to the
+required number of cycles.
+
+In general, the integration has to be carried out numerically. The increment for one cycle is
+
+
+
+                                    page 113

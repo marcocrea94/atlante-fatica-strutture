@@ -1,0 +1,31 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+912                                                Circular hollow section welded to com-  63     22     Root of weld has to penetrate into the backing area in
+                                               ponent with single side butt weld, ba-                     order to avoid a gap perpenticular to the stress directi-
+                                                cking provided.                                          on.
+                                            Root crack.
+
+
+
+
+913                                                Circular hollow section welded to com-  50     18     Impairment of inspection of root cracks by NDT may
+                                               ponent single sided butt weld or double                 be compensated by adequate safety considerations (see
+                                                                   fillet welds.                                             chapter 5) or by downgrading down to 2 FAT classes.
+                                            Root crack.
+
+
+
+
+
+921                                                Circular hollow section with welded on              Non load-carrying weld.
+                                                   disk
+                                                         K-butt weld, toe ground        90     32
+                                                                      Fillet weld, toe ground         90     32
+                                                                      Fillet welds, as welded         71     25
+
+
+
+
+
+                                                       page 73

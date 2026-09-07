@@ -1,0 +1,26 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+931                                             Tube-plate joint, tubes flattened, butt     62     18
+                                            weld (X-groove)
+
+                                          Tube diameter < 200 mm and
+                                                        plate thickness < 20 mm
+
+
+
+
+
+932                                             Tube-plate joint, tube slitted and wel-
+                                            ded to plate
+
+                                                  tube diameter < 200 mm and          63     18
+                                                        plate thickness < 20 mm
+                                                  tube diameter > 200 mm or           45     14
+                                                        plate thickness > 20 mm
+
+
+
+
+
+                                                       page 74

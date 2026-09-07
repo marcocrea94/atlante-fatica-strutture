@@ -1,0 +1,50 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+ According to the ISO format for verification of structures [1-1], fatigue action and fatigue
+ resistance are clearly separated. Fatigue resistance is given in terms of tentative data. The
+ representation of tentative data has also been separated from the assessment curves used for
+damage calculation, because different damage calculation methods may require special
+ modifications to the resistance S-N curve, which is usually based on constant amplitude tests.
+ Thus, the flexibility and possibility for continuous updating of the document is maintained.
+
+
+No recommendations are given for the fatigue load (action) side, nor for the partial safety
+ factor on fatigue actions (F.
+
+The different approaches for the fatigue assessment of welded joints and components
+ considered are: nominal stress, hot-spot structural stress, effective notch stress, fracture
+ mechanics method and component testing.
+
+1.6 NECESSITY FOR FATIGUE ASSESSMENT
+
+ Fatigue assessment is generally required for components subject to fluctuating loads.
+
+ In the following cases, detailed fatigue assessment usually is not required:
+
+        a)    The highest nominal design stress range satisfies
+
+
+
+
+           (M should be taken from an applicable design code.
+
+              This paragraph is not applicable to tubular joints.
+
+        b)   A Miner sum (4.3.1) equal to D=0.5 using a FAT fatigue class according to
+                (3.2) of FAT 36 for steel or FAT 12 for aluminium corresponds to a fatigue
+                   life greater than 10 million cycles.
+
+        c)     For a detail for which a constant amplitude fatigue limit )FR,L is specified
+             and all design stress ranges are under the design resistance fatigue limit
+
+
+
+        d)     For a crack, at which all design stress intensity factors are under the threshold
+                level )Kth for crack propagation.
+
+
+
+
+
+                                     page 14

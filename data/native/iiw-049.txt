@@ -1,0 +1,30 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+211                                             Transverse loaded butt weld (X-groove   112    45      All welds ground flush to surface, grinding parallel to
+                                                   or V-groove) ground flush to plate,                         direction of stress. Weld run-on and run-off pieces to be
+                                    100% NDT                                          used and subsequently removed. Plate edges to be
+                                                                                               ground flush in direction of stress. Welded from both
+                                                                                                                        sides. Misalignement < 5%
+
+                                                                                                  Required quality cannot be inspected by NDT !
+
+212                                             Transverse butt weld made in shop in    90     36    Weld run-on and run-off pieces to be used and subse-
+                                                                flat position,                                            quently removed. Plate edges to be ground flush in di-
+                                            weld reinforcement < 0.1 A thickness                       rection of stress.
+
+                                                                                       Welded from both sides. Misalignment <5%
+
+
+
+213                                             Transverse butt weld not satisfying con-  80           Weld run-on and run-off pieces to be used and subse-
+                                                      ditions of 212, NDT                                     quently removed. Plate edges to be ground flush in di-
+                                                                                                                 rection of stress.
+                                                       Al.: Butt weld with toe angle #50°             32
+                                                     Butt welds with toe angle >50/             25     Welded from both sides. Misalignment <10%
+
+
+
+
+
+                                                       page 49

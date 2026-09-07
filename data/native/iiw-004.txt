@@ -1,0 +1,44 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+                          2.2.5.2 Calculation of Stress Intensity Factors by Parametric
+                         Formulae . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+                          2.2.5.3  Calculation  of  Stress  Intensity Factors by  Finite
+                           Elements
+                                                       . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+       2.3 STRESS HISTORY  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+ 3 FATIGUE RESISTANCE . . . . . . . . . . . . . . . . . . . . . . 43
+       3.1 BASIC PRINCIPLES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+       3.2 FATIGUE RESISTANCE OF CLASSIFIED
+       STRUCTURAL DETAILS  . . . . . . . . . . . . . . . . . . . . . . 44
+       3.3 FATIGUE RESISTANCE AGAINST STRUC-
+       TURAL HOT SPOT STRESS . . . . . . . . . . . . . . . . . . . 76
+               3.3.1 Fatigue Resistance using Reference S-N Curve   . . . . 76
+               3.3.2 Fatigue Resistance Using a Reference Detail . . . . . . . 77
+      3.4  FATIGUE  RESISTANCE  AGAINST
+        EFFECTIVE NOTCH STRESS . . . . . . . . . . . . . . . . . 79
+               3.4.1 Steel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+               3.4.2 Aluminium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+       3.5 FATIGUE STRENGTH MODIFICATIONS  . . . 80
+               3.5.1 Stress Ratio  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+                          3.5.1.1 Steel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+                          3.5.1.2 Aluminium  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+               3.5.2 Wall Thickness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+                          3.5.2.1 Steel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+                          3.5.2.2 Aluminium  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+               3.5.3 Improvement Techniques  . . . . . . . . . . . . . . . . . . . . . . . . . 81
+                          3.5.3.1 General  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+                          3.5.3.2 Applicabiliy of Improvement Methods  . . . . . . . . . . 82
+                          3.5.3.3 Burr Grinding   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+                          3.5.3.4 TIG Dressing   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+                          3.5.3.5 Hammer Peening  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+                          3.5.3.6 Needle Peening  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+               3.5.4 Effect of Elevated Temperatures   . . . . . . . . . . . . . . . . . . 85
+                          3.5.4.1 Steel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+                          3.5.4.2 Aluminium  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+               3.5.5 Effect of Corrosion  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+       3.6 FATIGUE RESISTANCE AGAINST CRACK
+
+
+                                      page 4

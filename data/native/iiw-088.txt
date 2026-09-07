@@ -1,0 +1,52 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+      Max. amount of nominal compressive stress in load spectrum                   , including
+       proof loading
+                             if R<0 then use
+                             if R>=0 then use       instead of
+                        (for aluminium use fy of HAZ!)
+
+Tab. 3.5-4a: Benefit factors on nominal stress at needle peening
+             Area of application                Mild steel       Steel fy $ 355 MPa
+                                                   fy < 355 MPa   & aluminium alloys
+
+ All structural details leading to a IIW fatigue           1.3                  1.6
+  class of 90 at steel or lower, or 40 at alumini-
+ um or lower. No higher class than 100 at steel
+  or 40 at aluminium. Butt joints to be assessed
+ by the nominal stress fatigue class.
+
+
+Tab. 3.5-4b: FAT classes for structural hot-spot stress at joints improved by needle peening
+
+  Material                               Load-carrying fillet    Non-Load-carrying fillet
+                                            welds                  welds
+
+ Mild steel, fu < 350 MPa                    112                  125
+
+ Higher strength steel, fu > 350 MPa            125                  160
+
+ Aluminium alloys                          56                   63
+
+At all peening techniques, the structural hot spot stress approach should be applied only to joints
+with fillet welds (with any penetration) and not to butt joints. The structural hot spot stress,
+which includes the stress increase due to the structural geometry and possible misalignments
+can be assessed by the corresponding material S-N curve, e.g. FAT 160 for steel and FAT 71 for
+aluminium alloys in conjunction with the slope exponent m=5.0 . In this way, the base metal
+at the weld toe is assumed to have a lower fatigue strength than the peened weld.
+
+
+3.5.4 Effect of Elevated Temperatures
+
+3.5.4.1 Steel
+
+For higher temperatures, the fatigue resistance data may be modified with a reduction factor
+given in fig. (3.5)-13. The fatigue reduction factor is a conservative approach and might be
+raised according to test evidence or application codes.
+
+
+
+
+
+                                    page 88

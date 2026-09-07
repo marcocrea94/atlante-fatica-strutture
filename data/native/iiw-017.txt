@@ -1,0 +1,48 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+
+  (5)     Test entire     go to (8)
+        component
+           (4.5)
+            test structural   go to (1)
+           detail (3.7)
+
+
+  Modifications and Assessment Procedures
+
+  (6)    Modify resis-     is Miner    calculate                  perform
+          tance S-N        rule ad-    design resis-             summation
+         curve (3.5) for   equate     tance S-N      then 6      (4.3.1)
+             all effects not    (4.3)?     curve (4.3.1)               giving life
+          yet covered      yes 6     using (M (8)                 cycles,
+                                                                    assess if OK
+
+                                     if no 6     calc. dimen-
+                                        sionless crack
+                                     propagation
+                                   param. from
+                                        resistance
+                              S-N curve
+                                          (4.3.2) using
+                             (M (8)
+
+                                     then 9
+
+
+  (7)      calc. design               perform crack
+          crack propa-               propagation
+          gation resis-     then 6      calc. (4.4)
+          tance data                  giving life
+          using 'M (8)                cycles
+
+                                       assess if OK
+
+  Safety Considerations
+  (8)     define (M according to safety considerations (chapter 5)
+
+
+
+
+
+                                     page 17

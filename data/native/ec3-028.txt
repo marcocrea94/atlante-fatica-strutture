@@ -1,0 +1,68 @@
+prospetto   8.3   Saldature di testa trasversali (Continua)
+
+
+Categoria di                                  Particolare costruttivo                                     Descrizione               Requisiti
+ particolare
+
+                                                                                           13) Saldature di testa     13) Senza piatto
+                                                                                             eseguite da un solo lato.   posteriore.
+    36
+
+
+
+               Effetto scala per t > 25 mm:                                                      13) Saldature di testa
+              ks = (25/t )0,2                                                                     eseguite da un solo lato
+    71                                                                         quando la completa
+                                                                                            penetrazione è verificata
+                                                                               da appropriato NDT.
+
+               Effetto scala per t > 25 mm:       Dimensioni in millimetri                    Con piatto posteriore:      Particolari 14) e 15):
+              ks = (25/t )0,2                                                                    14) Giunti trasversali.         I cordoni di saldatura
+                                                                                           15) Saldature di testa     che fissano il piatto
+                                                                                                           trasversali in piastre o     posteriore devono
+                                                                                                                             piatti rastremati nella      terminare ad una
+                                                                                            larghezza o nello         distanza ≥10 mm dai
+    71
+                                                                                       spessore con una         bordi della piastra
+                                                                                pendenza ≤1⁄4.              sollecitata.
+                                                                                                  Valida anche per piastre   Punti di saldatura
+                                                                                                 curve.                        all’interno delle
+                                                                                                                                giunzioni saldate di
+                                                                                                                                         testa.
+
+               Effetto scala per t > 25 mm:                                                      16) Saldature di testa     16) Qualora i cordoni
+              ks = (25/t )0,2                                                                               trasversali su un piatto     di saldatura del piatto
+                                                                                                   posteriore permanente    posteriore finiscano
+                                                                                            rastremato nella         ad una distanza
+                                                                                            larghezza o nello        <10 mm dal bordo
+    50
+                                                                                       spessore con una          della piastra, o
+                                                                                pendenza ≤1⁄4.          quando non può
+                                                                                                  Valida anche per piastre   essere assicurato un
+                                                                                                 curve.                 buon
+                                                                                                                accoppiamento.
+
+               Effetto scala per t > 25 mm e/o                  pendenza ≤1⁄2                  17) Saldature di testa
+             generalizzazione per eccentricità:                                                          trasversali, differenti
+                                                      1,5                                                     spessori senza
+                                                                                                                         t1                          6e                         0,2                                                                                                        transizione,                                                                                                                     linee d’asse                                                -----                                             /                        1 +                                                                              ------                                                                     -----------------                                                                                                                         1,5              ks =  25                                                  t1                                          t1                                                                                                                                                                                      allineate.                                             t1                        + t21,5
+    71
+
+
+                                                                                              t2 ≥t1
+
+                                     t2 > t1
+
+Come                                                                                      18) Saldature di testa      Particolari 18) e 19):
+particolare                                                                                                trasversali in           La curva di fatica del
+1 nel                                                                                      corrispondenza di ali che  componente
+prospetto                                                                                                               si intersecano.            continuo deve essere
+8.5                                                                                                                                         verificata con il
+                                                                                                                                   particolare 4 o
+Come                                                                                      19) Con raggi di raccordo
+                                                                                                                                   particolare 5 del
+particolare                                                                         secondo il particolare 4
+                                                                                                                         prospetto 8.4.
+4 nel                                                                                              del prospetto 8.4.
+prospetto
+8.4

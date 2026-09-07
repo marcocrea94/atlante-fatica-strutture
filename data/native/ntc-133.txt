@@ -1,0 +1,76 @@
+Classe del
+                             Dettaglio costruttivo                              Descrizione                                    Requisiti
+  dettaglio
+
+                                                           ) )  %) ) &("$) &"$" %)*( $" )        0)   )  " ?  %" ) (2)  )(  " )      (   ,&%"    ( $"
+                                                                                                               2"% ( ) ( 012"% ($        ( $" ;)$(,)  )(  )%( 4( %   )
+
+
+
+
+
+                                                           ) )  %) )   ) &)%*() " &"$" %)*( $"   0)   )  " ?  %" ) (2)  )(  " )      (   ,&%"    ( $"
+                                                          )  &("$)  &"$" %)*( $"  "# (2) "$ "  )  2"% ( ) ( 012"%  ($        ( $" )   "*( $"     (   )  " )
+                                                                       &)%*() " &"$" %)*( $"                  ) )  %)  )(  )%( 4( %   )
+
+
+
+
+
+                                                           ) )  %" )    %  $"  ;)$              0)   )  " ?  %" ) (2)  )(  " )      (   ,&%"    ( $"
+                                                                                                               2"% ( ) ( 012"%  ($        ( $" )   "*( $"     (   )  " )
+                                                                                             ) )  %)  )(  )%( 4( %   )
+
+
+
+
+
+                                                           ) )  %) )   ) &("$) &"$" %)*( $"  %) 0)   )  " ?  %" ) (2)  )(  " )      (   ,&%"    ( $"
+                                                           )$(,) " &() )3)$ ) )                    2"% ( ) ( 012"% ($        ( $" ;)$(,)  )(  )%( 4( %   )
+
+
+
+
+
+                                                           ) )  %) )   ) &)%*() " &"$" %)*( $"   0)   )  " ?  %" ) (2)  )(  " )      (   ,&%"    ( $"
+                                                          )  &("$)  &"$" %)*( $"  "# (2) "$ "  )  2"% ( ) ( 012"%  ($        ( $" )   "*( $"     (   )  " )
+                                                                       &)%*() "  &"$" %)*( $"   %)  )$(,)  "  ) )  %)  )(  )%( 4( %   )
+                                                                        &() )3)$ ) )
+
+
+
+
+
+                                                            ) )  %) )   )     %   $(   ;)$      %)  0)   )  " ?  %" ) (2)  )(  " )      (   ,&%"    ( $"
+                                                           )$(,) " &() )3)$ ) )                    2"% ( ) ( 012"%  ($        ( $" )   "*( $"     (   )  " )
+                                                                                             ) )  %)  )(  )%( 4( %   )
+
+
+
+
+
+C4.2.4.1.4.4   Curva S-N per connettori a piolo
+
+La curva S-N per connettori a piolo sollecitati a taglio delle strutture composte acciaio-calcestruzzo è rappresentata in Figura
+C4.2.24 ed è caratterizzata dall’assenza di limite di fatica. La pendenza della curva è m = 8 e la classe del particolare per
+calcestruzzo normale è 0FC = 90 MPa.
+
+Per calcestruzzi leggeri la classe si riduce, in funzione del limite superiore della densità della classe di appartenenza,    , espresso
+in kg/m3, a
+
+                         0F        *                                "C4.2.98#
+
+
+Le tensioni tangenziali devono essere valutate in riferimento alla sezione nominale del connettore.
+
+
+
+
+
+                                             Figura C4.2.24 – Curva S-N per connettori a piolo
+
+C4.2.4.1.4.5    Metodi di verifica
+
+Nelle verifiche a fatica le tensioni da considerare devono essere coerenti con quelle alle quali è riferita la curva S-N del dettaglio.
+Di solito, le curve S-N dei dettagli costruttivi riportate nelle normative sono riferite alle tensioni nominali e pertanto ad esse si deve
+generalmente far riferimento. Per dettagli costruttivi particolarmente complessi o innovativi, per i quali si proceda ad uno studio

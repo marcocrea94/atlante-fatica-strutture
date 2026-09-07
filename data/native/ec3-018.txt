@@ -1,0 +1,7 @@
+figura       7.1  Curve di resistenza a fatica per intervalli di variazione delle tensioni normali
+           Legenda
+         X     Durata, numero di cicli N
+         Y      Intervallo di variazione della tensione normale ∆σR [N\mm2]
+           1     Categoria di particolare costruttivo ∆σC
+           2      Limite di fatica ad ampiezza costante ∆σD
+           3      Limite per i calcoli a fatica ("cut-off limit") ∆σL

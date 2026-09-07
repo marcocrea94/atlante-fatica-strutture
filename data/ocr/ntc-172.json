@@ -1,0 +1,642 @@
+[
+  {
+    "bbox": [
+      47.45454406738281,
+      58.254547119140625,
+      88.69091033935547,
+      68.0727310180664
+    ],
+    "text": "11-2-2019",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      182.29090881347656,
+      58.254547119140625,
+      413.0181884765625,
+      68.0727310180664
+    ],
+    "text": "Supplemento ordinario n. 5 alla GAZZETTA UFFICIALE",
+    "confidence": 0.98102
+  },
+  {
+    "bbox": [
+      467.345458984375,
+      58.254547119140625,
+      547.2000122070312,
+      67.09091186523438
+    ],
+    "text": "Serie generale - n. 35",
+    "confidence": 0.98582
+  },
+  {
+    "bbox": [
+      71.6727294921875,
+      97.85454559326172,
+      522.3272705078125,
+      108.0
+    ],
+    "text": "I veicoli del modello di carico a fatica n. 2 debbono essere disposti in asse alla corsia convenzionale n. 1, che è quella che",
+    "confidence": 0.9921
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      108.98181915283203,
+      522.0,
+      118.47272491455078
+    ],
+    "text": "determina l’effetto più severo nel dettaglio in esame; il delta di tensione da considerare è espresso nuovamente da (C5.1.1),",
+    "confidence": 0.98875
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      119.45454406738281,
+      522.3272705078125,
+      128.61817932128906
+    ],
+    "text": "essendo σmax e σmin, rispettivamente, le tensioni massima e minima indotte dai veicoli dello spettro. Ove effetti di interazione tra",
+    "confidence": 0.99376
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      130.25454711914062,
+      522.3272705078125,
+      138.76364135742188
+    ],
+    "text": "veicoli simultaneamente presenti su una o più corsie siano rilevanti, è necessario tener conto, facendo ricorso a studi specifici o a",
+    "confidence": 0.99934
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      141.05455017089844,
+      179.345458984375,
+      148.58181762695312
+    ],
+    "text": "letteratura tecnica consolidata.",
+    "confidence": 0.99992
+  },
+  {
+    "bbox": [
+      72.0,
+      153.16363525390625,
+      522.654541015625,
+      163.96363830566406
+    ],
+    "text": "a os ' n at    o  'a  aor ssod  og    dto",
+    "confidence": 0.65411
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      164.29090881347656,
+      522.3272705078125,
+      173.7818145751953
+    ],
+    "text": "generalmente cautelativo, costituito da un veicolo di fatica convenzionale equivalente, e il modello di carico a fatica n. 4,",
+    "confidence": 0.99144
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      174.1090850830078,
+      321.3818054199219,
+      184.25454711914062
+    ],
+    "text": "costituito da uno spettro di carico equivalente (Tab. 5.1.VIII delle NTC).",
+    "confidence": 0.99762
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      187.5272674560547,
+      521.6727294921875,
+      196.69090270996094
+    ],
+    "text": "Il flusso annuo di veicoli da considerare su ciascuna corsia è dato, in funzione della strada servita, nella Tab. 5.1.X delle NTC,",
+    "confidence": 0.98741
+  },
+  {
+    "bbox": [
+      72.0,
+      198.3272705078125,
+      522.0,
+      207.81817626953125
+    ],
+    "text": "eae e  e od e    e   e i  mi  no  no",
+    "confidence": 0.63832
+  },
+  {
+    "bbox": [
+      72.0,
+      208.4727325439453,
+      101.78181457519531,
+      217.63636779785156
+    ],
+    "text": "5.1.VIII.",
+    "confidence": 0.99869
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      221.23635864257812,
+      522.0,
+      231.05455017089844
+    ],
+    "text": "Con assunzione estremamente cautelativa, i veicoli dei modelli di carico di fatica 3 o 4 possono essere applicati in asse alle corsie",
+    "confidence": 0.99038
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      232.03636169433594,
+      298.14544677734375,
+      242.18182373046875
+    ],
+    "text": "convenzionali determinate in accordo con il §5.1.3.3.2 delle NTC.",
+    "confidence": 0.98694
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      244.4727325439453,
+      522.3272705078125,
+      255.60000610351562
+    ],
+    "text": "È possibile, tuttavia, adottare disposizioni più favorevoli e realistiche dei veicoli, considerando che il flusso avvenga per il 10%",
+    "confidence": 0.99101
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      256.5818176269531,
+      522.0,
+      265.0909118652344
+    ],
+    "text": "sulle corsie convenzionali e per il 90% sulle corsie fisiche. La posizione dei veicoli nelle corsie fisiche dovrà essere, comunque, tale",
+    "confidence": 0.99626
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      266.0727233886719,
+      522.654541015625,
+      276.2181701660156
+    ],
+    "text": "da determinare nel dettaglio in esame gli effetti più severi. L’aliquota del flusso di traffico considerata sulle corsie convenzionali",
+    "confidence": 0.9973
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      276.87274169921875,
+      522.654541015625,
+      286.3636474609375
+    ],
+    "text": "(10%) tiene conto del fatto che, nel corso della vita del ponte, per effetto di incidenti, congestioni di traffico, lavori di",
+    "confidence": 0.9921
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      287.6727294921875,
+      522.0,
+      297.49090576171875
+    ],
+    "text": "manutenzione ecc., si possano verificare modifiche o restringimenti della carreggiata, tali da determinare condizioni di flusso più",
+    "confidence": 0.99255
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      298.47271728515625,
+      278.83636474609375,
+      307.6363525390625
+    ],
+    "text": "severe di quelle corrispondenti al flusso sulle corsie fisiche.",
+    "confidence": 0.99814
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      311.5636291503906,
+      522.3272705078125,
+      321.0545349121094
+    ],
+    "text": "  d   i s     i    reo  s    ",
+    "confidence": 0.64416
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      322.3636474609375,
+      161.345458984375,
+      330.87274169921875
+    ],
+    "text": "metodologie consolidate.",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      72.0,
+      334.47271728515625,
+      522.3272705078125,
+      344.6181945800781
+    ],
+    "text": "Il modello di carico di fatica 3, considerato in asse alla corsia convenzionale, può essere utilizzato per le verifiche col metodo dei",
+    "confidence": 0.99486
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      345.2727355957031,
+      522.654541015625,
+      354.7636413574219
+    ],
+    "text": "coefficienti di danneggiamento equivalente, metodo λ. Per la determinazione dei coefficienti di danneggiamento equivalente, che",
+    "confidence": 0.99388
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      356.0727233886719,
+      522.0,
+      365.8908996582031
+    ],
+    "text": "devono essere specificamente calibrati sul predetto modello di carico di fatica 3, si può far riferimento alle norme UNI EN1992-2,",
+    "confidence": 0.99704
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      366.87274169921875,
+      189.81817626953125,
+      375.3818054199219
+    ],
+    "text": "UNI EN1993-2 ed UNI EN1994-2.",
+    "confidence": 0.99171
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      379.963623046875,
+      522.3272705078125,
+      389.4545593261719
+    ],
+    "text": "In prossimità di un giunto d’espansione può essere necessario considerare un fattore di amplificazione dinamica addizionale",
+    "confidence": 0.9886
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      389.7818298339844,
+      222.2181854248047,
+      400.2545471191406
+    ],
+    "text": "∆φfat, da applicare a tutti i carichi e dato da",
+    "confidence": 0.98539
+  },
+  {
+    "bbox": [
+      233.6727294921875,
+      404.83636474609375,
+      241.5272674560547,
+      414.3272705078125
+    ],
+    "text": "d",
+    "confidence": 0.99989
+  },
+  {
+    "bbox": [
+      172.8000030517578,
+      408.4363708496094,
+      230.07272338867188,
+      423.49090576171875
+    ],
+    "text": "∆φfat = 1,30. 1-",
+    "confidence": 0.90946
+  },
+  {
+    "bbox": [
+      246.1090850830078,
+      409.4181823730469,
+      267.3818054199219,
+      422.18182373046875
+    ],
+    "text": "≥1,0",
+    "confidence": 0.99156
+  },
+  {
+    "bbox": [
+      393.3818054199219,
+      409.0909118652344,
+      423.16363525390625,
+      419.5636291503906
+    ],
+    "text": "[C5.1.2]",
+    "confidence": 0.99992
+  },
+  {
+    "bbox": [
+      231.38182067871094,
+      416.9454650878906,
+      244.4727325439453,
+      428.0727233886719
+    ],
+    "text": "26",
+    "confidence": 0.99998
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      432.0,
+      364.9090881347656,
+      442.14544677734375
+    ],
+    "text": "dove d è la distanza della sezione considerata dalla sezione di giunto, espressa in m.",
+    "confidence": 0.99979
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      453.6000061035156,
+      276.2181701660156,
+      462.1091003417969
+    ],
+    "text": "C5.1.4.5 VERIFICHE ALLO STATO LIMITE DI DEFORMAZIONE",
+    "confidence": 0.99139
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      465.3818054199219,
+      521.6727294921875,
+      474.87274169921875
+    ],
+    "text": "Per la valutazione della domanda relativa alla componente cinematica dei vincoli e per il calcolo della dimensione dei varchi,",
+    "confidence": 0.99307
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      475.85455322265625,
+      521.6727294921875,
+      486.0
+    ],
+    "text": "ovvero della distanza tra costruzioni contigue in corrispondenza delle interruzioni strutturali, si potranno prendere in conto,",
+    "confidence": 0.99723
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      486.0,
+      522.0,
+      496.47271728515625
+    ],
+    "text": "oltre alle combinazioni sismiche, anche le combinazioni SLU delle altre azioni significative per il caso in esame (ritiro, viscosità,",
+    "confidence": 0.99526
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      498.1091003417969,
+      348.87274169921875,
+      506.6181945800781
+    ],
+    "text": "variazioni termiche, frenatura, azione centrifuga, vento, precompressione, ecc.).",
+    "confidence": 0.99741
+  },
+  {
+    "bbox": [
+      72.0,
+      510.5454406738281,
+      522.3272705078125,
+      520.036376953125
+    ],
+    "text": "I valori di progetto della variazione termica uniforme per la valutazione agli SLU della massima espansione/contrazione si",
+    "confidence": 0.99226
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      521.345458984375,
+      184.25454711914062,
+      530.8363647460938
+    ],
+    "text": "possono esprimere come segue:",
+    "confidence": 0.99369
+  },
+  {
+    "bbox": [
+      172.4727325439453,
+      533.7817993164062,
+      253.63636779785156,
+      544.5818481445312
+    ],
+    "text": "∆Texp,d = ∆Texp + ∆T0",
+    "confidence": 0.97158
+  },
+  {
+    "bbox": [
+      393.3818054199219,
+      533.4545288085938,
+      423.16363525390625,
+      543.92724609375
+    ],
+    "text": "[C5.1.3]",
+    "confidence": 0.99994
+  },
+  {
+    "bbox": [
+      172.1454620361328,
+      546.8727416992188,
+      252.9818115234375,
+      558.0
+    ],
+    "text": "∆Tcon,d = ∆Tcon + ∆T0",
+    "confidence": 0.95451
+  },
+  {
+    "bbox": [
+      393.3818054199219,
+      546.8727416992188,
+      422.83636474609375,
+      557.6727294921875
+    ],
+    "text": "[C5.1.4]",
+    "confidence": 0.99994
+  },
+  {
+    "bbox": [
+      71.34545135498047,
+      560.2908935546875,
+      96.87272644042969,
+      570.4363403320312
+    ],
+    "text": "In cui:",
+    "confidence": 0.99954
+  },
+  {
+    "bbox": [
+      171.81817626953125,
+      573.3818359375,
+      252.0,
+      584.8363647460938
+    ],
+    "text": "∆Texp = +Te,max − T0",
+    "confidence": 0.99278
+  },
+  {
+    "bbox": [
+      393.7090759277344,
+      573.3818359375,
+      423.16363525390625,
+      583.8545532226562
+    ],
+    "text": "[C5.1.5]",
+    "confidence": 0.99994
+  },
+  {
+    "bbox": [
+      172.4727325439453,
+      587.4545288085938,
+      250.36363220214844,
+      597.272705078125
+    ],
+    "text": "∆Tcon = −Te,min + T0",
+    "confidence": 0.97056
+  },
+  {
+    "bbox": [
+      393.7090759277344,
+      586.7999877929688,
+      423.16363525390625,
+      597.272705078125
+    ],
+    "text": "[C5.1.6]",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      103.74545288085938,
+      600.2182006835938,
+      522.3272705078125,
+      609.7091064453125
+    ],
+    "text": "Te,max e Te,min sono rispettivamente la massima e minima temperatura uniforme del ponte ricavabili, come indicato",
+    "confidence": 0.99359
+  },
+  {
+    "bbox": [
+      104.4000015258789,
+      612.654541015625,
+      486.654541015625,
+      621.4909057617188
+    ],
+    "text": "nel Capitolo 6 delle UNI EN 1991-1-5, in funzione della Tmin e Tmax dell'aria esterna di cui al § 3.5 delle NTC.",
+    "confidence": 0.97886
+  },
+  {
+    "bbox": [
+      103.74545288085938,
+      626.727294921875,
+      464.0727233886719,
+      636.8727416992188
+    ],
+    "text": "To è la temperatura iniziale all'atto della regolazione degli appoggi del ponte di cui al § 3.5.4 delle NTC.",
+    "confidence": 0.99155
+  },
+  {
+    "bbox": [
+      104.0727310180664,
+      642.1090698242188,
+      231.70909118652344,
+      651.5999755859375
+    ],
+    "text": "∆T0 è indicato nella tabella seguente.",
+    "confidence": 0.98072
+  },
+  {
+    "bbox": [
+      86.7272720336914,
+      663.7091064453125,
+      252.654541015625,
+      672.2182006835938
+    ],
+    "text": "∆T0 = 5°C per strutture di c.a., c.a.p. e acciaio/cls",
+    "confidence": 0.98431
+  },
+  {
+    "bbox": [
+      277.85455322265625,
+      666.9818115234375,
+      485.6727294921875,
+      676.1454467773438
+    ],
+    "text": "Installazione con la misurazione accurata della temperatura",
+    "confidence": 0.99501
+  },
+  {
+    "bbox": [
+      277.85455322265625,
+      677.4545288085938,
+      486.0,
+      687.272705078125
+    ],
+    "text": "della struttura e con preregolazione per effetti termici a fine",
+    "confidence": 0.9917
+  },
+  {
+    "bbox": [
+      113.23636627197266,
+      691.5272827148438,
+      226.8000030517578,
+      700.036376953125
+    ],
+    "text": "∆T0 = 5°C per strutture di acciaio",
+    "confidence": 0.98477
+  },
+  {
+    "bbox": [
+      360.0,
+      689.2363891601562,
+      403.52728271484375,
+      697.0908813476562
+    ],
+    "text": "costruzione.",
+    "confidence": 0.99995
+  },
+  {
+    "bbox": [
+      84.43636322021484,
+      712.1454467773438,
+      255.27272033691406,
+      721.6363525390625
+    ],
+    "text": "∆T0 = 10°C per strutture di c.a., c.a.p. e acciaio/cls",
+    "confidence": 0.97534
+  },
+  {
+    "bbox": [
+      276.2181701660156,
+      713.1272583007812,
+      487.30908203125,
+      722.6181640625
+    ],
+    "text": "Installazione con la stima della temperatura della struttura e",
+    "confidence": 0.9999
+  },
+  {
+    "bbox": [
+      288.0,
+      765.1636352539062,
+      308.2909240722656,
+      775.6363525390625
+    ],
+    "text": "168",
+    "confidence": 0.99999
+  }
+]

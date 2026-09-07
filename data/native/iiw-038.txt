@@ -1,0 +1,15 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+
+ 2.2.5.3 Calculation of Stress Intensity Factors by Finite Elements
+
+ Stress intensity factor determination methods are usually based on FEM analyses. They may
+ be directly calculated as described in the literature, or indirectly using the weight function
+ approach. For more details see appendix 6.2
+
+
+
+
+
+                                     page 38

@@ -1,0 +1,52 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+4.3 FATIGUE ASSESSMENT USING S-N CURVES
+
+Fatigue verification is carried out using
+
+       the design spectrum of fatigue actions in terms of stress ranges )Fi,S,d, in which the
+        stresses of the characteristic spectrum )Fi,S,k have been multiplied by the partial safety
+        factor (F for fatigue actions.
+and
+       the design resistance S-N curve based on design resistance stresses )FR,d, in which the
+        characteristic resistance stress ranges )FR,k have been divided by the partial safety factor
+     (M for fatigue resistance.
+
+The design resistance S-N curve may be modified further according to the needs of the damage
+calculation procedure.
+
+For constant amplitude loading, the characteristic stress range )FR,k at the required number of
+stress cycles is firstly determined. Secondly the fatigue criterion is checked:
+
+
+
+
+
+At variable amplitude loading, cumulative damage calculation procedure is applied. Usually
+a modified "Palmgren-Miner"-rule, as described in 4.3.1, is appropriate. For load spectra which
+are sensitive to the position of the fatigue limit or cut-off limit, or in which the spectrum changes
+during the service time, additional assessment using the nonlinear damage calculation method
+described in 4.3.2 is recommended.
+
+In fields of application, where no test data nor service experience exist and the shape of the
+stress spectrum is not close to constant amplitude, it is recommended to proceed according to the
+calculation given in in 4.3.1.
+
+
+4.3.1 Linear Damage Calculation by "Palmgren-Miner" Summation
+
+If the maximum design stress range )Fmax,S,d of the load spectrum is lower than the assumed
+design fatigue limit )FL,R,d of the design fatigue resistance S-N curve, the life of the welded joint
+can be assumed to be infinite and no further damage calculation is necessary. This procedure is
+not recommended at aluminium and at steel under very high cycles (see chapter 3.2)
+
+The fatigue resistance curve has to be modified according to fig. (4)-1 and (4)-2. Then the slope
+m2 of the S-N curve at higher cycles than the knee point is assumed to be m2 = 2A m1 - 1 [30] .
+
+
+For fatigue verification it has to be shown that:
+
+
+
+
+                                    page 108

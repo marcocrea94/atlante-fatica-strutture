@@ -1,0 +1,702 @@
+[
+  {
+    "bbox": [
+      47.45454406738281,
+      58.254547119140625,
+      88.69091033935547,
+      68.0727310180664
+    ],
+    "text": "11-2-2019",
+    "confidence": 0.99979
+  },
+  {
+    "bbox": [
+      181.96363830566406,
+      57.599998474121094,
+      413.0181884765625,
+      68.0727310180664
+    ],
+    "text": "Supplemento ordinario n. 5 alla GAZZETTA UFFICIALE",
+    "confidence": 0.99943
+  },
+  {
+    "bbox": [
+      467.6727294921875,
+      58.581817626953125,
+      547.5272827148438,
+      67.41818237304688
+    ],
+    "text": "Serie generale - n. 35",
+    "confidence": 0.9908
+  },
+  {
+    "bbox": [
+      72.0,
+      98.50909423828125,
+      522.3272705078125,
+      108.65454864501953
+    ],
+    "text": "in cui Ac,eff è l’area compressa effettiva del pannello nervato e σmax la massima tensione di compressione nel pannello nervato",
+    "confidence": 0.99321
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      111.2727279663086,
+      97.19999694824219,
+      119.45454406738281
+    ],
+    "text": "stesso.",
+    "confidence": 0.99992
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      123.38182067871094,
+      522.654541015625,
+      132.8727264404297
+    ],
+    "text": "Qualora l’irrigidimento sia anche soggetto a forza normale di compressione Nst, questa deve essere incrementata ai fini della",
+    "confidence": 0.98614
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      135.16363525390625,
+      184.90908813476562,
+      144.654541015625
+    ],
+    "text": "presente verifica semplificata di",
+    "confidence": 0.99987
+  },
+  {
+    "bbox": [
+      188.50909423828125,
+      156.1090850830078,
+      205.5272674560547,
+      167.8909149169922
+    ],
+    "text": "ΔN",
+    "confidence": 0.76516
+  },
+  {
+    "bbox": [
+      202.25454711914062,
+      161.0181884765625,
+      209.7818145751953,
+      168.8727264404297
+    ],
+    "text": "st",
+    "confidence": 0.99982
+  },
+  {
+    "bbox": [
+      211.41818237304688,
+      159.70909118652344,
+      218.29090881347656,
+      165.60000610351562
+    ],
+    "text": "二",
+    "confidence": 0.60132
+  },
+  {
+    "bbox": [
+      220.58181762695312,
+      152.83636474609375,
+      228.1090850830078,
+      160.36363220214844
+    ],
+    "text": "σ",
+    "confidence": 0.99072
+  },
+  {
+    "bbox": [
+      225.49090576171875,
+      155.4545440673828,
+      233.6727294921875,
+      162.3272705078125
+    ],
+    "text": "m",
+    "confidence": 0.99979
+  },
+  {
+    "bbox": [
+      231.38182067871094,
+      146.29090881347656,
+      252.0,
+      162.9818115234375
+    ],
+    "text": "b²",
+    "confidence": 0.97346
+  },
+  {
+    "bbox": [
+      234.0,
+      163.30909729003906,
+      239.8909149169922,
+      171.16363525390625
+    ],
+    "text": "2",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      374.3999938964844,
+      158.07272338867188,
+      408.1091003417969,
+      168.5454559326172
+    ],
+    "text": "[C4.2.89]",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      229.09091186523438,
+      167.56362915039062,
+      237.27272033691406,
+      174.76364135742188
+    ],
+    "text": "π",
+    "confidence": 0.99977
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      179.345458984375,
+      522.654541015625,
+      188.83636474609375
+    ],
+    "text": "In alternativa al metodo appena descritto, in assenza di forza normale, la verifica semplificata può essere effettuata mediante",
+    "confidence": 0.99345
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      190.1454620361328,
+      469.30908203125,
+      198.654541015625
+    ],
+    "text": "un’analisi elastica lineare, considerando un carico fittizio addizionale uniformemente distribuito sulla lunghezza b",
+    "confidence": 0.99679
+  },
+  {
+    "bbox": [
+      202.90908813476562,
+      204.5454559326172,
+      210.43637084960938,
+      212.07272338867188
+    ],
+    "text": "π",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      187.8545379638672,
+      210.1090850830078,
+      203.56362915039062,
+      220.25454711914062
+    ],
+    "text": "q =",
+    "confidence": 0.85813
+  },
+  {
+    "bbox": [
+      209.4545440673828,
+      206.18182373046875,
+      270.0,
+      223.1999969482422
+    ],
+    "text": "·σ ·(w0 + Wel)",
+    "confidence": 0.81793
+  },
+  {
+    "bbox": [
+      374.7272644042969,
+      209.4545440673828,
+      408.7636413574219,
+      220.58181762695312
+    ],
+    "text": "[C4.2.90]",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      202.58181762695312,
+      216.3272705078125,
+      210.76364135742188,
+      225.81817626953125
+    ],
+    "text": "4",
+    "confidence": 0.99999
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      230.07272338867188,
+      522.3272705078125,
+      239.56362915039062
+    ],
+    "text": "dove w0 è l'imperfezione [C4.2.84] e wel la deformazione elastica, che può essere determinata per iterazione, o assunta",
+    "confidence": 0.98154
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      241.5272674560547,
+      187.1999969482422,
+      250.69090270996094
+    ],
+    "text": "cautelativamente uguale a b/300.",
+    "confidence": 0.99715
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      254.94544982910156,
+      365.2363586425781,
+      263.4545593261719
+    ],
+    "text": "Nel caso di irrigiditori aperti, si deve inoltre effettuare la verifica di stabilità torsionale.",
+    "confidence": 0.99763
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      267.7090759277344,
+      334.47271728515625,
+      277.20001220703125
+    ],
+    "text": "In assenza di analisi più rigorose, la verifica può considerarsi soddisfatta se",
+    "confidence": 0.98886
+  },
+  {
+    "bbox": [
+      188.83636474609375,
+      281.4545593261719,
+      201.60000610351562,
+      294.87274169921875
+    ],
+    "text": "IT",
+    "confidence": 0.79518
+  },
+  {
+    "bbox": [
+      227.4545440673828,
+      280.14544677734375,
+      239.23635864257812,
+      294.87274169921875
+    ],
+    "text": "fy",
+    "confidence": 0.96316
+  },
+  {
+    "bbox": [
+      200.94544982910156,
+      286.69091796875,
+      227.1272735595703,
+      298.47271728515625
+    ],
+    "text": "≥5,3.",
+    "confidence": 0.99083
+  },
+  {
+    "bbox": [
+      374.7272644042969,
+      288.9818115234375,
+      408.1091003417969,
+      299.4545593261719
+    ],
+    "text": "[C4.2.91]",
+    "confidence": 0.99993
+  },
+  {
+    "bbox": [
+      187.5272674560547,
+      293.2363586425781,
+      201.60000610351562,
+      310.2545471191406
+    ],
+    "text": "Ip",
+    "confidence": 0.6859
+  },
+  {
+    "bbox": [
+      229.09091186523438,
+      295.20001220703125,
+      238.90908813476562,
+      305.345458984375
+    ],
+    "text": "E",
+    "confidence": 0.99946
+  },
+  {
+    "bbox": [
+      72.0,
+      312.2181701660156,
+      522.3272705078125,
+      321.7090759277344
+    ],
+    "text": "i cui I è il momento d'inerzia torsionale del solo irrigiditore e Ip è il momento d'inerzia polare del solo irrigiditore, rispetto",
+    "confidence": 0.98684
+  },
+  {
+    "bbox": [
+      73.30908966064453,
+      324.654541015625,
+      161.345458984375,
+      332.18182373046875
+    ],
+    "text": "all'attacco con la lamiera.",
+    "confidence": 0.98357
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      336.4363708496094,
+      522.0,
+      346.5818176269531
+    ],
+    "text": "uae or  ile     ' te  it   o s ota",
+    "confidence": 0.64704
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      346.5818176269531,
+      357.0545349121094,
+      357.3818054199219
+    ],
+    "text": "controllando, in alternativa alla [C4.2.91], che risulti soddisfatta la disuguaglianza",
+    "confidence": 0.99662
+  },
+  {
+    "bbox": [
+      186.8727264404297,
+      359.345458984375,
+      228.43637084960938,
+      374.3999938964844
+    ],
+    "text": "σcr ≥6·fy",
+    "confidence": 0.91568
+  },
+  {
+    "bbox": [
+      374.3999938964844,
+      360.0,
+      408.1091003417969,
+      370.14544677734375
+    ],
+    "text": "[C4.2.92]",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      377.345458984375,
+      480.1091003417969,
+      386.83636474609375
+    ],
+    "text": "dove σè la tensione critica eleuriana per l’instabilità torsionale dell'irrigiditore considerato incernierato alla lamiera.",
+    "confidence": 0.9933
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      391.7454528808594,
+      278.50909423828125,
+      400.2545471191406
+    ],
+    "text": "C4.2.4.1.3.4.9. Requisiti minimi per gli irrigiditori longitudinali",
+    "confidence": 0.99776
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      404.18182373046875,
+      522.3272705078125,
+      413.6727294921875
+    ],
+    "text": "Gli irrigiditori longitudinali dovrebbero essere vincolati ad entrambe le estremità ad irrigiditori trasversali. Irrigiditori",
+    "confidence": 0.99664
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      414.654541015625,
+      522.3272705078125,
+      424.47271728515625
+    ],
+    "text": "longitudinali che non soddisfano questo requisito possono essere impiegati solo per le anime, e non per le piattabande, e non",
+    "confidence": 0.9888
+  },
+  {
+    "bbox": [
+      72.0,
+      425.12725830078125,
+      522.3272705078125,
+      435.2727355957031
+    ],
+    "text": "possono essere considerati nell'analisi globale né nel calcolo delle tensioni; possono essere, invece, messi in conto per la",
+    "confidence": 0.99269
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      436.2545471191406,
+      462.4363708496094,
+      445.7454528808594
+    ],
+    "text": "determinazione delle tensioni critiche eleuriane e per il calcolo delle larghezze efficaci dei sottopannelli d’anima.",
+    "confidence": 0.99865
+  },
+  {
+    "bbox": [
+      72.0,
+      448.69091796875,
+      522.3272705078125,
+      458.83636474609375
+    ],
+    "text": "Per le verifiche di stabilità torsionale degli irrigiditori longitudinali si possono adottare le stesse formule fornite al § C4.2.4.1.3.4.7",
+    "confidence": 0.99152
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      460.14544677734375,
+      175.41818237304688,
+      468.9818115234375
+    ],
+    "text": "per gli irrigiditori trasversali.",
+    "confidence": 0.99403
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      476.83636474609375,
+      110.29090881347656,
+      486.0
+    ],
+    "text": "C4.2.4.1.4",
+    "confidence": 0.99998
+  },
+  {
+    "bbox": [
+      118.80000305175781,
+      477.16363525390625,
+      196.03636169433594,
+      486.0
+    ],
+    "text": "Stato limite di fatica",
+    "confidence": 0.99155
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      492.87274169921875,
+      522.3272705078125,
+      502.3636474609375
+    ],
+    "text": "Per le strutture soggette a carichi ciclici deve essere verificata la resistenza a fatica, considerando una distribuzione temporale",
+    "confidence": 0.99596
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      503.345458984375,
+      496.79998779296875,
+      512.8363647460938
+    ],
+    "text": "delle azioni coerente con la tipologia strutturale in esame e con il regime d’impegno previsto nel corso della vita nominale.",
+    "confidence": 0.99257
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      519.0545654296875,
+      180.0,
+      528.5454711914062
+    ],
+    "text": "C4.2.4.1.4.1 Spettri di carico",
+    "confidence": 0.98496
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      535.4181518554688,
+      522.0,
+      543.92724609375
+    ],
+    "text": "La distribuzione temporale delle ampiezze delle azioni nel corso della vita della struttura è assegnata mediante il cosiddetto",
+    "confidence": 0.98952
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      545.5636596679688,
+      522.0,
+      555.3818359375
+    ],
+    "text": "spettro di carico, che fornisce il numero di ripetizioni di ciascun livello delle azioni di progetto in un intervallo di tempo di",
+    "confidence": 0.99781
+  },
+  {
+    "bbox": [
+      72.0,
+      555.7091064453125,
+      522.3272705078125,
+      565.5272827148438
+    ],
+    "text": "riferimento, in funzione della destinazione d’uso della struttura e dell'intensità dell'utilizzazione. Quando lo spettro di carico",
+    "confidence": 0.99225
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      566.5090942382812,
+      522.3272705078125,
+      576.0
+    ],
+    "text": "effettivo è complesso al punto da non poter essere impiegato direttamente nelle verifiche, esso può essere sostituito da spettri",
+    "confidence": 0.99161
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      577.963623046875,
+      522.0,
+      587.4545288085938
+    ],
+    "text": "nno   ns  se      e  n    on de ott",
+    "confidence": 0.68926
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      589.7454833984375,
+      150.8727264404297,
+      598.2545166015625
+    ],
+    "text": "dallo spettro effettivo.",
+    "confidence": 0.99931
+  },
+  {
+    "bbox": [
+      72.0,
+      601.8545532226562,
+      522.3272705078125,
+      612.0
+    ],
+    "text": "Nel caso degli edifici la verifica a fatica non è generalmente necessaria, salvo che per membrature che sostengono macchine",
+    "confidence": 0.9954
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      612.654541015625,
+      282.7636413574219,
+      622.7999877929688
+    ],
+    "text": "vibranti o dispositivi di sollevamento e trasporto dei carichi.",
+    "confidence": 0.9988
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      626.07275390625,
+      522.3272705078125,
+      635.5636596679688
+    ],
+    "text": "Gli spettri di carico da impiegare nelle verifiche possono essere determinati mediante studi specifici o anche dedotti da normative",
+    "confidence": 0.99259
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      636.8727416992188,
+      522.654541015625,
+      646.3636474609375
+    ],
+    "text": "d t sos t  s   aot   e d   t  ds   a ie",
+    "confidence": 0.68436
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      647.345458984375,
+      141.38182067871094,
+      656.1818237304688
+    ],
+    "text": "§ 5.1.4.3 delle NTC.",
+    "confidence": 0.99571
+  },
+  {
+    "bbox": [
+      72.0,
+      659.7817993164062,
+      522.654541015625,
+      669.92724609375
+    ],
+    "text": "Nella verifica dei dettagli strutturali metallici, caratterizzati dalla presenza di limite di fatica ad ampiezza costante, spesso è",
+    "confidence": 0.99104
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      670.5818481445312,
+      522.3272705078125,
+      680.07275390625
+    ],
+    "text": "necessario considerare spettri di carico convenzionali differenziati, a seconda che si tratti di verifiche a fatica a vita illimitata o di",
+    "confidence": 0.99244
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      681.0545654296875,
+      172.8000030517578,
+      690.5454711914062
+    ],
+    "text": "verifiche a danneggiamento.",
+    "confidence": 0.99743
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      697.4181518554688,
+      109.30908966064453,
+      706.2545166015625
+    ],
+    "text": "C4.2.4.1.4.2",
+    "confidence": 0.99996
+  },
+  {
+    "bbox": [
+      134.50909423828125,
+      697.4181518554688,
+      275.8908996582031,
+      706.9091186523438
+    ],
+    "text": "Spettri di tensione e metodi di conteggio",
+    "confidence": 0.99982
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      713.4545288085938,
+      522.3272705078125,
+      722.9454345703125
+    ],
+    "text": "Gli spettri di tensione debbono essere ricavati analizzando gli oscillogrammi di tensione σ(t), indotti nel dettaglio considerato",
+    "confidence": 0.99706
+  },
+  {
+    "bbox": [
+      287.6727294921875,
+      765.1636352539062,
+      307.963623046875,
+      775.6363525390625
+    ],
+    "text": "119",
+    "confidence": 0.99999
+  }
+]

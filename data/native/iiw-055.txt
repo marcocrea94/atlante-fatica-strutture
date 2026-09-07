@@ -1,0 +1,37 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+243                                             Transverse butt weld ground flush,      80     32      All welds ground flush to surface, grinding paralell to
+                                     NDT, at crossing flanges with welded                      direction of stress. Plate edges to be ground flush in
+                                                      triangular transition plates, weld ends                      direction of stress.
+                                                ground.
+                                            Crack starting at butt weld.                         Welded from both sides. Misalignment <10%
+                                              For crack of throughgoing flange see
+                                                         details 525 and 526!
+
+
+244                                             Transverse butt weld, NDT, at crossing   71     28      Plate edges to be ground flush in direction of stress.
+                                                      flanges, with welded triangular transi-
+                                                      tion plates, weld ends ground.                       Welded from both sides.Misalignment <10%
+                                            Crack starting at butt weld.
+
+                                              For crack of throughgoing flange see
+                                                         details 525 and 526!
+
+
+245                                             Transverse butt weld at crossing flan-    50     20     Welded from both sides.Misalignment <10%
+                                                     ges.
+                                            Crack starting at butt weld.
+
+                                              For crack of throughgoing flange see
+                                                         details 525 and 526!
+
+
+
+300    Longitudinal load-carrying welds
+
+
+
+
+
+                                                       page 55

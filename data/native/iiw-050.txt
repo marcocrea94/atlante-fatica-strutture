@@ -1,0 +1,30 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+214                                             Transverse butt weld, welded on non-    80     28-    Backing removed, root visually inspected.
+                                                      fusible backing, root crack                            Misalignment <10%
+
+
+
+
+
+215                                             Transverse butt weld on permanent ba-   71     25     Misalignment <10%
+                                                cking bar terminating >10 mm from
+                                                      plate edge,          else –>            63     22
+
+
+
+
+
+216                                             Transverse butt welds welded from one                 Misalignment <10%
+                                                     side without backing bar, full penetrati-
+                                          on
+
+                                                      root controlled by NDT              71     28
+                                            no NDT                          36     12
+
+
+
+
+
+                                                       page 50

@@ -1,0 +1,53 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+Stress spectrum:
+
+[7-1]  Endo T. et al.
+       Fatigue of metals subjected to varying stress - prediction of fatigue lives (transl.) Kyushu
+        District Meeting of the JSME, Nov. 1967.
+        also: Rain flow method - the proposal and the applications.
+
+      Memoir Kyushu Institut of Technical Engineering, 1974.
+
+[7-2]  Standard Practice for Cycle Counting in Fatigue Analysis.
+    ASTM E 1049-85
+
+
+Damage calculation:
+
+[8-1]  Palmgren, A.
+     On life duration of ball bearings (transl.).
+      VDI-Z. vol. 68(1924), pp 339-341
+
+[8-2]  Miner, A.M.
+      Cumulative damage in fatigue.
+         J. Appl. Mech. September 1945. pp 151-164.
+
+[8-3]  Haibach E.
+      Modified linear damage accumulation hypothesis considering the decline of the fatigue
+        limit due to progressive damage (transl.)
+      Laboratorium für Betriebsfestigkeit, Darmstadt, Germany, Techn. Mitt. TM 50/70 (1970)
+
+[8-4]  Hobbacher A.
+      Cumulative fatigue by fracture mechanics.
+       Trans. ASME Series E, J. Appl. Mech. 44(1977), pp. 769-771
+
+[8-5]  Sonsino, C.M.; Maddox, S.J.; Hobbacher, A.: Fatigue Life Assessment of Welded Joints
+      under Variable Amplitude Loading – State of Present Knowledge and Recommendations
+        for Fatigue Design Regulations. In: Proceedings of the Annual IIW-Assembly and Int.
+       Conference, July 15-16, 2004 Osaka/Japan, S. 87-102
+
+
+Fatigue testing:
+
+[9-1]  Lieurade H.P.
+       Fatigue Testing of Welded Joints
+     IIW doc. XIII-1516-93 (ISO porposal)
+
+
+Quality and safety considerations:
+
+
+                                    page 144

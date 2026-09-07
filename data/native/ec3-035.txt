@@ -1,0 +1,36 @@
+prospetto   8.8   Lastre ortotrope - correnti chiusi (Continua)
+
+
+Categoria di                          Particolare costruttivo                                Descrizione                        Requisiti
+ particolare
+
+                                                                                   6) Sezione critica nell’anima    6) Valutazione basata
+                                                                                        della trave dovuta a tagli.        sull’intervallo di variazione della
+                                                                                                             tensione che tiene conto degli
+                                                                                                                                                     effetti Vierendeel.
+                                                                                                       Nota    Nel   caso     in    cui
+    71                                                                                                                                                    l’intervallo  di variazione
+                                                                                                                                          della     tensione    è
+                                                                                                                         determinato secondo    il
+                                                                                                                     punto  9.4.2.2(3)   della
+                                                                                   EN 1993-2, può essere
+                                                                                                                                                      utilizzata la categoria di
+                                                                                                                                        particolare 112.
+
+            Dimensioni in millimetri                                            Saldatura che collega una      7) Valutazione basata
+                                                                               lamiera piana ad una nervatura  sull’intervallo di variazione della
+                                                                     con sezione trapezoidale o a V tensione normale prodotta dalla
+                                                                                   7) Saldatura a parziale          flessione nella lamiera.
+    71                                                                      penetrazione con a ≥ t .
+                                    ∆MW
+                            ∆σ =    --------------
+                                   WW
+
+
+
+             Saldatura a cordone d’angolo                                        8) Saldatura a cordone         8) Valutazione basata
+                                                                              d’angolo o saldature a parziale  sull’intervallo di variazione della
+                                                                             penetrazione al di fuori         tensione normale prodotta dalla
+                                                                                                  dell’intervallo del particolare 7).  flessione nella lamiera.
+
+    50

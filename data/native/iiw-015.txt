@@ -1,0 +1,44 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+                for steel            )Kth=2.0 MPa/m
+                for aluminium       )Kth=0.7 MPa/m
+
+1.7 APPLICATION OF THE DOCUMENT
+
+Based on the initial information about the welded joint, the stress type to be used in the
+ fatigue assessment is defined and determined. The fatigue resistance data are then selected
+ according to the type of the fatigue action. The corresponding types of fatigue action and
+ resistance are:
+
+Tab. {1}-1: Presentation of fatigue actions and resistances vs. assessment procedure
+
+  Fatigue action       Fatigue resistance                    Assessment procedure
+
+  Forces on            Resistance determined by test at        Component testing
+  component         component
+
+  Nominal stress in    Resistance given by tables of          Summation of
+  section                structural details in terms of a set of S-   cumulative damage
+              N curves
+
+  Structural hot spot   Resistance against structural hot spot
+   stress at weld toe     stress in terms of S-N curves
+
+  Effective notch      Resistance against effective notch
+   stress in weld         stress in terms of a universal S-N
+  notch               curve
+
+  Stress intensity at    Resistance against crack propagation    Summation of crack
+  crack tip              in terms of the material parameters of    propagation
+                        the crack propagation law
+
+
+The fatigue assessment procedure depends on the presentation of fatigue resistance data. The
+ chosen procedure has to be performed using adequate safety factors.
+
+
+
+
+
+                                     page 15

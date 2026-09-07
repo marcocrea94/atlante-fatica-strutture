@@ -1,0 +1,53 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+ Surface crack in cylinder under internal pressure
+
+                               The formula for the stress
+                               intensity factor K1 is valid
+                               for a/c < 1,
+                               for more details see ref.[4-
+                               3],  where D is the diameter
+                               in mm and P is the internal
+                               pressure in N/mm2.
+
+              K1 = F /(BAa / Q)  A Fs
+
+           S  = pADinner / (2t)
+
+           Q  = 1 + 1.464 (a/c)1.65
+
+              Fs = 0.97A[M1 + M2A(a/t)2 + M3A(a/t)4]ACAgAfAfw
+
+              M1 = 1.13 - 0.09 (a/c)
+              M2 = -0.54 - 0.89 / (0.2 + a/c)
+              M3 = 0.5 - 1 / (0.65 + a/c) + 14 (1 - a/c)24
+
+              fw = [sec(BAc /(a/t) /(2Ab))]  1/2
+
+           C = [(Dout 2 + Din 2) / (Dout 2 - Din 2) + 1 - 0.5A/ a/t
+ ]A2t/Din
+
+      g and f are dependent to direction
+
+           "a"-direction: g = 1                         f =
+ 1
+           "c"-direction: g = 1 + [0.1 + 0.35 (a/t)2]   f =
+ /(a/c)
+
+ Through the wall cracks in curved shells under internal
+ pressure
+
+                               In  sphere and longitudinal
+                               cracks in cylinder loaded by
+                               internal pressure. Mk covers
+                               increase of stress
+                               concentration factor due to
+                               bulging effect of shell. For
+                               details see ref. [4-3,4-6].
+
+
+
+
+
+                                    page 127

@@ -1,0 +1,27 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+
+
+
+ Fig. (2.2)-3 Examples of macrogeometric effects
+
+
+
+
+
+ Fig. (2.2)-4 Modified (local) nominal stress near concentrated loads
+
+
+
+The secondary bending stress caused by axial or angular misalignment needs to be
+ considered if the misalignment exceeds the amount which is already covered by fatigue
+ resistance S-N curves for the structural detail. This is done by the application of an additional
+ stress raising factor km,eff (see 3.8.2). Intentional misalignment (e.g.allowable misalignment
+ specified in the design stage) is considered when assessing the fatigue actions (stress) by
+ multiplying by the factor. If it is non-intentional, it is regarded as a weld imperfection which
+ affects the fatigue resistance and has to be considered by dividing the fatigue resistance
+ (stress) by the factor.
+
+
+                                     page 23

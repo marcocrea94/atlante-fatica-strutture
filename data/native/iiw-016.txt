@@ -1,0 +1,53 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+Tab. {1}-3: General guidance for the application of the document
+
+  Item    Initial Infor-              Fatigue                  Fatigue
+        mation                  Action                    Resistance
+
+
+  (1)    Does joint                 determine                 look up      go to (6)
+         correpond to a             nominal stress               fatigue
+          tabulated       yes 6       (2.2.2)          then 6      resistance
+           structural                                                  class (FAT)
+           detail?                                                     in tables
+                                                                        (3.2)
+
+                 if no 9
+
+
+  (2)      Is hot-spot                 determine                 look up re-
+           structural                   hot-spot                     sistance S-N
+           stress assess-    yes 6       structural       then 6     curve for     go to (6)
+        ment ap-                      stress (2.2.3)                hot-spot
+          plicable?                                                    structural
+                                                                          stress (3.3)
+
+                 if no 9
+
+
+  (3)      Is effective                determine                 look up re-
+         notch stress                  effective                     sistance S-N
+         assessment      yes 6      notch stress     then 6     curve for     go to (6)
+          applicable?                   (2.2.4)                       effective
+                                                              notch stress
+                                                                        (3.4)
+
+                 if no 9
+
+
+  (4)    Are cracks or              determine                 look up
+          cracklike                      stress inten-                 resistance
+          imperfections   yes 6       sity factor      then 6      against       go to (7)
+          present?                      (2.2.5)                     crack pro-
+                                                                pagation
+                                                                      (3.6 and 3.8)
+
+                 if no 9
+
+
+
+
+
+                                     page 16

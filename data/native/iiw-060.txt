@@ -1,0 +1,35 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+332                                              Unstiffened curved flange to web joint,    ---       ---     The resulting force of Ff-left and Ff-right will bend the
+                                                      to be assessed according to no. 411 -                      flange perpenticular to the plane of main loading. In
+                                                414, depending on type of joint.                         oder to minimize this additional stressing of the welds,
+                                                                                                                                                                  it is recommended to minimize the width and to maxi-
+                                                     Stress in web plate:                                 mize the thickness of the flange.
+
+                                                                                                                 Stress longitudinally to the weld is to be considered. At
+                                                                                                                 additional shear, principle stress in web is to be consi-
+                                                                                                          red (see 321 to 323)
+
+                                                     Stress in weld throat:
+
+
+
+
+
+                                                    Ff axial force in flange
+                                                                t thickness of web plate
+                                          a weld throat
+
+400    Cruciform joints and/or T-joints
+
+411                                           Cruciform joint or T-joint, K-butt       80     28      Material quality of intermediate plate has to be checked
+                                                 welds, full penetration, no lamellar tea-                    against susceptibility of lamellar tearing.
+                                                         ring, misalignment e<0.15At, weld toes
+                                                ground, toe crack                                     Misalignment <15% of primary plate.
+
+
+
+
+
+                                                       page 60

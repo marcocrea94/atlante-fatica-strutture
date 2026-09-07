@@ -1,0 +1,13 @@
+C5.2.3.2.3   Verifiche allo stato limite di fatica
+
+Per la definizione dei modelli di carico a fatica, si può far riferimento agli spettri e ai coefficienti dinamici riportati nella norma
+UNI EN 1991-2.
+
+Per le verifiche col metodo dei coefficienti di danneggiamento equivalente, metodo 3, si può utilizzare il modello di carico LM71,
+associato ad un appropriato coefficiente dinamico.
+
+Per la determinazione dei coefficienti di danneggiamento equivalente, che devono essere specificamente calibrati sul predetto
+modello LM71, si può far riferimento alle norme UNI EN 1992-2, UNI EN 1993-2 ed UNI EN 1994-2.
+
+La determinazione dell’effettivo spettro di carico da considerare nella verifica del ponte dovrà essere effettuata in base alle
+caratteristiche funzionali e d’uso della infrastruttura ferroviaria cui l’opera appartiene.

@@ -1,0 +1,262 @@
+[
+  {
+    "bbox": [
+      47.45454406738281,
+      58.254547119140625,
+      88.69091033935547,
+      68.0727310180664
+    ],
+    "text": "11-2-2019",
+    "confidence": 0.99979
+  },
+  {
+    "bbox": [
+      181.96363830566406,
+      57.599998474121094,
+      413.0181884765625,
+      68.0727310180664
+    ],
+    "text": "Supplemento ordinario n. 5 alla GAZZETTA UFFICIALE",
+    "confidence": 0.99913
+  },
+  {
+    "bbox": [
+      467.6727294921875,
+      58.581817626953125,
+      547.5272827148438,
+      67.41818237304688
+    ],
+    "text": "Serie generale - n. 35",
+    "confidence": 0.9908
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      98.50909423828125,
+      170.18182373046875,
+      107.01818084716797
+    ],
+    "text": "C5.2.2.8 AZIONI SISMICHE",
+    "confidence": 0.984
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      110.61817932128906,
+      522.3272705078125,
+      120.10909271240234
+    ],
+    "text": "Nella progettazione sismica di manufatti che si collocano sull'intersezione di due infrastrutture lineari, caratterizzate da valori",
+    "confidence": 0.98772
+  },
+  {
+    "bbox": [
+      72.0,
+      120.43636322021484,
+      522.654541015625,
+      130.90908813476562
+    ],
+    "text": "non coincidenti di Vn e Cu, per non pregiudicare il livello di sicurezza dell'infrastruttura più rilevante occorrerà progettare gli",
+    "confidence": 0.99344
+  },
+  {
+    "bbox": [
+      72.0,
+      130.90908813476562,
+      522.9818115234375,
+      142.03636169433594
+    ],
+    "text": "elementi strutturali delle opere di intersezione assumendo il più alto valore di Vr fra quelli determinati considerando l’opera",
+    "confidence": 0.98804
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      141.38182067871094,
+      266.3999938964844,
+      152.18182373046875
+    ],
+    "text": "appartenente a ciascuna delle infrastrutture interferenti",
+    "confidence": 0.99984
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      165.27272033691406,
+      267.3818054199219,
+      172.8000030517578
+    ],
+    "text": "C5.2.3 PARTICOLARI PRESCRIZIONI PER LE VERIFICHE",
+    "confidence": 0.99346
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      184.58181762695312,
+      104.4000015258789,
+      193.41818237304688
+    ],
+    "text": "C5.2.3.2",
+    "confidence": 0.99998
+  },
+  {
+    "bbox": [
+      101.12727355957031,
+      185.23635864257812,
+      196.36363220214844,
+      193.41818237304688
+    ],
+    "text": "VERIFICHE AGLI SLU E SLE",
+    "confidence": 0.9824
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      200.29090881347656,
+      224.18182373046875,
+      210.1090850830078
+    ],
+    "text": "C5.2.3.2.1 Requisiti concernenti gli SLU",
+    "confidence": 0.99647
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      213.05455017089844,
+      522.654541015625,
+      223.5272674560547
+    ],
+    "text": "Al §5.2.3.2.1 delle NTC, il carico permanente dovuto al ballast è trattato, se sfavorevole, come un carico variabile non da traffico",
+    "confidence": 0.99914
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      223.5272674560547,
+      522.654541015625,
+      234.654541015625
+    ],
+    "text": "(v. Tabella 5.2.V delle NTC) ed è precisato che qualora se ne prevedano variazioni significative, queste dovranno essere",
+    "confidence": 0.98872
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      234.9818115234375,
+      522.654541015625,
+      244.4727325439453
+    ],
+    "text": "esplicitamente considerate nelle verifiche. In quest'ultimo caso dovranno essere aumentate di conseguenza anche le masse",
+    "confidence": 0.99338
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      245.4545440673828,
+      106.69091033935547,
+      254.29090881347656
+    ],
+    "text": "sismiche.",
+    "confidence": 0.99998
+  },
+  {
+    "bbox": [
+      72.98181915283203,
+      261.16363525390625,
+      239.8909149169922,
+      269.6727294921875
+    ],
+    "text": "C5.2.3.2.3 Verifiche allo stato limite di fatica",
+    "confidence": 0.98908
+  },
+  {
+    "bbox": [
+      71.6727294921875,
+      272.9454650878906,
+      522.654541015625,
+      284.3999938964844
+    ],
+    "text": "Per la definizione dei modelli di carico a fatica, si può far riferimento agli spettri e ai coefficienti dinamici riportati nella norma",
+    "confidence": 0.99893
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      284.3999938964844,
+      129.27272033691406,
+      293.2363586425781
+    ],
+    "text": "UNI EN 1991-2.",
+    "confidence": 0.99471
+  },
+  {
+    "bbox": [
+      72.0,
+      299.7818298339844,
+      522.0,
+      309.9272766113281
+    ],
+    "text": "Per le verifiche col metodo dei coefficienti di danneggiamento equivalente, metodo λ, si può utilizzare il modello di carico LM71,",
+    "confidence": 0.99509
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      310.9090881347656,
+      248.72727966308594,
+      320.7272644042969
+    ],
+    "text": "associato ad un appropriato coefficiente dinamico.",
+    "confidence": 0.99431
+  },
+  {
+    "bbox": [
+      71.6727294921875,
+      325.6363525390625,
+      522.654541015625,
+      336.7636413574219
+    ],
+    "text": "Per la determinazione dei coefficienti di danneggiamento equivalente, che devono essere specificamente calibrati sul predetto",
+    "confidence": 0.99653
+  },
+  {
+    "bbox": [
+      72.65454864501953,
+      336.7636413574219,
+      418.9090881347656,
+      346.2545471191406
+    ],
+    "text": "modello LM71, si può far riferimento alle norme UNI EN 1992-2, UNI EN 1993-2 ed UNI EN 1994-2.",
+    "confidence": 0.99386
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      352.47271728515625,
+      522.3272705078125,
+      362.2909240722656
+    ],
+    "text": "La determinazione dell'effettivo spettro di carico da considerare nella verifica del ponte dovrà essere effettuata in base alle",
+    "confidence": 0.99209
+  },
+  {
+    "bbox": [
+      72.3272705078125,
+      362.9454650878906,
+      372.7636413574219,
+      373.4181823730469
+    ],
+    "text": "caratteristiche funzionali e d’uso della infrastruttura ferroviaria cui l'opera appartiene.",
+    "confidence": 0.97997
+  },
+  {
+    "bbox": [
+      275.5636291503906,
+      764.8363647460938,
+      308.2909240722656,
+      775.963623046875
+    ],
+    "text": "—172",
+    "confidence": 0.88588
+  }
+]

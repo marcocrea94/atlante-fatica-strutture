@@ -1,0 +1,42 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+2 FATIGUE ACTIONS (LOADING)
+
+
+ All types of fluctuating load acting on the component and the resulting stresses at potential
+ sites for fatigue have to be considered. Stresses or stress intensity factors then have to be
+ determined according to the fatigue assessment procedure applied.
+
+The actions originate from live loads, dead weights, snow, wind, waves, pressure, ac-
+ celerations, dynamic response etc. Actions due to transient temperature changes should be
+ considered. Improper knowledge of fatigue actions is one of the major sources of fatigue
+ damage.
+
+ Tensile residual stresses due to welding decrease the fatigue resistance, however, the
+ influence of residual weld stresses is already included in the fatigue resistance data given in
+ chapter 3.
+
+2.1 BASIC PRINCIPLES
+
+2.1.1 Determination of Actions
+
+The actions in service have to be determined in terms of characteristic loads. Partial safety
+ factors on actions (F have to be applied as specified in the application code giving the design
+ values of the actions for fatigue assessment.
+
+ In this document, there is no guidance given for the establishing of design values for actions
+ (loads), nor for partial safety factors (F for actions (loads).
+
+
+ 2.1.2 Stress Range
+
+ Fatigue assessment is usually based on stress range or stress intensity factor range. Thus, the
+ actions have to be given in these terms.
+
+
+
+
+
+The maximum and the minimum values of the stresses are to be calculated from a superpo-
+
+                                     page 18

@@ -1,0 +1,54 @@
+figura       7.4   Intervallo di variazione della tensione modificata per particolari costruttivi non saldati o sottoposti a
+                        trattamento termico di distensione
+                   Legenda
+                  +     Trazione
+                                -     Compressione
+
+
+
+
+
+7.2.2                   Effetto scala
+
+                        (1)  Si raccomanda che l’effetto scala dovuto allo spessore o ad altri effetti dimensionali
+                            sia considerato secondo quanto riportato nei prospetti da 8.1 a 8.10. La resistenza a
+                              fatica è quindi fornita da:
+                           ∆σC,red = ks∆σC                                                                  (7.1)
+
+
+
+8                VERIFICHE A FATICA
+
+                       (1)  Si raccomanda che  gli intervalli di variazione della tensione normale, nominale
+                          modificata o geometrica dovuti a carichi frequenti ψ1 Qk (vedere EN 1990) non
+                       eccedano:
+                ∆σ ≤ 1,5 fy per intervalli di variazione della tensione normale                    (8.1)
+                  ∆τ ≤ 1,5 fy/ 3 per intervalli di variazione della tensione tangenziale
+                        (2)  Si raccomanda che sotto carichi di fatica sia verificato che:
+
+                          γFf∆σE,2
+                                                                     -------------------- ≤ 1,0
+                         ∆σC/γMf
+
+                      e                                                                                   (8.2)
+
+                            γFf∆τE,2
+                                                                     ------------------- ≤ 1,0
+                          ∆τC/γMf
+
+                     Nota               I prospetti da 8.1 a 8.9 richiedono che per alcuni particolari costruttivi gli intervalli di variazione della
+                               tensione siano basati sulle tensioni principali.
+
+                       (3)  Quando non diversamente specificato nelle categorie di resistenza a fatica del
+                          prospetto 8.8 e del prospetto 8.9, si raccomanda che nel caso di combinazioni di
+                                 intervalli di variazione di tensioni ∆σE,2 e ∆τE,2 sia verificato che:
+                               γFf∆σE,2--------------------  3 + γFf∆τE,2-------------------  5 ≤ 1,0                                                  (8.3)
+                                ∆σC/γMf      ∆τC/γMf 
+
+                        (4)  Qualora non siano disponibili dati per ∆σE,2 e ∆τE,2 può essere utilizzato  il tipo di
+                              verifica riportato nell’appendice A.
+
+                   Nota 1         L’appendice A è presentata per intervalli di variazione della tensione nella direzione longitudinale. Tale
+                              presentazione può essere adattata per intervalli di variazione della tensione tangenziale.
+
+                   Nota 2         L’appendice nazionale può fornire informazioni sull’utilizzo dell’appendice A.

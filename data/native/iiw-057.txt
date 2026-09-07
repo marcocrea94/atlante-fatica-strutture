@@ -1,0 +1,36 @@
+No.    Structural Detail                        Description                  FAT  FAT   Requirements and Remarks
+                                                    (St.= steel; Al.= aluminium)              St.     Al.
+
+322                                           Continuous automatic longitudinal dou-  100    40      Discussion: EC3 has 112 ??
+                                                    ble sided fillet weld without stop/start
+                                                     positions (based on stress range in flan-
+                                                  ge)
+
+
+
+
+323                                           Continuous manual longitudinal fillet or  90     36
+                                                      butt weld (based on stress range in flan-
+                                                  ge)
+
+
+
+
+
+324                                                  Intermittent longitudinal fillet weld (ba-                  Analysis based on normal stress in flange and shear
+                                                sed on normal stress in flange F and                         stress in web at weld ends.
+                                                  shear stress in web J at weld ends).
+                                                        J/F =   0                   80     32
+                                                                    0.0 - 0.2             71     28      representation by formula??
+                                                                    0.2 - 0.3             63     25
+                                                                                                                           steel               but >=36                                                                    0.3 - 0.4             56     22
+                                                                    0.4 - 0.5             50     20
+                                                                    0.5 - 0.6             45     18
+                                                                    0.6 - 0.7             40     16                                                                                                     alum.               but >=14
+                                                  > 0.7                36     14
+
+
+
+
+
+                                                       page 57

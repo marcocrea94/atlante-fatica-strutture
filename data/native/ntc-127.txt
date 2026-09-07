@@ -1,0 +1,88 @@
+Tabella C4.2.XII.a - Dettagli costruttivi per prodotti laminati e estrusi e loro classificazione (01)
+
+ Classe del
+                            Dettaglio costruttivo                              Descrizione                                      Requisiti
+  dettaglio
+
+
+                                                            /%          ( ),($) ( " "  %     (                               ('"  (    &"%'( () ( "     (  ),($)*( $" "   &(      (  2(2(
+                                                            0),("%" " &()  ( ),($) (1                   "2 $  "  "%" " (,($) ( ," ()$ " , )  %)
+                                                            0),("%" " &()  (1
+                                                              /%  '( (  )2(  "$*)  ) )  %)! %" )$    )%( "
+                                                                                                                   (%   )%(
+
+
+                                                          0),("%" )  () "  $  )  ,"  )$( ),"$ "                      (  (  " $( 2(  (3( (     ( ($ )   (         ( 3  %   (  "2 $
+                                                            )   (   )   )   )  ,) (       )   (  "  "%" " (,($) ( 0" )%""     ( )   (   "2 $  "  "%"
+                                             ,"  )$(    "      "  (2)  " (,($)*( $"  )2 %) "  ) ,)  4($)   5%)''(  "    ) '(   %"       (
+                                                          " " %)  "  " )    (                     )2 %)*( $"  "2 $  "  "%" &)%) " ( )    (   '  %*(
+
+                                                           )    (  )  )  ,)$ ) "    )   (  )  )     "     $      ( %("$ %)$ (  "2 $  "  "%" %)     % ) (
+                                                         )  ,) (    $ %)  "  "  )   (  %"    )%( "   $ &"$ "$*)       6  !  ($  )     $ %)%(         %%"
+                                                                                    &"%'( () ( "     "  (2) " (,($)*( $"     (  (,&(" )%"  &&  %  $( ')    %(     (   $ "$ %)*( $"  "   (
+                                                                                                                                                    ( (  ('"   (  "( 3  %   (                                         '  %*(
+                                                                       7 $  $ ),,"  " %(&)%)*( $( ," ()$ " ) )  %)
+
+
+
+(1) Classe da adottare per acciai resistenti alla corrosione.
+
+Tabella C4.2.XII.b - Dettagli costruttivi per prodotti laminati e estrusi e loro classificazione (0F)
+
+ Classe del
+                           Dettaglio costruttivo                              Descrizione                                     Requisiti
+  dettaglio
+
+                                                                                                                 0F  )   ) (  $
+                                                        "   /%          ( ),($) ( " "  %     (  ," # "  (
+                                                                                               0  !
+                                                                                                                                         (  )3" )      89: )      "  ( )  "$  ( $(                 0F
+                                                      )$ "$*() (                                                                                 C
+
+Tabella C4.2.XII.c - Bulloni sollecitati a taglio (0F)
+
+ Classe del
+                           Dettaglio costruttivo                              Descrizione                                     Requisiti
+  dettaglio
+
+
+                                                                                        $(    "  ( ) ( ) )   (      $      "
+                                                                       &()$( $ $ ($ "%"  )$ ( ) &)% " '( " ) )
+                                                                                         $( ) (3%) (                      0F  )   ) ( ($ %('"%(,"$  ) ;)%")  "  ),3
+                                                                                         $( $ %,) (    (  %)          !    "     "
+                                                          )  "$*)    ( ($2"%  ( $(    (  )%(
+
+
+Tabella C4.2.XII.d - Dettagli costruttivi per giunti chiodati o bullonati (01)
+
+ Classe del
+                            Dettaglio costruttivo                              Descrizione                                     Requisiti
+  dettaglio
+
+
+                                                                  5( $ ( 3   $) (   $    &%(  ( $ (    &&( "
+                                                          3    $( < &%" )%( ) (  3    $( &%" )%( ) (   01 %('"%( ( ) )  "*( $"   % )
+                                                                                  ($(" ) (
+
+
+
+
+                                                                 5( $ ( 3   $) (   $    &%(   ( $ (    &&( "
+                                                          3    $(  ) (3%) (   3    $( $ $ &%" )%( ) (   01 %('"%( ( ) )  "*( $" $" )
+                                                                                  ($(" ) (
+
+
+
+
+
+                                                                 5( $ ( 3   $) (   $    &%(  ( $ (  ($      ( "
+                                                          3    $( < &%" )%( ) (  3    $( &%" )%( ) (   01 %('"%( ( ) )  "*( $"   % )
+                                                                                  ($(" ) (
+
+
+
+
+
+                                                    ","$ (   %    %) ( ' %) (     "  ( ) ' %*)
+                                                                                      01 %('"%( ( ) )  "*( $" $" )
+                                                          $ %,) " " , ,"$    ' " "$ "

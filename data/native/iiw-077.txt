@@ -1,0 +1,59 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+3.3 FATIGUE RESISTANCE AGAINST STRUCTURAL HOT SPOT
+STRESS
+
+3.3.1 Fatigue Resistance Using Reference S-N Curve
+
+The S-N curves for fatigue resistance against structural hot spot stress (2.2.3) are given in the
+table {3.3}-1 for steel and aluminium, where the definition of the FAT class is given in chapter
+3.2. The resistance values refer to the as-welded condition unless stated otherwise. The effects
+of welding residual stress are included. Only small effects of misalignment are not included, see
+also 3.8.2).
+
+The design value of the structural hot spot stress range shall not exceed )Fhs < 2Afy.
+
+Tab. {3.3}-1: Fatigue resistance against structural hot spot stress
+
+ No          Structural detail              Description             Requirements       FAT   FAT
+     .                                                                                              Steel    Alu.
+
+  1                                  Butt joint           As welded, NDT            100    40
+
+
+
+
+  2                                Cruciform or T-joint   K-butt welds, no lamellar     100    40
+                                     with full penetration    tearing
+                                      K-butt welds
+
+
+
+  3                          Non load-carrying     Transverse non-load carry-    100    40
+                                                    fillet welds            ing attachment, not thicker
+                                                             than main plate, as welded
+
+
+
+  4                                 Bracket ends, ends      Fillet welds welded around    100    40
+                                       of longitudinal stif-     or not, as welded
+                                        feners
+
+
+
+  5                              Cover plate ends and  As welded                 100    40
+                                          similar joints
+
+
+
+
+
+  6                                Cruciform joints         Fillet welds, as welded       90     36
+                                     with load-carrying
+                                                    fillet welds
+
+
+
+
+                                    page 77

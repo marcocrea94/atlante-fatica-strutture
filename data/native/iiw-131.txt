@@ -1,0 +1,43 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+ Cruciform joint fillet welds
+
+                                              Dim.  min  max
+                                             H/T   0.2   1
+                                       W/T   0.2   1
+                                         2     15°   60°
+                                             A/T   0.175  0.8
+                                                              t/T    0.5   10
+
+
+
+
+
+ If  0.2 < H/T < 0.5  and  0.2 < W/T < 0.5  and  a/T < 0.07  then:
+
+
+
+                                                                                      (3)
+
+
+
+ If  0.2 < H/T < 0.5  and  0.2 < W/T < 0.5  and  a/T > 0.07  then:
+
+
+
+                                                                                      (4)
+
+
+
+ If  0.5 < H/T < 1.5  or  0.5 < W/T < 1.5  then:
+
+
+
+                                                                                      (5)
+
+
+
+
+
+                                    page 131

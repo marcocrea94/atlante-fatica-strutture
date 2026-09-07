@@ -1,0 +1,29 @@
+IIW Fatigue Recommendations XIII-1965-03/XV-1127-03                   June 2005
+
+
+ terms of cycles, which corresponds to a slope of m=22. This fact may be of interest at very
+ high cycles as they are encountered in e.g. rotating engines. The user should  consult the
+ newest relevant literature. Here, two sets of SN curves are given representing the conven-
+ tional design and the recommendations for the very high cycle regime.
+
+The fatigue resistance of welded aluminium components at higher cycles than the knee point
+ is described by a further decline of about 10% per decade in terms of cycles, which corre-
+ sponds to a slope of m=22.
+
+
+
+
+
+             Fig. (3.2)-1: Fatige resistance S-N curves for steel, normal stress,
+            standard applications
+
+
+
+
+
+                   Fig. (3.2)-2: Fatigue resistance S-N curves for steel,
+                 normal stress, very high cycle applications
+
+
+
+                                     page 44

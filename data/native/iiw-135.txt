@@ -1,0 +1,39 @@
+IIW Fatigue Recommendations  XIII-1965-03/XV-1127-03                 February 2005
+
+
+
+ 6      Ovality in pressurized cylindrical pipes and shells
+
+
+
+
+
+ 7      Axial misalignment of cruciform joints (toe cracks)
+
+
+
+                                    8 is dependent on restraint
+
+
+
+
+       8 varies from 8=3 (fully restrained) to 8=6 (unrestraint). For unrestrained remotely
+        loaded joints assume: l1=l2 and 8=6
+
+ 8     Angular misalignment of cruciform joints (toe cracks)
+
+
+
+                                    8 is dependent on restraint
+
+
+
+
+           If the inplane displacement of the transverse plate is restricted, 8 varies from
+        8=0.02 to 8=0.04. If not, 8 varies from 8=3 to 8=6.
+
+
+
+
+
+                                    page 135
