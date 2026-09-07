@@ -1,0 +1,53 @@
+name: Importa archivio documentale
+on:
+  workflow_dispatch:
+    inputs:
+      archive_sha256:
+        description: SHA-256 dell'archivio sorgente verificato
+        required: true
+        type: string
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Scarica la base di lavoro
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download v1.0.0 --repo "$GITHUB_REPOSITORY" --pattern atlante-fatica-source.zip --dir "$RUNNER_TEMP"
+      - name: Verifica ed estrai i file autorizzati
+        env:
+          EXPECTED_SHA256: ${{ inputs.archive_sha256 }}
+        shell: python
+        run: |
+          import hashlib, os, pathlib, zipfile
+          archive = pathlib.Path(os.environ["RUNNER_TEMP"]) / "atlante-fatica-source.zip"
+          expected = os.environ["EXPECTED_SHA256"].strip().lower()
+          assert len(expected) == 64
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
+          allowed = {"assets", "data", "docs", "scripts", "sources", "web", "README.md", "llms.txt", "llms-full.txt", "requirements.txt", "requirements-build.txt", ".gitignore"}
+          root = pathlib.Path.cwd().resolve()
+          with zipfile.ZipFile(archive) as z:
+              for info in z.infolist():
+                  p = pathlib.PurePosixPath(info.filename)
+                  assert not p.is_absolute() and ".." not in p.parts and p.parts
+                  if p.parts[0] == ".github":
+                      continue
+                  assert p.parts[0] in allowed, str(p)
+                  assert (info.external_attr >> 16) & 0o170000 != 0o120000
+                  target = (root / str(p)).resolve()
+                  assert target.is_relative_to(root)
+                  z.extract(info, root)
+      - name: Conserva documenti, dati e sito nella repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets data docs scripts sources web README.md llms.txt llms-full.txt requirements.txt requirements-build.txt .gitignore
+          if ! git diff --cached --quiet; then
+            git commit -m "Digitalizza il corpus sulla fatica con fonti, dettagli e sito"
+            git push origin HEAD:main
+          fi
