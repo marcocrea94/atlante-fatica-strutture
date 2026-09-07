@@ -1,0 +1,4246 @@
+{
+  "ntc-127-t01-d01-01": {
+    "family": "plate",
+    "variant": "",
+    "title": "Lamiera e piatto laminato",
+    "options": {},
+    "id": "ntc-127-t01-d01-01",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-127-t01-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Lamiera e piatto laminato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t01-d01-02": {
+    "family": "beam",
+    "variant": "",
+    "title": "Profilo laminato",
+    "options": {},
+    "id": "ntc-127-t01-d01-02",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ntc-127-t01-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t01-d01-03": {
+    "family": "tube",
+    "variant": "",
+    "title": "Profilo cavo senza saldatura",
+    "options": {},
+    "id": "ntc-127-t01-d01-03",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ntc-127-t01-d01-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo senza saldatura. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t01-d02": {
+    "family": "plate",
+    "variant": "cut_machine",
+    "title": "Bordo tagliato e rifinito",
+    "options": {},
+    "id": "ntc-127-t01-d02",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-127-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bordo tagliato e rifinito. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t01-d03": {
+    "family": "plate",
+    "variant": "cut_manual",
+    "title": "Bordo tagliato a gas",
+    "options": {},
+    "id": "ntc-127-t01-d03",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ntc-127-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bordo tagliato a gas. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t02-d01-01": {
+    "family": "beam",
+    "variant": "shear",
+    "title": "Profilo soggetto a taglio",
+    "options": {},
+    "id": "ntc-127-t02-d01-01",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ntc-127-t02-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo soggetto a taglio. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t02-d01-02": {
+    "family": "tube",
+    "variant": "shear",
+    "title": "Profilo cavo soggetto a taglio",
+    "options": {},
+    "id": "ntc-127-t02-d01-02",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ntc-127-t02-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo soggetto a taglio. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t03-d01": {
+    "family": "bolted",
+    "variant": "shear",
+    "title": "Bullone su due piani di taglio",
+    "options": {},
+    "id": "ntc-127-t03-d01",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "15"
+    ],
+    "reference_image": "assets/details/ntc-127-t03-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bullone su due piani di taglio. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t04-d01": {
+    "family": "plate",
+    "variant": "cover",
+    "title": "Coprigiunti doppi · bulloni precaricati",
+    "options": {},
+    "id": "ntc-127-t04-d01",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ntc-127-t04-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti doppi · bulloni precaricati. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t04-d02": {
+    "family": "plate",
+    "variant": "cover",
+    "title": "Coprigiunti doppi · sezione netta",
+    "options": {},
+    "id": "ntc-127-t04-d02",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ntc-127-t04-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti doppi · sezione netta. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t04-d03": {
+    "family": "beam",
+    "variant": "cover",
+    "title": "Coprigiunti singoli · bulloni precaricati",
+    "options": {},
+    "id": "ntc-127-t04-d03",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ntc-127-t04-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti singoli · bulloni precaricati. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-127-t04-d04": {
+    "family": "beam",
+    "variant": "holes",
+    "title": "Profilo con fori",
+    "options": {},
+    "id": "ntc-127-t04-d04",
+    "source": "ntc",
+    "pdf_page": 127,
+    "source_detail_numbers": [
+      "11"
+    ],
+    "reference_image": "assets/details/ntc-127-t04-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo con fori. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 127."
+  },
+  "ntc-128-t01-d01": {
+    "family": "beam",
+    "variant": "cover",
+    "title": "Coprigiunti singoli · sezione netta",
+    "options": {},
+    "id": "ntc-128-t01-d01",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "12"
+    ],
+    "reference_image": "assets/details/ntc-128-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti singoli · sezione netta. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t01-d02": {
+    "family": "beam",
+    "variant": "cover",
+    "title": "Giunto bullonato senza inversioni",
+    "options": {},
+    "id": "ntc-128-t01-d02",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "13"
+    ],
+    "reference_image": "assets/details/ntc-128-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto bullonato senza inversioni. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t01-d03": {
+    "family": "bolted",
+    "variant": "tension",
+    "title": "Bulloni e barre filettate in trazione",
+    "options": {},
+    "id": "ntc-128-t01-d03",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "14"
+    ],
+    "reference_image": "assets/details/ntc-128-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bulloni e barre filettate in trazione. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d01-01": {
+    "family": "longitudinal",
+    "variant": "manual",
+    "title": "Saldatura longitudinale manuale",
+    "options": {},
+    "id": "ntc-128-t02-d01-01",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale manuale. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d01-02": {
+    "family": "longitudinal",
+    "variant": "box",
+    "title": "Cassone saldato da un lato",
+    "options": {},
+    "id": "ntc-128-t02-d01-02",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cassone saldato da un lato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d02": {
+    "family": "longitudinal",
+    "variant": "repair",
+    "title": "Saldatura longitudinale riparata",
+    "options": {},
+    "id": "ntc-128-t02-d02",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale riparata. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d03-01": {
+    "family": "longitudinal",
+    "variant": "i",
+    "title": "Saldatura longitudinale continua",
+    "options": {},
+    "id": "ntc-128-t02-d03-01",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d03-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale continua. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d03-02": {
+    "family": "longitudinal",
+    "variant": "both",
+    "title": "Cordoni longitudinali continui",
+    "options": {},
+    "id": "ntc-128-t02-d03-02",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d03-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni longitudinali continui. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d04-01": {
+    "family": "longitudinal",
+    "variant": "profiles",
+    "title": "Profili saldati longitudinalmente",
+    "options": {},
+    "id": "ntc-128-t02-d04-01",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d04-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profili saldati longitudinalmente. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d04-02": {
+    "family": "longitudinal",
+    "variant": "flat",
+    "title": "Giunto longitudinale tra lamiere",
+    "options": {},
+    "id": "ntc-128-t02-d04-02",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d04-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale tra lamiere. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d05": {
+    "family": "longitudinal",
+    "variant": "intermittent",
+    "title": "Cordoni longitudinali intermittenti",
+    "options": {},
+    "id": "ntc-128-t02-d05",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni longitudinali intermittenti. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128."
+  },
+  "ntc-128-t02-d06": {
+    "family": "longitudinal",
+    "variant": "cope",
+    "title": "Cordone con foro di scarico",
+    "options": {},
+    "id": "ntc-128-t02-d06",
+    "source": "ntc",
+    "pdf_page": 128,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-128-t02-d06.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordone con foro di scarico. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 128.",
+    "display_detail_numbers": [
+      "9"
+    ]
+  },
+  "ntc-129-t01-d01": {
+    "family": "longitudinal",
+    "variant": "flat",
+    "title": "Giunto longitudinale di testa",
+    "options": {},
+    "id": "ntc-129-t01-d01",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ntc-129-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale di testa. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t01-d02": {
+    "family": "longitudinal",
+    "variant": "tube",
+    "title": "Saldatura longitudinale di profilo cavo",
+    "options": {},
+    "id": "ntc-129-t01-d02",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "11"
+    ],
+    "reference_image": "assets/details/ntc-129-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale di profilo cavo. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d01-01": {
+    "family": "butt",
+    "variant": "flush",
+    "title": "Giunto trasversale a filo lamiera",
+    "options": {},
+    "id": "ntc-129-t02-d01-01",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale a filo lamiera. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d01-02": {
+    "family": "beam_splice",
+    "variant": "flanges",
+    "title": "Giunto trasversale delle ali",
+    "options": {},
+    "id": "ntc-129-t02-d01-02",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale delle ali. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d01-03": {
+    "family": "beam_splice",
+    "variant": "flush",
+    "title": "Giunto trasversale di profilo laminato",
+    "options": {},
+    "id": "ntc-129-t02-d01-03",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d01-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d01-04": {
+    "family": "transition",
+    "variant": "flush",
+    "title": "Giunto con raccordo molato",
+    "options": {},
+    "id": "ntc-129-t02-d01-04",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d01-04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con raccordo molato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d02-01": {
+    "family": "butt",
+    "variant": "cap01",
+    "title": "Giunto di testa · sovrametallo limitato",
+    "options": {},
+    "id": "ntc-129-t02-d02-01",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d02-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · sovrametallo limitato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d02-02": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto trasversale di profilo",
+    "options": {},
+    "id": "ntc-129-t02-d02-02",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d02-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di profilo. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d02-03": {
+    "family": "transition",
+    "variant": "cap",
+    "title": "Giunto raccordato · sovrametallo",
+    "options": {},
+    "id": "ntc-129-t02-d02-03",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d02-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto raccordato · sovrametallo. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d03-01": {
+    "family": "beam_splice",
+    "variant": "flanges",
+    "title": "Giunto trasversale delle piattabande",
+    "options": {},
+    "id": "ntc-129-t02-d03-01",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d03-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale delle piattabande. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d03-02": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto di testa su profilo laminato",
+    "options": {},
+    "id": "ntc-129-t02-d03-02",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d03-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa su profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d03-03": {
+    "family": "butt",
+    "variant": "cap02",
+    "title": "Giunto di testa · altezza del cordone",
+    "options": {},
+    "id": "ntc-129-t02-d03-03",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "11"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d03-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · altezza del cordone. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-129-t02-d04": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto di testa trasversale",
+    "options": {},
+    "id": "ntc-129-t02-d04",
+    "source": "ntc",
+    "pdf_page": 129,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ntc-129-t02-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa trasversale. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 129."
+  },
+  "ntc-130-t01-d01": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto di testa · profilo assemblato",
+    "options": {},
+    "id": "ntc-130-t01-d01",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "12"
+    ],
+    "reference_image": "assets/details/ntc-130-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · profilo assemblato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t01-d02": {
+    "family": "butt",
+    "variant": "root",
+    "title": "Giunto saldato da un lato",
+    "options": {},
+    "id": "ntc-130-t01-d02",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "13"
+    ],
+    "reference_image": "assets/details/ntc-130-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto saldato da un lato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t01-d03": {
+    "family": "transition",
+    "variant": "backed",
+    "title": "Giunto con sostegno al rovescio",
+    "options": {},
+    "id": "ntc-130-t01-d03",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "16"
+    ],
+    "reference_image": "assets/details/ntc-130-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con sostegno al rovescio. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t01-d04": {
+    "family": "butt",
+    "variant": "step",
+    "title": "Giunto tra spessori diversi",
+    "options": {},
+    "id": "ntc-130-t01-d04",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "17"
+    ],
+    "reference_image": "assets/details/ntc-130-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto tra spessori diversi. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t01-d05-01": {
+    "family": "butt",
+    "variant": "one_sided",
+    "title": "Giunto trasversale di lamiera",
+    "options": {},
+    "id": "ntc-130-t01-d05-01",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "14"
+    ],
+    "reference_image": "assets/details/ntc-130-t01-d05-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di lamiera. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t01-d05-02": {
+    "family": "transition",
+    "variant": "flush",
+    "title": "Giunto rastremato",
+    "options": {},
+    "id": "ntc-130-t01-d05-02",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "15"
+    ],
+    "reference_image": "assets/details/ntc-130-t01-d05-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto rastremato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t02-d01": {
+    "family": "attachment",
+    "variant": "long",
+    "title": "Attacco longitudinale",
+    "options": {},
+    "id": "ntc-130-t02-d01",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-130-t02-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco longitudinale. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t02-d02": {
+    "family": "attachment",
+    "variant": "taper",
+    "title": "Attacco longitudinale rastremato",
+    "options": {},
+    "id": "ntc-130-t02-d02",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ntc-130-t02-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco longitudinale rastremato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-130-t02-d03": {
+    "family": "attachment",
+    "variant": "radius",
+    "title": "Attacco con raccordo curvo",
+    "options": {},
+    "id": "ntc-130-t02-d03",
+    "source": "ntc",
+    "pdf_page": 130,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ntc-130-t02-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco con raccordo curvo. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 130."
+  },
+  "ntc-131-t01-d01": {
+    "family": "attachment",
+    "variant": "stud",
+    "title": "Piolo saldato",
+    "options": {},
+    "id": "ntc-131-t01-d01",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ntc-131-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Piolo saldato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t01-d02": {
+    "family": "flat_gusset",
+    "variant": "radius",
+    "title": "Attacco laterale raccordato",
+    "options": {},
+    "id": "ntc-131-t01-d02",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-131-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco laterale raccordato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t01-d03": {
+    "family": "flat_gusset",
+    "variant": "plain",
+    "title": "Attacco laterale piano",
+    "options": {},
+    "id": "ntc-131-t01-d03",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ntc-131-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco laterale piano. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t01-d04-01": {
+    "family": "attachment",
+    "variant": "transverse",
+    "title": "Irrigidimento trasversale",
+    "options": {},
+    "id": "ntc-131-t01-d04-01",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ntc-131-t01-d04-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Irrigidimento trasversale. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t01-d04-02": {
+    "family": "stiffeners",
+    "variant": "",
+    "title": "Irrigidimenti di una trave",
+    "options": {},
+    "id": "ntc-131-t01-d04-02",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ntc-131-t01-d04-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Irrigidimenti di una trave. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t01-d04-03": {
+    "family": "stiffeners",
+    "variant": "box",
+    "title": "Diaframma di un cassone",
+    "options": {},
+    "id": "ntc-131-t01-d04-03",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ntc-131-t01-d04-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Diaframma di un cassone. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t02-d01": {
+    "family": "cruciform",
+    "variant": "",
+    "title": "Giunto a croce e a T",
+    "options": {},
+    "id": "ntc-131-t02-d01",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-131-t02-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce e a T. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-131-t02-d02": {
+    "family": "flexible_panel",
+    "variant": "",
+    "title": "Attacco su pannello flessibile",
+    "options": {},
+    "id": "ntc-131-t02-d02",
+    "source": "ntc",
+    "pdf_page": 131,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ntc-131-t02-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco su pannello flessibile. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 131."
+  },
+  "ntc-132-t01-d01": {
+    "family": "lap",
+    "variant": "side",
+    "title": "Giunto sovrapposto con cordoni laterali",
+    "options": {},
+    "id": "ntc-132-t01-d01",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-132-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto sovrapposto con cordoni laterali. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132.",
+    "display_detail_numbers": [
+      "5"
+    ]
+  },
+  "ntc-132-t01-d02": {
+    "family": "beam_tee",
+    "variant": "",
+    "title": "Estremità di copripiattabanda",
+    "options": {},
+    "id": "ntc-132-t01-d02",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ntc-132-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Estremità di copripiattabanda. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-132-t01-d03": {
+    "family": "cruciform",
+    "variant": "partial",
+    "title": "Giunto a T · penetrazione parziale",
+    "options": {},
+    "id": "ntc-132-t01-d03",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ntc-132-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a T · penetrazione parziale. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-132-t01-d04": {
+    "family": "lap",
+    "variant": "double",
+    "title": "Giunto con coprigiunti saldati",
+    "options": {},
+    "id": "ntc-132-t01-d04",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-132-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con coprigiunti saldati. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-132-t01-d05": {
+    "family": "lap",
+    "variant": "reinforced",
+    "title": "Copripiatto · cordone terminale",
+    "options": {},
+    "id": "ntc-132-t01-d05",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ntc-132-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Copripiatto · cordone terminale. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-132-t02-d01-01": {
+    "family": "longitudinal",
+    "variant": "tee",
+    "title": "Giunto longitudinale a T",
+    "options": {},
+    "id": "ntc-132-t02-d01-01",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ntc-132-t02-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale a T. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-132-t02-d01-02": {
+    "family": "lap",
+    "variant": "side",
+    "title": "Giunto sovrapposto · cordoni laterali",
+    "options": {},
+    "id": "ntc-132-t02-d01-02",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ntc-132-t02-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto sovrapposto · cordoni laterali. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-132-t03-d01": {
+    "family": "runway",
+    "variant": "1",
+    "title": "Ala e anima di profilo laminato",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-132-t03-d01",
+    "source": "ntc",
+    "pdf_page": 132,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ntc-132-t03-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Ala e anima di profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 132."
+  },
+  "ntc-133-t01-d01": {
+    "family": "runway",
+    "variant": "2",
+    "title": "Ala e anima · piena penetrazione",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-133-t01-d01",
+    "source": "ntc",
+    "pdf_page": 133,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ntc-133-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Ala e anima · piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 133."
+  },
+  "ntc-133-t01-d02": {
+    "family": "runway",
+    "variant": "3",
+    "title": "Ala e anima · cordoni bilaterali",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-133-t01-d02",
+    "source": "ntc",
+    "pdf_page": 133,
+    "source_detail_numbers": [],
+    "reference_image": "assets/details/ntc-133-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Ala e anima · cordoni bilaterali. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 133.",
+    "display_detail_numbers": [
+      "3"
+    ]
+  },
+  "ntc-133-t01-d03": {
+    "family": "runway",
+    "variant": "4",
+    "title": "Ala e anima · cordoni d’angolo",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-133-t01-d03",
+    "source": "ntc",
+    "pdf_page": 133,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ntc-133-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Ala e anima · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 133."
+  },
+  "ntc-133-t01-d04": {
+    "family": "runway",
+    "variant": "5",
+    "title": "Giunto dell’anima sotto l’ala",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-133-t01-d04",
+    "source": "ntc",
+    "pdf_page": 133,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ntc-133-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto dell’anima sotto l’ala. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 133."
+  },
+  "ntc-133-t01-d05": {
+    "family": "runway",
+    "variant": "6",
+    "title": "Giunto dell’anima · sezione a T",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-133-t01-d05",
+    "source": "ntc",
+    "pdf_page": 133,
+    "source_detail_numbers": [],
+    "reference_image": "assets/details/ntc-133-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto dell’anima · sezione a T. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 133.",
+    "display_detail_numbers": [
+      "6"
+    ]
+  },
+  "ntc-133-t01-d06": {
+    "family": "runway",
+    "variant": "7",
+    "title": "Giunto dell’anima · tratto rinforzato",
+    "options": {
+      "load": false
+    },
+    "id": "ntc-133-t01-d06",
+    "source": "ntc",
+    "pdf_page": 133,
+    "source_detail_numbers": [],
+    "reference_image": "assets/details/ntc-133-t01-d06.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto dell’anima · tratto rinforzato. Schema tecnico vettoriale a colori, non in scala. Fonte NTC, pagina PDF 133.",
+    "display_detail_numbers": [
+      "7"
+    ]
+  },
+  "ec3-022-t01-d01-01": {
+    "family": "plate",
+    "variant": "",
+    "title": "Lamiera e piatto laminato",
+    "options": {},
+    "id": "ec3-022-t01-d01-01",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Lamiera e piatto laminato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-022-t01-d01-02": {
+    "family": "beam",
+    "variant": "",
+    "title": "Profilo laminato",
+    "options": {},
+    "id": "ec3-022-t01-d01-02",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-022-t01-d01-03": {
+    "family": "tube",
+    "variant": "",
+    "title": "Profilo cavo senza saldatura",
+    "options": {},
+    "id": "ec3-022-t01-d01-03",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d01-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo senza saldatura. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-022-t01-d02": {
+    "family": "plate",
+    "variant": "cut_machine",
+    "title": "Bordo tagliato e rifinito",
+    "options": {},
+    "id": "ec3-022-t01-d02",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bordo tagliato e rifinito. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-022-t01-d03": {
+    "family": "plate",
+    "variant": "cut_manual",
+    "title": "Bordo tagliato a gas",
+    "options": {},
+    "id": "ec3-022-t01-d03",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bordo tagliato a gas. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-022-t01-d04-01": {
+    "family": "beam",
+    "variant": "shear",
+    "title": "Profilo soggetto a taglio",
+    "options": {},
+    "id": "ec3-022-t01-d04-01",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d04-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo soggetto a taglio. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-022-t01-d04-02": {
+    "family": "tube",
+    "variant": "shear",
+    "title": "Profilo cavo soggetto a taglio",
+    "options": {},
+    "id": "ec3-022-t01-d04-02",
+    "source": "ec3",
+    "pdf_page": 22,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-022-t01-d04-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo soggetto a taglio. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 22."
+  },
+  "ec3-023-t01-d01": {
+    "family": "plate",
+    "variant": "cover",
+    "title": "Coprigiunti doppi · bulloni precaricati",
+    "options": {},
+    "id": "ec3-023-t01-d01",
+    "source": "ec3",
+    "pdf_page": 23,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-023-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti doppi · bulloni precaricati. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 23."
+  },
+  "ec3-023-t01-d02": {
+    "family": "plate",
+    "variant": "cover",
+    "title": "Coprigiunti doppi · sezione netta",
+    "options": {},
+    "id": "ec3-023-t01-d02",
+    "source": "ec3",
+    "pdf_page": 23,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ec3-023-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti doppi · sezione netta. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 23."
+  },
+  "ec3-023-t01-d03": {
+    "family": "beam",
+    "variant": "cover",
+    "title": "Coprigiunti singoli · bulloni precaricati",
+    "options": {},
+    "id": "ec3-023-t01-d03",
+    "source": "ec3",
+    "pdf_page": 23,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ec3-023-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti singoli · bulloni precaricati. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 23."
+  },
+  "ec3-023-t01-d04": {
+    "family": "beam",
+    "variant": "holes",
+    "title": "Profilo con fori",
+    "options": {},
+    "id": "ec3-023-t01-d04",
+    "source": "ec3",
+    "pdf_page": 23,
+    "source_detail_numbers": [
+      "11"
+    ],
+    "reference_image": "assets/details/ec3-023-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo con fori. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 23."
+  },
+  "ec3-023-t01-d05": {
+    "family": "beam",
+    "variant": "cover",
+    "title": "Coprigiunti singoli · sezione netta",
+    "options": {},
+    "id": "ec3-023-t01-d05",
+    "source": "ec3",
+    "pdf_page": 23,
+    "source_detail_numbers": [
+      "12"
+    ],
+    "reference_image": "assets/details/ec3-023-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti singoli · sezione netta. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 23."
+  },
+  "ec3-023-t01-d06": {
+    "family": "beam",
+    "variant": "cover",
+    "title": "Giunto bullonato senza inversioni",
+    "options": {},
+    "id": "ec3-023-t01-d06",
+    "source": "ec3",
+    "pdf_page": 23,
+    "source_detail_numbers": [
+      "13"
+    ],
+    "reference_image": "assets/details/ec3-023-t01-d06.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto bullonato senza inversioni. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 23."
+  },
+  "ec3-024-t01-d01": {
+    "family": "bolted",
+    "variant": "tension",
+    "title": "Bulloni e barre filettate in trazione",
+    "options": {},
+    "id": "ec3-024-t01-d01",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "14"
+    ],
+    "reference_image": "assets/details/ec3-024-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bulloni e barre filettate in trazione. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t01-d02": {
+    "family": "bolted",
+    "variant": "shear",
+    "title": "Bullone su due piani di taglio",
+    "options": {},
+    "id": "ec3-024-t01-d02",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "15"
+    ],
+    "reference_image": "assets/details/ec3-024-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bullone su due piani di taglio. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t02-d01-01": {
+    "family": "longitudinal",
+    "variant": "i",
+    "title": "Saldatura longitudinale continua",
+    "options": {},
+    "id": "ec3-024-t02-d01-01",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-024-t02-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale continua. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t02-d01-02": {
+    "family": "longitudinal",
+    "variant": "both",
+    "title": "Cordoni longitudinali continui",
+    "options": {},
+    "id": "ec3-024-t02-d01-02",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-024-t02-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni longitudinali continui. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t02-d02-01": {
+    "family": "longitudinal",
+    "variant": "profiles",
+    "title": "Profili saldati longitudinalmente",
+    "options": {},
+    "id": "ec3-024-t02-d02-01",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-024-t02-d02-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profili saldati longitudinalmente. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t02-d02-02": {
+    "family": "longitudinal",
+    "variant": "flat",
+    "title": "Giunto longitudinale tra lamiere",
+    "options": {},
+    "id": "ec3-024-t02-d02-02",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-024-t02-d02-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale tra lamiere. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t02-d03-01": {
+    "family": "longitudinal",
+    "variant": "manual",
+    "title": "Saldatura longitudinale manuale",
+    "options": {},
+    "id": "ec3-024-t02-d03-01",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-024-t02-d03-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale manuale. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-024-t02-d03-02": {
+    "family": "longitudinal",
+    "variant": "box",
+    "title": "Cassone saldato da un lato",
+    "options": {},
+    "id": "ec3-024-t02-d03-02",
+    "source": "ec3",
+    "pdf_page": 24,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-024-t02-d03-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cassone saldato da un lato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 24."
+  },
+  "ec3-025-t01-d01": {
+    "family": "longitudinal",
+    "variant": "repair",
+    "title": "Saldatura longitudinale riparata",
+    "options": {},
+    "id": "ec3-025-t01-d01",
+    "source": "ec3",
+    "pdf_page": 25,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-025-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale riparata. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 25."
+  },
+  "ec3-025-t01-d02": {
+    "family": "longitudinal",
+    "variant": "intermittent",
+    "title": "Cordoni longitudinali intermittenti",
+    "options": {},
+    "id": "ec3-025-t01-d02",
+    "source": "ec3",
+    "pdf_page": 25,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-025-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni longitudinali intermittenti. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 25."
+  },
+  "ec3-025-t01-d03": {
+    "family": "longitudinal",
+    "variant": "cope",
+    "title": "Cordone con foro di scarico",
+    "options": {},
+    "id": "ec3-025-t01-d03",
+    "source": "ec3",
+    "pdf_page": 25,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ec3-025-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordone con foro di scarico. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 25."
+  },
+  "ec3-025-t01-d04": {
+    "family": "longitudinal",
+    "variant": "flat",
+    "title": "Giunto longitudinale di testa",
+    "options": {},
+    "id": "ec3-025-t01-d04",
+    "source": "ec3",
+    "pdf_page": 25,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ec3-025-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale di testa. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 25."
+  },
+  "ec3-025-t01-d05": {
+    "family": "longitudinal",
+    "variant": "tube",
+    "title": "Saldatura longitudinale di profilo cavo",
+    "options": {},
+    "id": "ec3-025-t01-d05",
+    "source": "ec3",
+    "pdf_page": 25,
+    "source_detail_numbers": [
+      "11"
+    ],
+    "reference_image": "assets/details/ec3-025-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Saldatura longitudinale di profilo cavo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 25."
+  },
+  "ec3-026-t01-d01-01": {
+    "family": "butt",
+    "variant": "flush",
+    "title": "Giunto trasversale a filo lamiera",
+    "options": {},
+    "id": "ec3-026-t01-d01-01",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d01-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale a filo lamiera. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-026-t01-d01-02": {
+    "family": "beam_splice",
+    "variant": "flanges",
+    "title": "Giunto trasversale delle ali",
+    "options": {},
+    "id": "ec3-026-t01-d01-02",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d01-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale delle ali. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-026-t01-d01-03": {
+    "family": "beam_splice",
+    "variant": "flush",
+    "title": "Giunto trasversale di profilo laminato",
+    "options": {},
+    "id": "ec3-026-t01-d01-03",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d01-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-026-t01-d01-04": {
+    "family": "transition",
+    "variant": "flush",
+    "title": "Giunto con raccordo molato",
+    "options": {},
+    "id": "ec3-026-t01-d01-04",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d01-04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con raccordo molato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-026-t01-d02-01": {
+    "family": "butt",
+    "variant": "cap01",
+    "title": "Giunto di testa · sovrametallo limitato",
+    "options": {},
+    "id": "ec3-026-t01-d02-01",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d02-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · sovrametallo limitato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-026-t01-d02-02": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto trasversale di profilo",
+    "options": {},
+    "id": "ec3-026-t01-d02-02",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d02-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di profilo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-026-t01-d02-03": {
+    "family": "transition",
+    "variant": "cap",
+    "title": "Giunto raccordato · sovrametallo",
+    "options": {},
+    "id": "ec3-026-t01-d02-03",
+    "source": "ec3",
+    "pdf_page": 26,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-026-t01-d02-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto raccordato · sovrametallo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 26."
+  },
+  "ec3-027-t01-d01": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto di testa · profilo assemblato",
+    "options": {},
+    "id": "ec3-027-t01-d01",
+    "source": "ec3",
+    "pdf_page": 27,
+    "source_detail_numbers": [
+      "12"
+    ],
+    "reference_image": "assets/details/ec3-027-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · profilo assemblato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 27."
+  },
+  "ec3-027-t01-d02": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto di testa trasversale",
+    "options": {},
+    "id": "ec3-027-t01-d02",
+    "source": "ec3",
+    "pdf_page": 27,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-027-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa trasversale. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 27."
+  },
+  "ec3-027-t01-d03-01": {
+    "family": "beam_splice",
+    "variant": "flanges",
+    "title": "Giunto trasversale delle piattabande",
+    "options": {},
+    "id": "ec3-027-t01-d03-01",
+    "source": "ec3",
+    "pdf_page": 27,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ec3-027-t01-d03-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale delle piattabande. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 27."
+  },
+  "ec3-027-t01-d03-02": {
+    "family": "beam_splice",
+    "variant": "all",
+    "title": "Giunto di testa su profilo laminato",
+    "options": {},
+    "id": "ec3-027-t01-d03-02",
+    "source": "ec3",
+    "pdf_page": 27,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ec3-027-t01-d03-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa su profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 27."
+  },
+  "ec3-027-t01-d03-03": {
+    "family": "butt",
+    "variant": "cap02",
+    "title": "Giunto di testa · altezza del cordone",
+    "options": {},
+    "id": "ec3-027-t01-d03-03",
+    "source": "ec3",
+    "pdf_page": 27,
+    "source_detail_numbers": [
+      "11"
+    ],
+    "reference_image": "assets/details/ec3-027-t01-d03-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · altezza del cordone. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 27."
+  },
+  "ec3-028-t01-d01": {
+    "family": "beam_tee",
+    "variant": "",
+    "title": "Giunto a T delle piattabande",
+    "options": {},
+    "id": "ec3-028-t01-d01",
+    "source": "ec3",
+    "pdf_page": 28,
+    "source_detail_numbers": [
+      "18",
+      "19"
+    ],
+    "reference_image": "assets/details/ec3-028-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a T delle piattabande. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 28."
+  },
+  "ec3-028-t01-d02": {
+    "family": "butt",
+    "variant": "root",
+    "title": "Giunto saldato da un lato",
+    "options": {},
+    "id": "ec3-028-t01-d02",
+    "source": "ec3",
+    "pdf_page": 28,
+    "source_detail_numbers": [
+      "13"
+    ],
+    "reference_image": "assets/details/ec3-028-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto saldato da un lato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 28."
+  },
+  "ec3-028-t01-d03-01": {
+    "family": "butt",
+    "variant": "one_sided",
+    "title": "Giunto trasversale di lamiera",
+    "options": {},
+    "id": "ec3-028-t01-d03-01",
+    "source": "ec3",
+    "pdf_page": 28,
+    "source_detail_numbers": [
+      "14"
+    ],
+    "reference_image": "assets/details/ec3-028-t01-d03-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di lamiera. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 28."
+  },
+  "ec3-028-t01-d03-02": {
+    "family": "transition",
+    "variant": "flush",
+    "title": "Giunto rastremato",
+    "options": {},
+    "id": "ec3-028-t01-d03-02",
+    "source": "ec3",
+    "pdf_page": 28,
+    "source_detail_numbers": [
+      "15"
+    ],
+    "reference_image": "assets/details/ec3-028-t01-d03-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto rastremato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 28."
+  },
+  "ec3-028-t01-d04": {
+    "family": "transition",
+    "variant": "backed",
+    "title": "Giunto con sostegno al rovescio",
+    "options": {},
+    "id": "ec3-028-t01-d04",
+    "source": "ec3",
+    "pdf_page": 28,
+    "source_detail_numbers": [
+      "16"
+    ],
+    "reference_image": "assets/details/ec3-028-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con sostegno al rovescio. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 28."
+  },
+  "ec3-028-t01-d05": {
+    "family": "butt",
+    "variant": "step",
+    "title": "Giunto tra spessori diversi",
+    "options": {},
+    "id": "ec3-028-t01-d05",
+    "source": "ec3",
+    "pdf_page": 28,
+    "source_detail_numbers": [
+      "17"
+    ],
+    "reference_image": "assets/details/ec3-028-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto tra spessori diversi. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 28."
+  },
+  "ec3-029-t01-d01": {
+    "family": "flat_gusset",
+    "variant": "plain",
+    "title": "Attacco laterale piano",
+    "options": {},
+    "id": "ec3-029-t01-d01",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco laterale piano. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d02": {
+    "family": "attachment",
+    "variant": "stud",
+    "title": "Piolo saldato",
+    "options": {},
+    "id": "ec3-029-t01-d02",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Piolo saldato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d03": {
+    "family": "attachment",
+    "variant": "long",
+    "title": "Attacco longitudinale",
+    "options": {},
+    "id": "ec3-029-t01-d03",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco longitudinale. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d04": {
+    "family": "attachment",
+    "variant": "taper",
+    "title": "Attacco longitudinale rastremato",
+    "options": {},
+    "id": "ec3-029-t01-d04",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco longitudinale rastremato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d05": {
+    "family": "attachment",
+    "variant": "radius",
+    "title": "Attacco con raccordo curvo",
+    "options": {},
+    "id": "ec3-029-t01-d05",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco con raccordo curvo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d06": {
+    "family": "flat_gusset",
+    "variant": "radius",
+    "title": "Attacco laterale raccordato",
+    "options": {},
+    "id": "ec3-029-t01-d06",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d06.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco laterale raccordato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d07-01": {
+    "family": "attachment",
+    "variant": "transverse",
+    "title": "Irrigidimento trasversale",
+    "options": {},
+    "id": "ec3-029-t01-d07-01",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d07-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Irrigidimento trasversale. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d07-02": {
+    "family": "stiffeners",
+    "variant": "",
+    "title": "Irrigidimenti di una trave",
+    "options": {},
+    "id": "ec3-029-t01-d07-02",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d07-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Irrigidimenti di una trave. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-029-t01-d07-03": {
+    "family": "stiffeners",
+    "variant": "box",
+    "title": "Diaframma di un cassone",
+    "options": {},
+    "id": "ec3-029-t01-d07-03",
+    "source": "ec3",
+    "pdf_page": 29,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-029-t01-d07-03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Diaframma di un cassone. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 29."
+  },
+  "ec3-030-t01-d01": {
+    "family": "flexible_panel",
+    "variant": "",
+    "title": "Attacco su pannello flessibile",
+    "options": {},
+    "id": "ec3-030-t01-d01",
+    "source": "ec3",
+    "pdf_page": 30,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-030-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco su pannello flessibile. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 30."
+  },
+  "ec3-030-t01-d02": {
+    "family": "cruciform",
+    "variant": "partial",
+    "title": "Giunto a T · penetrazione parziale",
+    "options": {},
+    "id": "ec3-030-t01-d02",
+    "source": "ec3",
+    "pdf_page": 30,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-030-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a T · penetrazione parziale. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 30."
+  },
+  "ec3-030-t01-d03": {
+    "family": "lap",
+    "variant": "double",
+    "title": "Giunto con coprigiunti saldati",
+    "options": {},
+    "id": "ec3-030-t01-d03",
+    "source": "ec3",
+    "pdf_page": 30,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-030-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con coprigiunti saldati. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 30."
+  },
+  "ec3-030-t01-d04": {
+    "family": "lap",
+    "variant": "side",
+    "title": "Giunto sovrapposto con cordoni laterali",
+    "options": {},
+    "id": "ec3-030-t01-d04",
+    "source": "ec3",
+    "pdf_page": 30,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-030-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto sovrapposto con cordoni laterali. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 30."
+  },
+  "ec3-031-t01-d01": {
+    "family": "lap",
+    "variant": "reinforced",
+    "title": "Copripiatto · cordone terminale",
+    "options": {},
+    "id": "ec3-031-t01-d01",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-031-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Copripiatto · cordone terminale. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-031-t01-d02-01": {
+    "family": "longitudinal",
+    "variant": "tee",
+    "title": "Giunto longitudinale a T",
+    "options": {},
+    "id": "ec3-031-t01-d02-01",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-031-t01-d02-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale a T. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-031-t01-d02-02": {
+    "family": "lap",
+    "variant": "side",
+    "title": "Giunto sovrapposto · cordoni laterali",
+    "options": {},
+    "id": "ec3-031-t01-d02-02",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ec3-031-t01-d02-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto sovrapposto · cordoni laterali. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-031-t01-d03": {
+    "family": "attachment",
+    "variant": "stud",
+    "title": "Piolo saldato",
+    "options": {},
+    "id": "ec3-031-t01-d03",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "10"
+    ],
+    "reference_image": "assets/details/ec3-031-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Piolo saldato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-031-t01-d04": {
+    "family": "bolted_flange",
+    "variant": "",
+    "title": "Tubo su flangia bullonata",
+    "options": {},
+    "id": "ec3-031-t01-d04",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "11",
+      "12"
+    ],
+    "reference_image": "assets/details/ec3-031-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo su flangia bullonata. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-031-t02-d01": {
+    "family": "flat_tube",
+    "variant": "butt",
+    "title": "Tubo appiattito saldato a piastra",
+    "options": {},
+    "id": "ec3-031-t02-d01",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-031-t02-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo appiattito saldato a piastra. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-031-t02-d02": {
+    "family": "flat_tube",
+    "variant": "slit",
+    "title": "Tubo intagliato e piastra inserita",
+    "options": {},
+    "id": "ec3-031-t02-d02",
+    "source": "ec3",
+    "pdf_page": 31,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-031-t02-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo intagliato e piastra inserita. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 31."
+  },
+  "ec3-032-t01-d01": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Giunto circonferenziale di testa",
+    "options": {},
+    "id": "ec3-032-t01-d01",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto circonferenziale di testa. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-032-t01-d02": {
+    "family": "tube_section",
+    "variant": "rect",
+    "title": "Giunto di testa su sezione cava",
+    "options": {},
+    "id": "ec3-032-t01-d02",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa su sezione cava. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-032-t01-d03": {
+    "family": "hollow_attachment",
+    "variant": "",
+    "title": "Attacco di un elemento cavo",
+    "options": {},
+    "id": "ec3-032-t01-d03",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco di un elemento cavo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-032-t01-d04": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Profilo cavo con piastra interposta",
+    "options": {
+      "intermediate": true,
+      "fillet": false
+    },
+    "id": "ec3-032-t01-d04",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-032-t01-d05": {
+    "family": "tube_section",
+    "variant": "rect",
+    "title": "Profilo cavo con piastra interposta",
+    "options": {
+      "intermediate": true,
+      "fillet": false
+    },
+    "id": "ec3-032-t01-d05",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-032-t01-d06": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Profilo cavo con piastra interposta",
+    "options": {
+      "intermediate": true,
+      "fillet": true
+    },
+    "id": "ec3-032-t01-d06",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d06.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-032-t01-d07": {
+    "family": "tube_section",
+    "variant": "rect",
+    "title": "Profilo cavo con piastra interposta",
+    "options": {
+      "intermediate": true,
+      "fillet": true
+    },
+    "id": "ec3-032-t01-d07",
+    "source": "ec3",
+    "pdf_page": 32,
+    "source_detail_numbers": [
+      "9"
+    ],
+    "reference_image": "assets/details/ec3-032-t01-d07.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 32."
+  },
+  "ec3-033-t01-d01": {
+    "family": "truss",
+    "variant": "round",
+    "title": "Nodo K / N · tubi circolari distanziati",
+    "options": {},
+    "id": "ec3-033-t01-d01",
+    "source": "ec3",
+    "pdf_page": 33,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-033-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nodo K / N · tubi circolari distanziati. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 33."
+  },
+  "ec3-033-t01-d02": {
+    "family": "truss",
+    "variant": "rect",
+    "title": "Nodo K / N · tubi rettangolari",
+    "options": {},
+    "id": "ec3-033-t01-d02",
+    "source": "ec3",
+    "pdf_page": 33,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-033-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nodo K / N · tubi rettangolari. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 33."
+  },
+  "ec3-033-t01-d03": {
+    "family": "truss",
+    "variant": "overlap",
+    "title": "Nodo K · diagonali sovrapposte",
+    "options": {},
+    "id": "ec3-033-t01-d03",
+    "source": "ec3",
+    "pdf_page": 33,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-033-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nodo K · diagonali sovrapposte. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 33."
+  },
+  "ec3-033-t01-d04": {
+    "family": "truss",
+    "variant": "n",
+    "title": "Nodo N · diagonali sovrapposte",
+    "options": {},
+    "id": "ec3-033-t01-d04",
+    "source": "ec3",
+    "pdf_page": 33,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-033-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nodo N · diagonali sovrapposte. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 33."
+  },
+  "ec3-034-t01-d01": {
+    "family": "deck",
+    "variant": "plain",
+    "title": "Nervatura trapezoidale · attacco",
+    "options": {},
+    "id": "ec3-034-t01-d01",
+    "source": "ec3",
+    "pdf_page": 34,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-034-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nervatura trapezoidale · attacco. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 34."
+  },
+  "ec3-034-t01-d02": {
+    "family": "deck",
+    "variant": "splice_backed",
+    "title": "Giunto di nervatura con sostegno",
+    "options": {},
+    "id": "ec3-034-t01-d02",
+    "source": "ec3",
+    "pdf_page": 34,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-034-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di nervatura con sostegno. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 34."
+  },
+  "ec3-034-t01-d03": {
+    "family": "deck",
+    "variant": "splice",
+    "title": "Giunto trasversale di nervatura",
+    "options": {},
+    "id": "ec3-034-t01-d03",
+    "source": "ec3",
+    "pdf_page": 34,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-034-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale di nervatura. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 34."
+  },
+  "ec3-034-t01-d04": {
+    "family": "deck",
+    "variant": "backed",
+    "title": "Nervatura con sostegno al rovescio",
+    "options": {},
+    "id": "ec3-034-t01-d04",
+    "source": "ec3",
+    "pdf_page": 34,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-034-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nervatura con sostegno al rovescio. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 34."
+  },
+  "ec3-034-t01-d05": {
+    "family": "deck",
+    "variant": "plain",
+    "title": "Giunto trasversale sulla lamiera",
+    "options": {},
+    "id": "ec3-034-t01-d05",
+    "source": "ec3",
+    "pdf_page": 34,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-034-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale sulla lamiera. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 34."
+  },
+  "ec3-035-t01-d01": {
+    "family": "deck",
+    "variant": "intersection",
+    "title": "Intersezione nervatura–traverso",
+    "options": {},
+    "id": "ec3-035-t01-d01",
+    "source": "ec3",
+    "pdf_page": 35,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-035-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Intersezione nervatura–traverso. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 35."
+  },
+  "ec3-035-t01-d02-01": {
+    "family": "rib_root",
+    "variant": "full",
+    "title": "Nervatura · piena penetrazione",
+    "options": {},
+    "id": "ec3-035-t01-d02-01",
+    "source": "ec3",
+    "pdf_page": 35,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-035-t01-d02-01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nervatura · piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 35."
+  },
+  "ec3-035-t01-d02-02": {
+    "family": "rib_root",
+    "variant": "fillet",
+    "title": "Nervatura · cordone d’angolo",
+    "options": {},
+    "id": "ec3-035-t01-d02-02",
+    "source": "ec3",
+    "pdf_page": 35,
+    "source_detail_numbers": [
+      "8"
+    ],
+    "reference_image": "assets/details/ec3-035-t01-d02-02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nervatura · cordone d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 35."
+  },
+  "ec3-036-t01-d01": {
+    "family": "attachment",
+    "variant": "transverse",
+    "title": "Irrigidimento · tensioni locali",
+    "options": {},
+    "id": "ec3-036-t01-d01",
+    "source": "ec3",
+    "pdf_page": 36,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-036-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Irrigidimento · tensioni locali. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 36."
+  },
+  "ec3-036-t01-d02": {
+    "family": "runway",
+    "variant": "2",
+    "title": "Giunto ala–anima",
+    "options": {
+      "load": false
+    },
+    "id": "ec3-036-t01-d02",
+    "source": "ec3",
+    "pdf_page": 36,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-036-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto ala–anima. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 36."
+  },
+  "ec3-037-t01-d01": {
+    "family": "runway",
+    "variant": "4",
+    "title": "Ala e anima · cordoni d’angolo",
+    "options": {
+      "load": true
+    },
+    "id": "ec3-037-t01-d01",
+    "source": "ec3",
+    "pdf_page": 37,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-037-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Ala e anima · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 37."
+  },
+  "ec3-037-t01-d02": {
+    "family": "runway",
+    "variant": "5",
+    "title": "Giunto dell’anima sotto l’ala",
+    "options": {
+      "load": true
+    },
+    "id": "ec3-037-t01-d02",
+    "source": "ec3",
+    "pdf_page": 37,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-037-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto dell’anima sotto l’ala. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 37."
+  },
+  "ec3-037-t01-d03": {
+    "family": "runway",
+    "variant": "6",
+    "title": "Giunto dell’anima · sezione a T",
+    "options": {
+      "load": true
+    },
+    "id": "ec3-037-t01-d03",
+    "source": "ec3",
+    "pdf_page": 37,
+    "source_detail_numbers": [
+      "6"
+    ],
+    "reference_image": "assets/details/ec3-037-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto dell’anima · sezione a T. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 37."
+  },
+  "ec3-037-t01-d04": {
+    "family": "runway",
+    "variant": "7",
+    "title": "Giunto dell’anima · tratto rinforzato",
+    "options": {
+      "load": true
+    },
+    "id": "ec3-037-t01-d04",
+    "source": "ec3",
+    "pdf_page": 37,
+    "source_detail_numbers": [
+      "7"
+    ],
+    "reference_image": "assets/details/ec3-037-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto dell’anima · tratto rinforzato. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 37."
+  },
+  "ec3-041-t01-d01": {
+    "family": "butt",
+    "variant": "section",
+    "title": "Giunto di testa · hot spot",
+    "options": {},
+    "id": "ec3-041-t01-d01",
+    "source": "ec3",
+    "pdf_page": 41,
+    "source_detail_numbers": [
+      "1"
+    ],
+    "reference_image": "assets/details/ec3-041-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa · hot spot. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 41."
+  },
+  "ec3-041-t01-d02": {
+    "family": "butt",
+    "variant": "section",
+    "title": "Giunto di testa con sovrametallo",
+    "options": {},
+    "id": "ec3-041-t01-d02",
+    "source": "ec3",
+    "pdf_page": 41,
+    "source_detail_numbers": [
+      "2"
+    ],
+    "reference_image": "assets/details/ec3-041-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa con sovrametallo. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 41."
+  },
+  "ec3-041-t01-d03": {
+    "family": "cruciform",
+    "variant": "",
+    "title": "Giunto a croce · hot spot",
+    "options": {},
+    "id": "ec3-041-t01-d03",
+    "source": "ec3",
+    "pdf_page": 41,
+    "source_detail_numbers": [
+      "3"
+    ],
+    "reference_image": "assets/details/ec3-041-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce · hot spot. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 41."
+  },
+  "ec3-041-t01-d04": {
+    "family": "cruciform",
+    "variant": "nonload",
+    "title": "Attacco trasversale · hot spot",
+    "options": {},
+    "id": "ec3-041-t01-d04",
+    "source": "ec3",
+    "pdf_page": 41,
+    "source_detail_numbers": [
+      "4"
+    ],
+    "reference_image": "assets/details/ec3-041-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco trasversale · hot spot. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 41."
+  },
+  "ec3-041-t01-d05": {
+    "family": "gusset",
+    "variant": "round",
+    "title": "Attacco longitudinale · hot spot",
+    "options": {},
+    "id": "ec3-041-t01-d05",
+    "source": "ec3",
+    "pdf_page": 41,
+    "source_detail_numbers": [
+      "5"
+    ],
+    "reference_image": "assets/details/ec3-041-t01-d05.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco longitudinale · hot spot. Schema tecnico vettoriale a colori, non in scala. Fonte EC3, pagina PDF 41."
+  },
+  "iiw-047-t01-d01": {
+    "family": "profiles",
+    "variant": "",
+    "title": "Prodotti laminati, estrusi e lavorati",
+    "options": {},
+    "id": "iiw-047-t01-d01",
+    "source": "iiw",
+    "pdf_page": 47,
+    "source_detail_numbers": [
+      "111"
+    ],
+    "reference_image": "assets/details/iiw-047-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Prodotti laminati, estrusi e lavorati. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 47."
+  },
+  "iiw-047-t01-d02": {
+    "family": "plate",
+    "variant": "cut_machine",
+    "title": "Taglio automatico con rifinitura",
+    "options": {},
+    "id": "iiw-047-t01-d02",
+    "source": "iiw",
+    "pdf_page": 47,
+    "source_detail_numbers": [
+      "121"
+    ],
+    "reference_image": "assets/details/iiw-047-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Taglio automatico con rifinitura. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 47."
+  },
+  "iiw-048-t01-d01": {
+    "family": "plate",
+    "variant": "cut_machine",
+    "title": "Bordo tagliato termicamente",
+    "options": {},
+    "id": "iiw-048-t01-d01",
+    "source": "iiw",
+    "pdf_page": 48,
+    "source_detail_numbers": [
+      "122"
+    ],
+    "reference_image": "assets/details/iiw-048-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bordo tagliato termicamente. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 48."
+  },
+  "iiw-048-t01-d02": {
+    "family": "plate",
+    "variant": "cut_manual",
+    "title": "Taglio termico manuale",
+    "options": {},
+    "id": "iiw-048-t01-d02",
+    "source": "iiw",
+    "pdf_page": 48,
+    "source_detail_numbers": [
+      "123"
+    ],
+    "reference_image": "assets/details/iiw-048-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Taglio termico manuale. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 48."
+  },
+  "iiw-048-t01-d03": {
+    "family": "plate",
+    "variant": "cut_manual",
+    "title": "Taglio manuale non controllato",
+    "options": {},
+    "id": "iiw-048-t01-d03",
+    "source": "iiw",
+    "pdf_page": 48,
+    "source_detail_numbers": [
+      "124"
+    ],
+    "reference_image": "assets/details/iiw-048-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Taglio manuale non controllato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 48."
+  },
+  "iiw-049-t01-d01": {
+    "family": "butt",
+    "variant": "section",
+    "title": "Giunto trasversale molato a filo",
+    "options": {
+      "flush": true
+    },
+    "id": "iiw-049-t01-d01",
+    "source": "iiw",
+    "pdf_page": 49,
+    "source_detail_numbers": [
+      "211"
+    ],
+    "reference_image": "assets/details/iiw-049-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale molato a filo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 49."
+  },
+  "iiw-049-t01-d02": {
+    "family": "butt",
+    "variant": "section",
+    "title": "Giunto trasversale · profilo controllato",
+    "options": {},
+    "id": "iiw-049-t01-d02",
+    "source": "iiw",
+    "pdf_page": 49,
+    "source_detail_numbers": [
+      "212"
+    ],
+    "reference_image": "assets/details/iiw-049-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale · profilo controllato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 49."
+  },
+  "iiw-049-t01-d03": {
+    "family": "butt",
+    "variant": "section",
+    "title": "Giunto trasversale · sovrametallo",
+    "options": {},
+    "id": "iiw-049-t01-d03",
+    "source": "iiw",
+    "pdf_page": 49,
+    "source_detail_numbers": [
+      "213"
+    ],
+    "reference_image": "assets/details/iiw-049-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale · sovrametallo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 49."
+  },
+  "iiw-050-t01-d01": {
+    "family": "butt",
+    "variant": "backed",
+    "title": "Giunto su sostegno non fusibile",
+    "options": {},
+    "id": "iiw-050-t01-d01",
+    "source": "iiw",
+    "pdf_page": 50,
+    "source_detail_numbers": [
+      "214"
+    ],
+    "reference_image": "assets/details/iiw-050-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto su sostegno non fusibile. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 50."
+  },
+  "iiw-050-t01-d02": {
+    "family": "butt",
+    "variant": "backed",
+    "title": "Giunto su sostegno permanente",
+    "options": {},
+    "id": "iiw-050-t01-d02",
+    "source": "iiw",
+    "pdf_page": 50,
+    "source_detail_numbers": [
+      "215"
+    ],
+    "reference_image": "assets/details/iiw-050-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto su sostegno permanente. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 50."
+  },
+  "iiw-050-t01-d03": {
+    "family": "butt",
+    "variant": "one_sided",
+    "title": "Giunto saldato da un solo lato",
+    "options": {},
+    "id": "iiw-050-t01-d03",
+    "source": "iiw",
+    "pdf_page": 50,
+    "source_detail_numbers": [
+      "216"
+    ],
+    "reference_image": "assets/details/iiw-050-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto saldato da un solo lato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 50."
+  },
+  "iiw-051-t01-d01": {
+    "family": "butt",
+    "variant": "partial",
+    "title": "Giunto a penetrazione parziale",
+    "options": {},
+    "id": "iiw-051-t01-d01",
+    "source": "iiw",
+    "pdf_page": 51,
+    "source_detail_numbers": [
+      "217"
+    ],
+    "reference_image": "assets/details/iiw-051-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a penetrazione parziale. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 51."
+  },
+  "iiw-051-t01-d02": {
+    "family": "transition",
+    "variant": "flush",
+    "title": "Raccordo di larghezza e spessore",
+    "options": {},
+    "id": "iiw-051-t01-d02",
+    "source": "iiw",
+    "pdf_page": 51,
+    "source_detail_numbers": [
+      "221"
+    ],
+    "reference_image": "assets/details/iiw-051-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Raccordo di larghezza e spessore. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 51."
+  },
+  "iiw-051-t01-d03": {
+    "family": "transition",
+    "variant": "cap",
+    "title": "Giunto raccordato · profilo controllato",
+    "options": {},
+    "id": "iiw-051-t01-d03",
+    "source": "iiw",
+    "pdf_page": 51,
+    "source_detail_numbers": [
+      "222"
+    ],
+    "reference_image": "assets/details/iiw-051-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto raccordato · profilo controllato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 51."
+  },
+  "iiw-052-t01-d01": {
+    "family": "transition",
+    "variant": "cap",
+    "title": "Giunto trasversale con transizione",
+    "options": {},
+    "id": "iiw-052-t01-d01",
+    "source": "iiw",
+    "pdf_page": 52,
+    "source_detail_numbers": [
+      "223"
+    ],
+    "reference_image": "assets/details/iiw-052-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto trasversale con transizione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 52."
+  },
+  "iiw-052-t01-d02": {
+    "family": "butt",
+    "variant": "step",
+    "title": "Spessori diversi · assi allineati",
+    "options": {},
+    "id": "iiw-052-t01-d02",
+    "source": "iiw",
+    "pdf_page": 52,
+    "source_detail_numbers": [
+      "224"
+    ],
+    "reference_image": "assets/details/iiw-052-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Spessori diversi · assi allineati. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 52."
+  },
+  "iiw-052-t01-d03": {
+    "family": "butt",
+    "variant": "threeplate",
+    "title": "Collegamento di tre lamiere",
+    "options": {},
+    "id": "iiw-052-t01-d03",
+    "source": "iiw",
+    "pdf_page": 52,
+    "source_detail_numbers": [
+      "225"
+    ],
+    "reference_image": "assets/details/iiw-052-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Collegamento di tre lamiere. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 52."
+  },
+  "iiw-053-t01-d01": {
+    "family": "beam_tee",
+    "variant": "",
+    "title": "Giunto delle ali con raccordo",
+    "options": {},
+    "id": "iiw-053-t01-d01",
+    "source": "iiw",
+    "pdf_page": 53,
+    "source_detail_numbers": [
+      "226"
+    ],
+    "reference_image": "assets/details/iiw-053-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto delle ali con raccordo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 53."
+  },
+  "iiw-053-t01-d02": {
+    "family": "beam_splice",
+    "variant": "flush",
+    "title": "Giunto di testa di profilo laminato",
+    "options": {},
+    "id": "iiw-053-t01-d02",
+    "source": "iiw",
+    "pdf_page": 53,
+    "source_detail_numbers": [
+      "231"
+    ],
+    "reference_image": "assets/details/iiw-053-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa di profilo laminato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 53."
+  },
+  "iiw-053-t01-d03": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Giunto di testa di tubo circolare",
+    "options": {},
+    "id": "iiw-053-t01-d03",
+    "source": "iiw",
+    "pdf_page": 53,
+    "source_detail_numbers": [
+      "232"
+    ],
+    "reference_image": "assets/details/iiw-053-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa di tubo circolare. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 53."
+  },
+  "iiw-053-t01-d04": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Giunto tubolare con sostegno",
+    "options": {
+      "backing": true
+    },
+    "id": "iiw-053-t01-d04",
+    "source": "iiw",
+    "pdf_page": 53,
+    "source_detail_numbers": [
+      "233"
+    ],
+    "reference_image": "assets/details/iiw-053-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto tubolare con sostegno. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 53."
+  },
+  "iiw-054-t01-d01": {
+    "family": "tube_section",
+    "variant": "rect",
+    "title": "Giunto di testa di tubo rettangolare",
+    "options": {},
+    "id": "iiw-054-t01-d01",
+    "source": "iiw",
+    "pdf_page": 54,
+    "source_detail_numbers": [
+      "234"
+    ],
+    "reference_image": "assets/details/iiw-054-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto di testa di tubo rettangolare. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 54."
+  },
+  "iiw-054-t01-d02": {
+    "family": "cross_plan",
+    "variant": "radius",
+    "title": "Incrocio di piattabande raccordate",
+    "options": {},
+    "id": "iiw-054-t01-d02",
+    "source": "iiw",
+    "pdf_page": 54,
+    "source_detail_numbers": [
+      "241"
+    ],
+    "reference_image": "assets/details/iiw-054-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Incrocio di piattabande raccordate. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 54."
+  },
+  "iiw-054-t01-d03": {
+    "family": "cross_plan",
+    "variant": "radius_aswelded",
+    "title": "Incrocio con profilo del cordone",
+    "options": {},
+    "id": "iiw-054-t01-d03",
+    "source": "iiw",
+    "pdf_page": 54,
+    "source_detail_numbers": [
+      "242"
+    ],
+    "reference_image": "assets/details/iiw-054-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Incrocio con profilo del cordone. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 54."
+  },
+  "iiw-055-t01-d01": {
+    "family": "cross_plan",
+    "variant": "ground",
+    "title": "Incrocio con raccordi triangolari molati",
+    "options": {},
+    "id": "iiw-055-t01-d01",
+    "source": "iiw",
+    "pdf_page": 55,
+    "source_detail_numbers": [
+      "243"
+    ],
+    "reference_image": "assets/details/iiw-055-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Incrocio con raccordi triangolari molati. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 55."
+  },
+  "iiw-055-t01-d02": {
+    "family": "cross_plan",
+    "variant": "triangles",
+    "title": "Incrocio con raccordi triangolari",
+    "options": {},
+    "id": "iiw-055-t01-d02",
+    "source": "iiw",
+    "pdf_page": 55,
+    "source_detail_numbers": [
+      "244"
+    ],
+    "reference_image": "assets/details/iiw-055-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Incrocio con raccordi triangolari. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 55."
+  },
+  "iiw-055-t01-d03": {
+    "family": "cross_plan",
+    "variant": "plain",
+    "title": "Incrocio di piattabande saldate",
+    "options": {},
+    "id": "iiw-055-t01-d03",
+    "source": "iiw",
+    "pdf_page": 55,
+    "source_detail_numbers": [
+      "245"
+    ],
+    "reference_image": "assets/details/iiw-055-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Incrocio di piattabande saldate. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 55."
+  },
+  "iiw-056-t01-d01": {
+    "family": "longitudinal",
+    "variant": "tube",
+    "title": "Cordone longitudinale di profilo cavo",
+    "options": {},
+    "id": "iiw-056-t01-d01",
+    "source": "iiw",
+    "pdf_page": 56,
+    "source_detail_numbers": [
+      "311"
+    ],
+    "reference_image": "assets/details/iiw-056-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordone longitudinale di profilo cavo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 56."
+  },
+  "iiw-056-t01-d02": {
+    "family": "plate",
+    "variant": "long",
+    "title": "Giunto longitudinale molato a filo",
+    "options": {},
+    "id": "iiw-056-t01-d02",
+    "source": "iiw",
+    "pdf_page": 56,
+    "source_detail_numbers": [
+      "312"
+    ],
+    "reference_image": "assets/details/iiw-056-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale molato a filo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 56."
+  },
+  "iiw-056-t01-d03": {
+    "family": "plate",
+    "variant": "long",
+    "title": "Giunto longitudinale di testa",
+    "options": {},
+    "id": "iiw-056-t01-d03",
+    "source": "iiw",
+    "pdf_page": 56,
+    "source_detail_numbers": [
+      "313"
+    ],
+    "reference_image": "assets/details/iiw-056-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto longitudinale di testa. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 56."
+  },
+  "iiw-056-t01-d04": {
+    "family": "longitudinal",
+    "variant": "i",
+    "title": "Cordone continuo a piena penetrazione",
+    "options": {},
+    "id": "iiw-056-t01-d04",
+    "source": "iiw",
+    "pdf_page": 56,
+    "source_detail_numbers": [
+      "321"
+    ],
+    "reference_image": "assets/details/iiw-056-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordone continuo a piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 56."
+  },
+  "iiw-057-t01-d01": {
+    "family": "longitudinal",
+    "variant": "i",
+    "title": "Cordoni d’angolo automatici",
+    "options": {},
+    "id": "iiw-057-t01-d01",
+    "source": "iiw",
+    "pdf_page": 57,
+    "source_detail_numbers": [
+      "322"
+    ],
+    "reference_image": "assets/details/iiw-057-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni d’angolo automatici. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 57."
+  },
+  "iiw-057-t01-d02": {
+    "family": "longitudinal",
+    "variant": "manual",
+    "title": "Cordoni longitudinali manuali",
+    "options": {},
+    "id": "iiw-057-t01-d02",
+    "source": "iiw",
+    "pdf_page": 57,
+    "source_detail_numbers": [
+      "323"
+    ],
+    "reference_image": "assets/details/iiw-057-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni longitudinali manuali. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 57."
+  },
+  "iiw-057-t01-d03": {
+    "family": "longitudinal",
+    "variant": "intermittent",
+    "title": "Cordoni longitudinali intermittenti",
+    "options": {},
+    "id": "iiw-057-t01-d03",
+    "source": "iiw",
+    "pdf_page": 57,
+    "source_detail_numbers": [
+      "324"
+    ],
+    "reference_image": "assets/details/iiw-057-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cordoni longitudinali intermittenti. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 57."
+  },
+  "iiw-058-t01-d01": {
+    "family": "longitudinal",
+    "variant": "cope",
+    "title": "Giunto con fori di scarico",
+    "options": {},
+    "id": "iiw-058-t01-d01",
+    "source": "iiw",
+    "pdf_page": 58,
+    "source_detail_numbers": [
+      "325"
+    ],
+    "reference_image": "assets/details/iiw-058-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto con fori di scarico. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 58."
+  },
+  "iiw-059-t01-d01": {
+    "family": "curved",
+    "variant": "knuckle",
+    "title": "Cambio di pendenza irrigidito",
+    "options": {},
+    "id": "iiw-059-t01-d01",
+    "source": "iiw",
+    "pdf_page": 59,
+    "source_detail_numbers": [
+      "331"
+    ],
+    "reference_image": "assets/details/iiw-059-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Cambio di pendenza irrigidito. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 59."
+  },
+  "iiw-060-t01-d01": {
+    "family": "curved",
+    "variant": "curve",
+    "title": "Piattabanda curva non irrigidita",
+    "options": {},
+    "id": "iiw-060-t01-d01",
+    "source": "iiw",
+    "pdf_page": 60,
+    "source_detail_numbers": [
+      "332"
+    ],
+    "reference_image": "assets/details/iiw-060-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Piattabanda curva non irrigidita. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 60."
+  },
+  "iiw-060-t01-d02": {
+    "family": "cruciform",
+    "variant": "ground",
+    "title": "Giunto a croce · piedi molati",
+    "options": {},
+    "id": "iiw-060-t01-d02",
+    "source": "iiw",
+    "pdf_page": 60,
+    "source_detail_numbers": [
+      "411"
+    ],
+    "reference_image": "assets/details/iiw-060-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce · piedi molati. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 60."
+  },
+  "iiw-061-t01-d01": {
+    "family": "cruciform",
+    "variant": "",
+    "title": "Giunto a croce · piena penetrazione",
+    "options": {},
+    "id": "iiw-061-t01-d01",
+    "source": "iiw",
+    "pdf_page": 61,
+    "source_detail_numbers": [
+      "412"
+    ],
+    "reference_image": "assets/details/iiw-061-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce · piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 61."
+  },
+  "iiw-061-t01-d02": {
+    "family": "cruciform",
+    "variant": "partial",
+    "title": "Giunto a croce · cordoni d’angolo",
+    "options": {},
+    "id": "iiw-061-t01-d02",
+    "source": "iiw",
+    "pdf_page": 61,
+    "source_detail_numbers": [
+      "413"
+    ],
+    "reference_image": "assets/details/iiw-061-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 61."
+  },
+  "iiw-061-t01-d03": {
+    "family": "cruciform",
+    "variant": "partial",
+    "title": "Giunto a croce · verifica alla radice",
+    "options": {},
+    "id": "iiw-061-t01-d03",
+    "source": "iiw",
+    "pdf_page": 61,
+    "source_detail_numbers": [
+      "414"
+    ],
+    "reference_image": "assets/details/iiw-061-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce · verifica alla radice. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 61."
+  },
+  "iiw-061-t01-d04": {
+    "family": "cruciform",
+    "variant": "single",
+    "title": "Giunto a croce saldato da un lato",
+    "options": {},
+    "id": "iiw-061-t01-d04",
+    "source": "iiw",
+    "pdf_page": 61,
+    "source_detail_numbers": [
+      "415"
+    ],
+    "reference_image": "assets/details/iiw-061-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce saldato da un lato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 61."
+  },
+  "iiw-062-t01-d01": {
+    "family": "cruciform",
+    "variant": "singlepartial",
+    "title": "Giunto a croce · radice del cordone",
+    "options": {},
+    "id": "iiw-062-t01-d01",
+    "source": "iiw",
+    "pdf_page": 62,
+    "source_detail_numbers": [
+      "416"
+    ],
+    "reference_image": "assets/details/iiw-062-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a croce · radice del cordone. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 62."
+  },
+  "iiw-062-t01-d02": {
+    "family": "beam_intermediate",
+    "variant": "",
+    "title": "Profilo con piastra interposta",
+    "options": {},
+    "id": "iiw-062-t01-d02",
+    "source": "iiw",
+    "pdf_page": 62,
+    "source_detail_numbers": [
+      "421"
+    ],
+    "reference_image": "assets/details/iiw-062-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 62."
+  },
+  "iiw-062-t01-d03": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Tubo circolare con piastra interposta",
+    "options": {
+      "intermediate": true,
+      "fillet": false
+    },
+    "id": "iiw-062-t01-d03",
+    "source": "iiw",
+    "pdf_page": 62,
+    "source_detail_numbers": [
+      "422"
+    ],
+    "reference_image": "assets/details/iiw-062-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo circolare con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 62."
+  },
+  "iiw-063-t01-d01": {
+    "family": "tube_section",
+    "variant": "round",
+    "title": "Tubo circolare · cordoni d’angolo",
+    "options": {
+      "intermediate": true,
+      "fillet": true
+    },
+    "id": "iiw-063-t01-d01",
+    "source": "iiw",
+    "pdf_page": 63,
+    "source_detail_numbers": [
+      "423"
+    ],
+    "reference_image": "assets/details/iiw-063-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo circolare · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 63."
+  },
+  "iiw-063-t01-d02": {
+    "family": "tube_section",
+    "variant": "rect",
+    "title": "Tubo rettangolare con piastra interposta",
+    "options": {
+      "intermediate": true,
+      "fillet": false
+    },
+    "id": "iiw-063-t01-d02",
+    "source": "iiw",
+    "pdf_page": 63,
+    "source_detail_numbers": [
+      "424"
+    ],
+    "reference_image": "assets/details/iiw-063-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo rettangolare con piastra interposta. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 63."
+  },
+  "iiw-063-t01-d03": {
+    "family": "tube_section",
+    "variant": "rect",
+    "title": "Tubo rettangolare · cordoni d’angolo",
+    "options": {
+      "intermediate": true,
+      "fillet": true
+    },
+    "id": "iiw-063-t01-d03",
+    "source": "iiw",
+    "pdf_page": 63,
+    "source_detail_numbers": [
+      "425"
+    ],
+    "reference_image": "assets/details/iiw-063-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo rettangolare · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 63."
+  },
+  "iiw-064-t01-d01": {
+    "family": "wheel",
+    "variant": "",
+    "title": "Forza concentrata su ala e anima",
+    "options": {},
+    "id": "iiw-064-t01-d01",
+    "source": "iiw",
+    "pdf_page": 64,
+    "source_detail_numbers": [
+      "431"
+    ],
+    "reference_image": "assets/details/iiw-064-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Forza concentrata su ala e anima. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 64."
+  },
+  "iiw-064-t01-d02": {
+    "family": "attachment",
+    "variant": "transverse",
+    "title": "Attacco trasversale non portante",
+    "options": {},
+    "id": "iiw-064-t01-d02",
+    "source": "iiw",
+    "pdf_page": 64,
+    "source_detail_numbers": [
+      "511"
+    ],
+    "reference_image": "assets/details/iiw-064-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco trasversale non portante. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 64."
+  },
+  "iiw-064-t01-d03": {
+    "family": "stiffeners",
+    "variant": "",
+    "title": "Irrigidimento trasversale della trave",
+    "options": {},
+    "id": "iiw-064-t01-d03",
+    "source": "iiw",
+    "pdf_page": 64,
+    "source_detail_numbers": [
+      "512"
+    ],
+    "reference_image": "assets/details/iiw-064-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Irrigidimento trasversale della trave. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 64."
+  },
+  "iiw-065-t01-d01": {
+    "family": "planar_attachments",
+    "variant": "",
+    "title": "Attacco piano non portante",
+    "options": {},
+    "id": "iiw-065-t01-d01",
+    "source": "iiw",
+    "pdf_page": 65,
+    "source_detail_numbers": [
+      "513"
+    ],
+    "reference_image": "assets/details/iiw-065-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco piano non portante. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 65."
+  },
+  "iiw-065-t01-d02": {
+    "family": "rib_root",
+    "variant": "full",
+    "title": "Nervatura · piena penetrazione",
+    "options": {},
+    "id": "iiw-065-t01-d02",
+    "source": "iiw",
+    "pdf_page": 65,
+    "source_detail_numbers": [
+      "514"
+    ],
+    "reference_image": "assets/details/iiw-065-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nervatura · piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 65."
+  },
+  "iiw-065-t01-d03": {
+    "family": "rib_root",
+    "variant": "fillet",
+    "title": "Nervatura · penetrazione parziale",
+    "options": {},
+    "id": "iiw-065-t01-d03",
+    "source": "iiw",
+    "pdf_page": 65,
+    "source_detail_numbers": [
+      "515"
+    ],
+    "reference_image": "assets/details/iiw-065-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Nervatura · penetrazione parziale. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 65."
+  },
+  "iiw-066-t01-d01": {
+    "family": "attachment",
+    "variant": "long",
+    "title": "Fazzoletto longitudinale saldato",
+    "options": {},
+    "id": "iiw-066-t01-d01",
+    "source": "iiw",
+    "pdf_page": 66,
+    "source_detail_numbers": [
+      "521"
+    ],
+    "reference_image": "assets/details/iiw-066-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Fazzoletto longitudinale saldato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 66."
+  },
+  "iiw-066-t01-d02": {
+    "family": "gusset",
+    "variant": "round",
+    "title": "Fazzoletto con raccordo curvo",
+    "options": {},
+    "id": "iiw-066-t01-d02",
+    "source": "iiw",
+    "pdf_page": 66,
+    "source_detail_numbers": [
+      "522"
+    ],
+    "reference_image": "assets/details/iiw-066-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Fazzoletto con raccordo curvo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 66."
+  },
+  "iiw-066-t01-d03": {
+    "family": "gusset",
+    "variant": "taper",
+    "title": "Fazzoletto con estremità rastremata",
+    "options": {},
+    "id": "iiw-066-t01-d03",
+    "source": "iiw",
+    "pdf_page": 66,
+    "source_detail_numbers": [
+      "523"
+    ],
+    "reference_image": "assets/details/iiw-066-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Fazzoletto con estremità rastremata. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 66."
+  },
+  "iiw-067-t01-d01": {
+    "family": "gusset",
+    "variant": "taper",
+    "title": "Attacco sul bordo della piattabanda",
+    "options": {},
+    "id": "iiw-067-t01-d01",
+    "source": "iiw",
+    "pdf_page": 67,
+    "source_detail_numbers": [
+      "524"
+    ],
+    "reference_image": "assets/details/iiw-067-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Attacco sul bordo della piattabanda. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 67."
+  },
+  "iiw-067-t01-d02": {
+    "family": "flat_gusset",
+    "variant": "plain",
+    "title": "Fazzoletto piano laterale",
+    "options": {},
+    "id": "iiw-067-t01-d02",
+    "source": "iiw",
+    "pdf_page": 67,
+    "source_detail_numbers": [
+      "525"
+    ],
+    "reference_image": "assets/details/iiw-067-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Fazzoletto piano laterale. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 67."
+  },
+  "iiw-067-t01-d03": {
+    "family": "flat_gusset",
+    "variant": "radius",
+    "title": "Fazzoletto laterale raccordato",
+    "options": {},
+    "id": "iiw-067-t01-d03",
+    "source": "iiw",
+    "pdf_page": 67,
+    "source_detail_numbers": [
+      "526"
+    ],
+    "reference_image": "assets/details/iiw-067-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Fazzoletto laterale raccordato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 67."
+  },
+  "iiw-067-t01-d04": {
+    "family": "hollow_attachment",
+    "variant": "",
+    "title": "Profilo cavo saldato a un elemento",
+    "options": {},
+    "id": "iiw-067-t01-d04",
+    "source": "iiw",
+    "pdf_page": 67,
+    "source_detail_numbers": [
+      "531"
+    ],
+    "reference_image": "assets/details/iiw-067-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Profilo cavo saldato a un elemento. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 67."
+  },
+  "iiw-068-t01-d01": {
+    "family": "lap",
+    "variant": "double",
+    "title": "Coprigiunti con cordoni trasversali",
+    "options": {},
+    "id": "iiw-068-t01-d01",
+    "source": "iiw",
+    "pdf_page": 68,
+    "source_detail_numbers": [
+      "611"
+    ],
+    "reference_image": "assets/details/iiw-068-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Coprigiunti con cordoni trasversali. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 68."
+  },
+  "iiw-068-t01-d02": {
+    "family": "lap",
+    "variant": "side",
+    "title": "Sovrapposizione con cordoni laterali",
+    "options": {},
+    "id": "iiw-068-t01-d02",
+    "source": "iiw",
+    "pdf_page": 68,
+    "source_detail_numbers": [
+      "612"
+    ],
+    "reference_image": "assets/details/iiw-068-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Sovrapposizione con cordoni laterali. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 68."
+  },
+  "iiw-068-t01-d03": {
+    "family": "gusset",
+    "variant": "taper",
+    "title": "Fazzoletto sovrapposto raccordato",
+    "options": {},
+    "id": "iiw-068-t01-d03",
+    "source": "iiw",
+    "pdf_page": 68,
+    "source_detail_numbers": [
+      "613"
+    ],
+    "reference_image": "assets/details/iiw-068-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Fazzoletto sovrapposto raccordato. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 68."
+  },
+  "iiw-068-t01-d04": {
+    "family": "lap",
+    "variant": "section",
+    "title": "Giunto a semplice sovrapposizione",
+    "options": {},
+    "id": "iiw-068-t01-d04",
+    "source": "iiw",
+    "pdf_page": 68,
+    "source_detail_numbers": [
+      "614"
+    ],
+    "reference_image": "assets/details/iiw-068-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Giunto a semplice sovrapposizione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 68."
+  },
+  "iiw-069-t01-d01": {
+    "family": "lap",
+    "variant": "all",
+    "title": "Estremità del copripiatto",
+    "options": {},
+    "id": "iiw-069-t01-d01",
+    "source": "iiw",
+    "pdf_page": 69,
+    "source_detail_numbers": [
+      "711"
+    ],
+    "reference_image": "assets/details/iiw-069-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Estremità del copripiatto. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 69."
+  },
+  "iiw-069-t01-d02": {
+    "family": "lap",
+    "variant": "reinforced",
+    "title": "Copripiatto · estremità rinforzata",
+    "options": {},
+    "id": "iiw-069-t01-d02",
+    "source": "iiw",
+    "pdf_page": 69,
+    "source_detail_numbers": [
+      "712"
+    ],
+    "reference_image": "assets/details/iiw-069-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Copripiatto · estremità rinforzata. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 69."
+  },
+  "iiw-069-t01-d03": {
+    "family": "reinforced_tube",
+    "variant": "",
+    "title": "Rinforzo su tubo rettangolare",
+    "options": {},
+    "id": "iiw-069-t01-d03",
+    "source": "iiw",
+    "pdf_page": 69,
+    "source_detail_numbers": [
+      "721"
+    ],
+    "reference_image": "assets/details/iiw-069-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Rinforzo su tubo rettangolare. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 69."
+  },
+  "iiw-070-t01-d01": {
+    "family": "attachment",
+    "variant": "patch",
+    "title": "Rinforzo con cordoni d’angolo",
+    "options": {},
+    "id": "iiw-070-t01-d01",
+    "source": "iiw",
+    "pdf_page": 70,
+    "source_detail_numbers": [
+      "731"
+    ],
+    "reference_image": "assets/details/iiw-070-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "editorial_from_source_description",
+    "alt": "Rinforzo con cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 70.",
+    "note": "La cella del dettaglio nel PDF è priva di figura. Schema editoriale ricostruito dalla descrizione, non copia di una geometria normativa."
+  },
+  "iiw-070-t01-d02": {
+    "family": "block",
+    "variant": "full",
+    "title": "Flangia massiccia · piena penetrazione",
+    "options": {},
+    "id": "iiw-070-t01-d02",
+    "source": "iiw",
+    "pdf_page": 70,
+    "source_detail_numbers": [
+      "811"
+    ],
+    "reference_image": "assets/details/iiw-070-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Flangia massiccia · piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 70."
+  },
+  "iiw-070-t01-d03": {
+    "family": "block",
+    "variant": "partial",
+    "title": "Flangia massiccia · penetrazione parziale",
+    "options": {},
+    "id": "iiw-070-t01-d03",
+    "source": "iiw",
+    "pdf_page": 70,
+    "source_detail_numbers": [
+      "812"
+    ],
+    "reference_image": "assets/details/iiw-070-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Flangia massiccia · penetrazione parziale. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 70."
+  },
+  "iiw-071-t01-d01": {
+    "family": "flange",
+    "variant": "",
+    "title": "Flangia piana · saldatura di testa",
+    "options": {
+      "mode": "full"
+    },
+    "id": "iiw-071-t01-d01",
+    "source": "iiw",
+    "pdf_page": 71,
+    "source_detail_numbers": [
+      "821"
+    ],
+    "reference_image": "assets/details/iiw-071-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Flangia piana · saldatura di testa. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 71."
+  },
+  "iiw-071-t01-d02": {
+    "family": "flange",
+    "variant": "",
+    "title": "Flangia piana · cordoni d’angolo",
+    "options": {},
+    "id": "iiw-071-t01-d02",
+    "source": "iiw",
+    "pdf_page": 71,
+    "source_detail_numbers": [
+      "822"
+    ],
+    "reference_image": "assets/details/iiw-071-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Flangia piana · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 71."
+  },
+  "iiw-071-t01-d03": {
+    "family": "flange",
+    "variant": "",
+    "title": "Tubo passante · piena penetrazione",
+    "options": {
+      "through": true,
+      "mode": "full"
+    },
+    "id": "iiw-071-t01-d03",
+    "source": "iiw",
+    "pdf_page": 71,
+    "source_detail_numbers": [
+      "831"
+    ],
+    "reference_image": "assets/details/iiw-071-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo passante · piena penetrazione. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 71."
+  },
+  "iiw-071-t01-d04": {
+    "family": "flange",
+    "variant": "",
+    "title": "Tubo passante · cordoni d’angolo",
+    "options": {
+      "through": true,
+      "mode": "fillet"
+    },
+    "id": "iiw-071-t01-d04",
+    "source": "iiw",
+    "pdf_page": 71,
+    "source_detail_numbers": [
+      "832"
+    ],
+    "reference_image": "assets/details/iiw-071-t01-d04.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo passante · cordoni d’angolo. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 71."
+  },
+  "iiw-072-t01-d01": {
+    "family": "flange",
+    "variant": "",
+    "title": "Bocchello · radice rimossa",
+    "options": {},
+    "id": "iiw-072-t01-d01",
+    "source": "iiw",
+    "pdf_page": 72,
+    "source_detail_numbers": [
+      "841"
+    ],
+    "reference_image": "assets/details/iiw-072-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bocchello · radice rimossa. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 72."
+  },
+  "iiw-072-t01-d02": {
+    "family": "flange",
+    "variant": "",
+    "title": "Bocchello · radice non rimossa",
+    "options": {},
+    "id": "iiw-072-t01-d02",
+    "source": "iiw",
+    "pdf_page": 72,
+    "source_detail_numbers": [
+      "842"
+    ],
+    "reference_image": "assets/details/iiw-072-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Bocchello · radice non rimossa. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 72."
+  },
+  "iiw-072-t01-d03": {
+    "family": "tube_solid",
+    "variant": "",
+    "title": "Tubo collegato a barra piena",
+    "options": {},
+    "id": "iiw-072-t01-d03",
+    "source": "iiw",
+    "pdf_page": 72,
+    "source_detail_numbers": [
+      "911"
+    ],
+    "reference_image": "assets/details/iiw-072-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo collegato a barra piena. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 72."
+  },
+  "iiw-073-t01-d01": {
+    "family": "flange",
+    "variant": "",
+    "title": "Tubo su componente con sostegno",
+    "options": {
+      "solid": true,
+      "backing": true
+    },
+    "id": "iiw-073-t01-d01",
+    "source": "iiw",
+    "pdf_page": 73,
+    "source_detail_numbers": [
+      "912"
+    ],
+    "reference_image": "assets/details/iiw-073-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "editorial_from_source_description",
+    "alt": "Tubo su componente con sostegno. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 73.",
+    "note": "La cella del dettaglio nel PDF è priva di figura. Schema editoriale ricostruito dalla descrizione, non copia di una geometria normativa."
+  },
+  "iiw-073-t01-d02": {
+    "family": "flange",
+    "variant": "",
+    "title": "Tubo saldato a un componente",
+    "options": {
+      "solid": true,
+      "mode": "full"
+    },
+    "id": "iiw-073-t01-d02",
+    "source": "iiw",
+    "pdf_page": 73,
+    "source_detail_numbers": [
+      "913"
+    ],
+    "reference_image": "assets/details/iiw-073-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo saldato a un componente. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 73."
+  },
+  "iiw-073-t01-d03": {
+    "family": "tube",
+    "variant": "ring",
+    "title": "Disco saldato su tubo circolare",
+    "options": {},
+    "id": "iiw-073-t01-d03",
+    "source": "iiw",
+    "pdf_page": 73,
+    "source_detail_numbers": [
+      "921"
+    ],
+    "reference_image": "assets/details/iiw-073-t01-d03.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Disco saldato su tubo circolare. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 73."
+  },
+  "iiw-074-t01-d01": {
+    "family": "flat_tube",
+    "variant": "butt",
+    "title": "Tubo appiattito saldato a piastra",
+    "options": {},
+    "id": "iiw-074-t01-d01",
+    "source": "iiw",
+    "pdf_page": 74,
+    "source_detail_numbers": [
+      "931"
+    ],
+    "reference_image": "assets/details/iiw-074-t01-d01.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo appiattito saldato a piastra. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 74."
+  },
+  "iiw-074-t01-d02": {
+    "family": "flat_tube",
+    "variant": "slit",
+    "title": "Tubo intagliato e piastra inserita",
+    "options": {},
+    "id": "iiw-074-t01-d02",
+    "source": "iiw",
+    "pdf_page": 74,
+    "source_detail_numbers": [
+      "932"
+    ],
+    "reference_image": "assets/details/iiw-074-t01-d02.png",
+    "method": "authored_parametric_svg",
+    "scope": "schematic_not_to_scale",
+    "review": "visual_source_comparison",
+    "alt": "Tubo intagliato e piastra inserita. Schema tecnico vettoriale a colori, non in scala. Fonte IIW, pagina PDF 74."
+  }
+}

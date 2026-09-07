@@ -6,8 +6,8 @@ Questa è una base documentale riferita **alle edizioni dei tre PDF forniti**. N
 
 1. Identificare la fonte e il metodo: tensione nominale, tensione geometrica (hot spot), tensione di intaglio efficace o propagazione di cricca.
 2. Cercare il fenomeno o il dettaglio in `data/pages.jsonl` e `data/details.jsonl`.
-3. Aprire il Markdown della pagina e la scheda del dettaglio. Recuperare **insieme** descrizione, requisiti, classi, varianti, note e immagine della tabella completa.
-4. Riscontrare simboli, formule, unità e geometria sull'immagine e nel PDF. Il campo `pdf_page` è sempre un indice a base 1 del file conservato.
+3. Aprire il Markdown della pagina e la scheda del dettaglio. Recuperare **insieme** descrizione, requisiti, classi, varianti, note e celle della tabella completa.
+4. Riscontrare simboli, formule, unità e geometria nel PDF. Le nuove immagini SVG sono schemi non in scala, con proporzioni semplificate; vedere la [guida ai disegni](disegni.md). Il campo `pdf_page` è sempre un indice a base 1 del file conservato.
 5. Citare fonte, edizione, paragrafo o tabella, pagina PDF e ID della scheda. Esplicitare le condizioni mancanti invece di scegliere una categoria per somiglianza visiva.
 
 Esempio di citazione: «IIW, XIII-1965-03/XV-1127-03, aggiornamento giugno 2005, tab. 3.2-1, dettaglio 122, pagina PDF 48; scheda `iiw-048-t01-d01`».

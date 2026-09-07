@@ -30,7 +30,7 @@ Parte dei segnalibri del PDF rimanda alle pagine dell'indice, invece che alle se
 
 ### TABLE-01 — Celle unite e varianti
 
-La rilevazione dei bordi può dividere una tabella in colonne aggiuntive o segmenti. Le schede conservano celle unite, immagine del dettaglio, immagine della riga e tabella completa. I numeri recuperati dalle descrizioni possono includere richiami ad altri particolari. Non viene inferita una corrispondenza numerica fra varianti e classi ambigue. Alcune immagini rappresentano un gruppo di varianti condivise nella fonte.
+La rilevazione dei bordi può dividere una tabella in colonne aggiuntive o segmenti. Le schede conservano celle unite, disegno vettoriale del dettaglio e rimando alla tabella completa nel PDF. I ritagli della prima estrazione restano come provenienza nei dati e nei file di archivio. I numeri recuperati dalle descrizioni possono includere richiami ad altri particolari. Non viene inferita una corrispondenza numerica fra varianti e classi ambigue. Alcune immagini rappresentano un gruppo di varianti condivise nella fonte.
 
 ## Verifica eseguita e limiti
 
@@ -39,3 +39,12 @@ Sono controllati integrità SHA-256 degli originali, copertura delle pagine sele
 ## Diritti e bibliografia
 
 I diritti restano ai rispettivi titolari. Il PDF UNI riporta espressamente limitazioni alla riproduzione e all'uso in rete; la conservazione qui non attribuisce una licenza di riutilizzo. La repository non applica una licenza aperta ai PDF, alle trascrizioni o alle immagini derivate. Vedere la [bibliografia](bibliografia.md).
+
+
+## Ridisegno del catalogo — 7 settembre 2026
+
+Tutte le 245 schede usano SVG nativi a colori; nessuna scheda o pagina di consultazione incorpora screenshot del PDF. I disegni sono schemi semplificati non in scala: quote limite e condizioni non ripetute nell’immagine si leggono nella trascrizione e nel PDF. La corrispondenza è registrata in `data/illustrations.json`; la copertura in `data/illustration-coverage.json`. [Metodo, legenda e limiti](disegni.md).
+
+Il confronto grafico ha permesso di correggere cinque numerazioni della Circolare recuperate male dall’OCR: `ntc-128-t02-d06` → 9; `ntc-132-t01-d01` → 5; `ntc-133-t01-d02` → 3; `ntc-133-t01-d05` → 6; `ntc-133-t01-d06` → 7. Il dato estratto precedente è conservato in `extracted_detail_numbers`. Le classi di fatica non sono state modificate.
+
+Nelle celle IIW 731 e 912 il PDF non presenta una figura. I due schemi sono ricostruzioni editoriali dalla descrizione, dichiarate separatamente nel campo `review` del manifesto e nelle schede. Non sono figure normative recuperate.

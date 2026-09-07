@@ -2,7 +2,7 @@
 
 [Apri il sito](https://marcocrea94.github.io/atlante-fatica-strutture/) · [Guida per AI](docs/guide/lettura-ai.md) · [Bibliografia](docs/guide/bibliografia.md) · [Qualità](docs/guide/qualita.md)
 
-Base documentale in italiano e inglese ricavata dai tre PDF forniti: **196 pagine selezionate, 245 schede illustrate, 64 tabelle di classificazione**. Le immagini sono ritagli delle fonti, con separazione dei particolari quando identificabili; le figure comuni a più varianti mantengono il contesto condiviso.
+Base documentale in italiano e inglese ricavata dai tre PDF forniti: **196 pagine selezionate, 245 schede illustrate, 64 tabelle di classificazione**. Tutte le schede hanno disegni tecnici SVG ridisegnati a colori: elementi metallici blu, saldature arancio e azioni turchesi. Il sito non incorpora screenshot delle norme nelle immagini di consultazione. I PDF completi rimangono la fonte di riferimento. [Leggi la guida ai disegni](docs/guide/disegni.md).
 
 | Fonte | Edizione | Ambito digitalizzato | Pagine | Schede |
 | --- | --- | --- | ---: | ---: |
@@ -14,11 +14,13 @@ Base documentale in italiano e inglese ricavata dai tre PDF forniti: **196 pagin
 
 - `sources/`: tre PDF originali invariati, bibliografia BibTeX.
 - `docs/guide/`: lettura ragionata, formule selezionate in LaTeX, guida per AI e registro delle anomalie.
-- `docs/pages/`: testo Markdown per pagina, riferimenti, metadati YAML e immagine di riscontro.
+- `docs/pages/`: testo Markdown per pagina, riferimenti e metadati YAML.
 - `docs/details/`: schede dei particolari con immagini, classi, requisiti e contesto.
 - `docs/tables/`: tabelle originali e celle in Markdown.
 - `data/`: JSON, JSONL e CSV con provenienza, rettangoli, OCR e stato della trascrizione.
-- `assets/`: immagini delle pagine, delle tabelle, delle righe e dei dettagli.
+- `assets/illustrations/`: 245 disegni SVG e le relative anteprime vettoriali.
+- `data/illustrations.json`: corrispondenza esplicita tra ogni scheda e la sua geometria; `data/illustration-coverage.json`: copertura.
+- Gli altri archivi in `assets/` conservano i ritagli della prima estrazione come riscontro documentale; non sono le illustrazioni mostrate nel sito.
 - `web/`, `scripts/`: sito statico e procedura riproducibile di estrazione e pubblicazione.
 - `llms.txt`, `llms-full.txt`: indice e corpus testuale aggregato per AI.
 
@@ -32,7 +34,7 @@ L'indice PDF è sempre a base 1. Il numero stampato è un campo distinto. Non me
 
 Sono conservati separatamente fonte, estrazione e sintesi editoriale. I simboli del font SymbolMT dell'EC3 sono stati recuperati con una mappa documentata. La Circolare ha richiesto OCR. Le differenze osservate nelle formule C4.2.94–95 sono descritte nel [registro](docs/guide/qualita.md), senza correzioni silenziose.
 
-Le estrazioni non sono convalidate per il calcolo. È stato eseguito un controllo documentale a campione, insieme ai controlli automatici di integrità, copertura e collegamenti. I numeri delle schede rappresentano ritagli e varianti del catalogo, non un conteggio certificato di particolari normativi distinti.
+Le estrazioni non sono convalidate per il calcolo. I disegni sono schemi non in scala e semplificano la rappresentazione: condizioni, quote limite e classi si verificano sul PDF. Le due schede IIW 731 e 912 hanno una cella grafica vuota nella fonte; i loro schemi sono esplicitamente indicati come ricostruzioni editoriali dalla descrizione. I numeri delle schede rappresentano voci e varianti del catalogo, non un conteggio certificato di particolari normativi distinti.
 
 ## Riprodurre il sito
 
@@ -57,7 +59,7 @@ python scripts/build.py
 python scripts/validate.py
 ```
 
-L'OCR è memorizzato in cache con i suoi punteggi di confidenza. I ritagli controllati sono definiti in `data/detail-crops.json`. Il workflow GitHub Pages ricostruisce il sito a ogni modifica su `main`; la cartella generata `site/` non viene versionata.
+L'OCR è memorizzato in cache con i suoi punteggi di confidenza. I ritagli di provenienza sono definiti in `data/detail-crops.json`. `scripts/build.py` rigenera e integra automaticamente i disegni da `data/illustrations.json` prima di costruire il sito; la sola rigenerazione si esegue con `python scripts/redraw_details.py`. Il workflow GitHub Pages ricostruisce il sito a ogni modifica su `main`; la cartella generata `site/` non viene versionata.
 
 ## Fonti e diritti
 

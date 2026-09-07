@@ -6,9 +6,12 @@ const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLo
 const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n};
 function card(r,isPage){
  const a=el('a','card');a.href=isPage?`docs/pages/${r.id}.html`:`docs/details/${r.id}.html`;
- const frame=el('div','card-image'),img=el('img');img.src=r.image;img.alt=isPage?`${names[r.source]}, pagina ${r.pdf_page}`:`Disegno del dettaglio ${r.id}`;img.loading='lazy';img.decoding='async';frame.append(img);
+ const frame=el('div',isPage?'card-page-heading':'card-image');
+ if(isPage){frame.append(el('span','',`PDF ${r.pdf_page}`),el('span','','TESTO E RIFERIMENTI'));}
+ else{const img=el('img');img.src=r.image;img.alt=r.alt||`Disegno del dettaglio ${r.id}`;img.loading='lazy';img.decoding='async';frame.append(img);}
  const body=el('div','card-body'),meta=el('div','card-meta'),badge=el('span','badge');badge.append(el('i',`dot ${r.source}`),document.createTextNode(names[r.source]));meta.append(badge,el('span','',`PDF ${r.pdf_page}`));body.append(meta);
- body.append(el('h2','',isPage?r.section:(r.description||`Dettaglio ${r.table}`).replace(/\s+/g,' ').slice(0,190)));
+ body.append(el('h2','',isPage?r.section:(r.title||r.description||`Dettaglio ${r.table}`).replace(/\s+/g,' ').slice(0,190)));
+ if(!isPage)body.append(el('p','card-reference',`Tabella ${r.table} · Dettaglio ${r.original_detail_numbers.join(', ')||'nella fonte'}`));
  if(isPage)body.append(el('p','card-description',r.text.slice(0,180)));
  const bottom=el('div','card-class');bottom.append(el('b','',isPage?`Stampata ${r.printed_page}`:(r.class_text||`Tabella ${r.table}`).replace(/\s+/g,' ').slice(0,105)),el('span','','→'));body.append(bottom);a.append(frame,body);return a;
 }
@@ -27,7 +30,7 @@ async function init(){
   const responses=await Promise.all([fetch('data/catalog.json'),fetch('data/page-index.json')]);
   if(responses.some(r=>!r.ok))throw Error('catalog');
   [state.details,state.pages]=await Promise.all(responses.map(r=>r.json()));
-  for(const r of state.details)r.search=norm([r.id,names[r.source],r.table,r.class_text,r.description,r.requirements,...r.original_detail_numbers].join(' '));
+  for(const r of state.details)r.search=norm([r.id,names[r.source],r.title,r.table,r.class_text,r.description,r.requirements,...r.original_detail_numbers].join(' '));
   for(const r of state.pages)r.search=norm([r.id,names[r.source],r.section,r.text].join(' '));
   const p=new URLSearchParams(location.search);$('search').value=p.get('q')||'';if(['ntc','ec3','iiw'].includes(p.get('source')))$('source').value=p.get('source');if(p.get('view')==='pages')$('view').value='pages';
   $('corpus-count').textContent=`${state.details.length} schede · ${state.pages.length} pagine`;render();

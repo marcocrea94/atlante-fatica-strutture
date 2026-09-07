@@ -10,6 +10,9 @@ def load(p):return json.loads((ROOT/p).read_text(encoding='utf8'))
 def save(path,text):
  p=OUT/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text,encoding='utf8')
 def main():
+ from redraw_details import main as redraw
+ redraw()
+ import prepare_metadata
  OUT.mkdir(exist_ok=True)
  for folder in ['assets','sources','data']:
   shutil.copytree(ROOT/folder,OUT/folder,dirs_exist_ok=True)
@@ -17,7 +20,7 @@ def main():
  pages=[json.loads(l) for l in (ROOT/'data/pages.jsonl').read_text(encoding='utf8').splitlines()]
  records=load('data/details.json');valid_details={r['id'] for r in records}
  keep=['id','source','pdf_page','printed_page','table','class_text','description','requirements','original_detail_numbers','image']
- save('data/catalog.json',json.dumps([{k:r[k] for k in keep} for r in records],ensure_ascii=False))
+ save('data/catalog.json',json.dumps([{**{k:r[k] for k in keep},'image':r['illustration']['thumbnail'],'full_image':r['image'],'title':r['illustration']['title'],'alt':r['illustration']['alt']} for r in records],ensure_ascii=False))
  save('data/page-index.json',json.dumps(pages,ensure_ascii=False))
  header=(ROOT/'web/index.html').read_text(encoding='utf8').split('<main id="main">')[0]
  footer='</main></div><footer>ATLANTE DELLA FATICA <span>Edizioni dei documenti forniti · Diritti dei rispettivi titolari</span></footer></body></html>'

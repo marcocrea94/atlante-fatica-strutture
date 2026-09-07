@@ -6,6 +6,7 @@
 - [Guida di recupero e citazione](docs/guide/lettura-ai.md)
 - [Mappa dell'analisi e formule selezionate](docs/guide/analisi-fatica.md)
 - [Anomalie e qualità](docs/guide/qualita.md)
+- [Disegni vettoriali: significato e provenienza](docs/guide/disegni.md)
 - [Bibliografia](docs/guide/bibliografia.md)
 
 ## Dati

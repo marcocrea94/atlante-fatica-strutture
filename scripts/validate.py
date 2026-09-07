@@ -2,7 +2,7 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
-import hashlib,json,sys,re
+import hashlib,json,sys,re,xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parents[1]
 def load(p):return json.loads((ROOT/p).read_text(encoding='utf8'))
 class Links(HTMLParser):
@@ -32,8 +32,23 @@ def main():
  if r['fat_steel_mpa']!=125 or r['fat_aluminium_mpa']!=40:errors.append('IIW 122 material mapping')
  e=next(p for p in pages if p['id']=='ec3-023')
  if '≥' not in e['text'] or '∆σ' not in e['text']:errors.append('EC3 Symbol mapping')
+ specs=load('data/illustrations.json')
+ if set(specs)!={r['id'] for r in details}:errors.append('Illustration manifest coverage')
+ for r in details:
+  if not r['image'].endswith('.svg'):errors.append('Detail is not SVG: '+r['id'])
+  if not r.get('source_image') or r['image']==r.get('source_image'):errors.append('Missing distinct source provenance: '+r['id'])
+  if r.get('illustration',{}).get('method')!='authored_parametric_svg':errors.append('Drawing method: '+r['id'])
+  for path in [r['image'],r.get('illustration',{}).get('thumbnail','')]:
+   if not path or not (ROOT/path).is_file():errors.append('Missing drawing: '+str(path));continue
+   try:
+    svg=ET.fromstring((ROOT/path).read_text(encoding='utf8'))
+    if any(e.tag.split('}')[-1] in ['image','script','foreignObject'] for e in svg.iter()):errors.append('Non-native content in '+path)
+    if not any(e.tag.endswith('}path') for e in svg.iter()):errors.append('Empty geometry: '+path)
+   except ET.ParseError:errors.append('Invalid SVG: '+path)
+  if hashlib.sha256((ROOT/r['image']).read_bytes()).hexdigest()!=r['illustration']['sha256']:errors.append('Drawing hash: '+r['id'])
  for f in (ROOT/'site').rglob('*.html'):
   parser=Links();parser.feed(f.read_text(encoding='utf8'))
+  if re.search(r'<img[^>]+src="[^"]*assets/(?:details|rows|tables|pages)/',f.read_text(encoding='utf8')):errors.append('Source screenshot embedded: '+str(f.relative_to(ROOT)))
   for link in parser.links:
    u=urlsplit(link)
    if u.scheme or u.netloc or not u.path:continue
